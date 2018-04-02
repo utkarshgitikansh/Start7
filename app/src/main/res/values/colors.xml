@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="colorPrimary">#4a4a4a</color>
+    <color name="colorPrimaryDark">#007d71</color>
+    <color name="colorAccent">#007d71</color>
+    <color name="white">#ffffff</color>
+    <color name="sienna">#A0522D</color>
+    <color name="black">#000000</color>
+    <color name="luma">#949494</color>
+    <color name="shade">#0b2014</color>
+
+</resources>

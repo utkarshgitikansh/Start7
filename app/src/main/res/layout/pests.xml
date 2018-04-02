@@ -1,0 +1,332 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent" android:layout_height="match_parent"
+    android:background="#00322d">
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#00322d"
+            android:padding="10dp">
+        <ImageView
+            android:layout_width="150dp"
+            android:layout_height="150dp"
+            android:src="@drawable/pests_1"
+            android:layout_marginLeft="25dp"
+
+            />
+        <ImageView
+            android:layout_width="150dp"
+            android:layout_height="110dp"
+            android:layout_marginLeft="190dp"
+            android:layout_marginTop="18dp"
+            android:src="@drawable/pests_2"
+            android:layout_marginRight="35dp"
+            />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Pest : Litchi fruit and shoot borer(Conopomorpha sinensis)"
+            android:textColor="@color/white"
+            android:layout_marginTop="150dp"
+            android:layout_marginLeft="25dp"
+            android:layout_marginRight="25dp"
+            />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Symptoms of damage and management :
+
+1. The insects damage the newly emerged shoot during the September – October resulting in failure of shoot growth, particularly in newly established orchard
+
+2. It punctures the peduncle of fruits (both developing as well as maturing) during April-May cause severe loss through early fruit drop and appearance of excreta/larvae, when fruit is cut/opened after ripening
+
+3. Fully grown larvae come out of the fruit and pupate on the leaf surface under spinning cocoon, are the most apparent stage to diagnose the borer incidence in the field.
+
+4. For the management of shoot borer two spray of systemic insecticide , thiacloprid 21.7 SC or imidacloprid 17.8 SL @ 0.5-0.7 ml/l may be sprayed during September at 15 days interval
+
+5. Spraying of neem oil (4 ml/l) before flowering to avoid egg laying.
+
+6. Spray of lufenuron 5 EC (0.7ml/l) or novaluron 10 EC 1.5 ml/l after fruit attains the clove size (at 10-12 days after fruit set).
+
+7. Spray of cypermethrin 5 EC @% 0.5 ml/l or emamectin benzoate 5% SG (0.4ml/l) during aril (pulp) development stage which comes 25-30 days after fruit set
+
+8. Last spray of novaluron 10 EC 1.5 ml/l or cypermethrin @% EC 0.5 ml/l at about 10 days before expected fruit harvesting
+
+
+Under changing weather condition (intermittent rains, blowing of easterly winds during fruit development) one extra spray with systemic insecticide should be done 15 days before anticipated fruit harvest
+
+Organic Management Schedule:
+
+1. Spraying of neem oil (4 ml/l) before flowering is given to avoid insect egg laying.
+
+2. Two sprays with panchgavya (30 ml/l) made up of cow ghee, urine, dung, curd, milk along with banana and sugarcane juice should be done at clove stage and colour break stage.
+
+3. Two spray with biodynamic pesticide (50ml/l) made up with cow urine, cow-dung, chopped leaves of neem/Calotropis (madar) decomposed in water should be done at aril (pulp) development stage and about 10 days before expected fruit harvest."
+            android:textColor="@color/white"
+            android:layout_marginTop="200dp"
+            android:layout_marginLeft="25dp"
+            android:layout_marginRight="25dp"
+            />
+
+
+        <ImageView
+            android:layout_width="150dp"
+            android:layout_height="150dp"
+            android:layout_marginTop="1250dp"
+            android:src="@drawable/pests_3"
+            android:layout_marginLeft="25dp"
+            android:layout_centerHorizontal="true"
+            />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Pest : Litchi looper(Perixera illepidaria)"
+            android:textColor="@color/white"
+            android:layout_marginTop="1410dp"
+            android:layout_marginLeft="25dp"
+            android:layout_marginRight="25dp"
+            />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Symptoms of damage and management :
+
+1. Major defoliator of litchi and attack is more severe during rainy season
+
+2. The symptoms of leaf injury by the larvae are manifested through rolling of tender leaves and feeding inside
+
+3. The rolled leaves that contain larvae may be removed manually during light infestations to check further infestation
+
+4. Pruning of twigs in June-July followed by application of 4 kg of castor and 1 kg of neem cake followed by two spray of novaluron 10 EC @ 1.5 ml/l or spinosad 45SC 0.4 ml/l or fipronil 5SC 2ml/l at 15 days interval is effective in controlling lepidopteran defoliators in litchi ecosystem."
+            android:textColor="@color/white"
+            android:layout_marginTop="1462dp"
+            android:layout_marginLeft="25dp"
+            android:layout_marginRight="35dp"
+            />
+
+        <ImageView
+            android:layout_width="150dp"
+            android:layout_height="150dp"
+            android:layout_marginTop="1820dp"
+            android:src="@drawable/pests_4"
+            android:layout_marginLeft="25dp"
+            android:layout_centerHorizontal="true"
+            />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Pest : Leaf folder(Pletypeplus aprobola)"
+            android:textColor="@color/white"
+            android:layout_marginTop="1980dp"
+            android:layout_marginLeft="25dp"
+            android:layout_marginRight="25dp"
+            />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Symptoms of damage and management :
+
+1. Major defoliator of litchi and attack is more severe during rainy season
+
+2. The symptoms of leaf injury by the larvae are manifested through rolling of tender leaves and feeding inside
+
+3. The rolled leaves that contain larvae may be removed manually during light infestations to check further infestation
+
+4. Pruning of twigs in June-July followed by application of 4 kg of castor and 1 kg of neem cake followed by two spray of novaluron 10 EC @ 1.5 ml/l or spinosad 45SC 0.4 ml/l or fipronil 5SC 2ml/l at 15 days interval is effective in controlling lepidopteran defoliators in litchi ecosystem."
+            android:textColor="@color/white"
+            android:layout_marginTop="2030dp"
+            android:layout_marginLeft="25dp"
+            android:layout_marginRight="35dp"
+            />
+
+        <ImageView
+            android:layout_width="150dp"
+            android:layout_height="150dp"
+            android:layout_marginTop="2400dp"
+            android:src="@drawable/pests_5"
+            android:layout_marginLeft="25dp"
+            android:layout_centerHorizontal="true"
+            />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Pest : Litchi looper(Perixera illepidaria)"
+            android:textColor="@color/white"
+            android:layout_marginTop="2570dp"
+            android:layout_marginLeft="25dp"
+            android:layout_marginRight="25dp"
+            />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Symptoms of damage and management :
+
+1. Incidence of this pest has been observed from July to December however, highest population in September- October
+
+2. Attacks tender leaves in mass and defoliate the new shoots. In severe form it’s completely defoliate the newly emerged flush. Larvae can be handpicked to reduce the incidence
+
+3. Loopers pupate at the leaf surface and can be seen easily therefore, may also be removed manually Management will be same as leaf folder"
+            android:textColor="@color/white"
+            android:layout_marginTop="2620dp"
+            android:layout_marginLeft="25dp"
+            android:layout_marginRight="35dp"
+            />
+
+        <ImageView
+            android:layout_width="150dp"
+            android:layout_height="150dp"
+            android:layout_marginTop="2900dp"
+            android:src="@drawable/pests_5"
+            android:layout_marginLeft="25dp"
+            />
+        <ImageView
+            android:layout_width="150dp"
+            android:layout_height="150dp"
+            android:layout_marginTop="2900dp"
+            android:src="@drawable/pests_6"
+            android:layout_marginLeft="190dp"
+            />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Pest : Leaf cutting weevil(Myllocerus undecimpustulatus , Apoderus blandus)"
+            android:textColor="@color/white"
+            android:layout_marginTop="3060dp"
+            android:layout_marginLeft="25dp"
+            android:layout_marginRight="25dp"
+            />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Symptoms of damage and management :
+
+1.It attacks leaves, shoot and flower. Adult weevils congregate on the tender leaves and nibble irregular holes on the leaves and sometimes consume the entire leaf leaving the midrib only.
+
+2. The damage is more severe at the time of shoot emergence as it prefers newly leaves therefore; newly established orchard/nurseries are more vulnerable for the attack of leaf cutting.
+
+3. Adult weevils can be removed from plants by vigorously shaking a branch over an open, inverted umbrella.
+
+4. The collected weevils can then be dumped into a container of soapy water.
+
+5. Two spraying of chlorfenapyr 10 EC @ 3ml/l or buprofezin 25 SC @1.5ml/l or imidacloprid 17.8 SL @0..5ml/l is effective against weevils"
+            android:textColor="@color/white"
+            android:layout_marginTop="3110dp"
+            android:layout_marginLeft="25dp"
+            android:layout_marginRight="35dp"
+            />
+
+
+        <ImageView
+            android:layout_width="150dp"
+            android:layout_height="150dp"
+            android:src="@drawable/pests_8"
+            android:layout_alignBottom="@+id/textView"
+            android:layout_alignLeft="@+id/imageView3"
+            android:layout_alignStart="@+id/imageView3"
+            android:layout_marginBottom="36dp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Pest : Litchi bug(Tessaratoma javanica)"
+            android:textColor="@color/white"
+            android:layout_marginTop="3720dp"
+            android:layout_marginLeft="25dp"
+            android:layout_marginRight="25dp"
+            android:id="@+id/textView" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Symptoms of damage and management :
+
+1. Both adults and nymph suck cell sap mostly on tender plant parts such as growing buds, leaf petioles, fruit stalks and tender branches of litchi tree
+
+2. In case of severe infestation drying of growing buds and tender shoots has been observed resulting poor fruit set. The bugs when crowd on the developing fruit, it causes the fruits to fall a couple of week later Management will be same as weevils"
+            android:textColor="@color/white"
+            android:layout_marginTop="3770dp"
+            android:layout_marginLeft="25dp"
+            android:layout_marginRight="35dp"
+            />
+        <ImageView
+            android:layout_width="150dp"
+            android:layout_height="150dp"
+            android:layout_marginTop="4020dp"
+            android:src="@drawable/pests_9"
+            android:layout_marginLeft="25dp"
+            android:layout_centerHorizontal="true"
+            android:id="@+id/imageView3" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Pest : Bark eating caterpillar(Indarbela quadrinotata)"
+            android:textColor="@color/white"
+            android:layout_marginTop="4180dp"
+            android:layout_marginLeft="25dp"
+            android:layout_marginRight="25dp"
+            />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Symptoms of damage and management :
+
+1. Damage is done by caterpillar, which bore into trunk, main stems and thick branches of litchi tree, destroying tissues resulting affecting growth and fruiting capacity of the tree
+
+2. Caterpillars remain within the bored holes during day come out in night and feed upon the bark. Generally, older trees are more susceptible
+
+3. Infestation may be noticed by the presence of ribbons of wood chips, frass and silken thread over the bark surface
+
+4. Remove and burn the ribbon like silken webs that may contain the caterpillars hiding under them.
+
+5. The caterpillars can be killed by inserting an iron spoke into the tunnels. This insect has also been successfully controlled by injecting kerosene oil into the tunnel by means of a syringe and then sealing the opening of the tunnel with mud.
+
+6.Remove the webs from tree trunks and put emulsion of DDVP (0.05%) in each hole and plug them with mud. Mix chlorpyriphos 2 ml per litre of water and apply the bark eating caterpillar infested area with a brush at 15 days interval."
+            android:textColor="@color/white"
+            android:layout_marginTop="4230dp"
+            android:layout_marginLeft="25dp"
+            android:layout_marginRight="35dp"
+            />
+
+        <ImageView
+            android:layout_width="150dp"
+            android:layout_height="150dp"
+            android:layout_marginTop="4750dp"
+            android:src="@drawable/pests_10"
+            android:layout_marginLeft="25dp"
+            android:layout_centerHorizontal="true"
+             />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Pest : Mealy bug(Drosicha mangiferae)"
+            android:textColor="@color/white"
+            android:layout_marginTop="4910dp"
+            android:layout_marginLeft="25dp"
+            android:layout_marginRight="25dp"
+            />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Symptoms of damage and management :
+
+1. Damage is caused by nymphs and female adult by sucking the sap from tender shoot and panicles, resulting poor fruit setting. In severe infestation, attacked shoot dry up and in case of young plants stunted growth can be seen
+
+2. Five centimeter broad sticky substance or greasy band or alkthene sheet may be applied half a meter above ground in the first week of December to prevent nymphs from climbing trees
+
+3. After attack, tree may be sprayed with imidacloprid 17.8 SL 0.5 ml/l or dimethoate 30 EC 1.5 ml/l. Spraying must be done before 15 day of flower opening to save pollinators."
+            android:textColor="@color/white"
+            android:layout_marginTop="4960dp"
+            android:layout_marginLeft="25dp"
+            android:layout_marginRight="35dp"
+            android:layout_marginBottom="20dp"
+            />
+
+
+    </RelativeLayout>
+
+</ScrollView>

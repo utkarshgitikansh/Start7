@@ -1,0 +1,568 @@
+<resources>
+    <string name="app_name">Start7</string>
+    <string name="title_activity_login">Sign in</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password (optional)</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="notice_1"><u>1.Walk-in Interview for SRF under BRNS project scheduled on 12 September 2017 is postponed till further information</u></string>
+    <string name="notice_2"><u>2.Temporary closure of office due to flood.</u></string>
+    <string name="notice_3"><u>3.Walk in interview for JRF under BRNS Project scheduled on 12th September 2017</u></string>
+    <string name="notice_4"><u>4.Filing up of post of Technical Officer (T6)</u></string>
+    <string name="notice_5"><u>5.Application Form for Allotment of Accommodation in NRCL Guest House</u></string>
+    <string name="notice_6"><u>6.Steps-to-search-NRCL-tender-on-GOI-EPROCUREMENT-PORTAL</u></string>
+    <string name="notice_7"><u>7.Guidelines for ICAR Extramural Projects</u></string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="name">ICAR - NRCL</string>
+    <string name="news_1"><u>1.Zero budget natural farming promoted under Mera Gaon Mera Gaurav programme at Kankatti, East Champaran.</u></string>
+    <string name="news_2"><u>2.Field day celebrated at Kankatti, East Champaran under Mera Gaon Mera Gaurav Programme.</u></string>
+    <string name="news_3"><u>3.ICAR Short Course on Trichoderma organized at NRCL, Muzaffarpur.</u></string>
+    <string name="news_4"><u>4.NRCL celebrated Agriculture Education Day on 11 Sep. 2016.</u></string>
+
+    <string name="read"><u>Read more</u></string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+    <string name="welcome_string">"Welcome to National Research Centre on Litchi
+                                     An ISO 9001:2008 CERTIFIED INSTITUTE"
+    </string>
+    <string name="director">VISHAL NATH(Director)</string>
+
+    <string name="institute">The Institute</string>
+    <string name="tender_1"><u>1.Auction Notice of Litchi Fruits on trees at NRCL 20.04.17.</u></string>
+    <string name="tender_2"><u>2.Extension in date for suibmission of tender Work contract-Group-III.</u></string>
+    <string name="tender_3"><u>3.Quotation for Twin Litchi Pulper.</u></string>
+    <string name="tender_4"><u>4.Auction notice for old store items 2016-17 and tender papers.</u></string>
+    <string name="tender_5"><u>5.Tender notice for Security Contract -2017.</u></string>
+    <string name="tender_6"><u>6.Tender notice for Work Contract (Estate)-III 2017.</u></string>
+    <string name="tender_7"><u>7.Specification For Furnishing Scientist visiting Home (Furniture electrical items).</u></string>
+    <string name="tender_8"><u>8.Tender Notice for Furnishing Scientist Visiting Home (Furnitture electrical items).</u></string>
+    <string name="tender_9"><u>9.Specification of equipment 07-Dec-2016.</u></string>
+    <string name="tender_10"><u>10.Tender notice for equipment dated 07-12-2016.</u></string>
+    <string name="tender_11"><u>11.Equipment Specification 06-10-2016.</u></string>
+    <string name="tender_12"><u>12.Tender notice and Tender document 06-10-2016.</u></string>
+    <string name="tender_13"><u>13.Tender notice for purchase of equipments 15.07.2016.</u></string>
+    <string name="tender_14"><u>14.Specification of equipment tender notice 15.07.2016.</u></string>
+    <string name="tender_15"><u>15.Tender notice and tender document -Works contract Group-I.</u></string>
+    <string name="tender_16"><u>16.Steps-to-search-NRCL-tender-on-GOI-EPROCUREMENT-PORTAL.</u></string>
+
+    <string name="recruit_1"><u>1.Filing up of Sr. Technical Officer (T6) on deputation basis.</u></string>
+    <string name="recruit_2"><u>2.Result of walk in interview held for YP on 15 Dec 2016.</u></string>
+    <string name="recruit_3"><u>3.DECLARATION OF RESULT :- Selected Candidate for Young Professionals-1 and 11 in the basis of work in- interview held on 08th November, 2006.</u></string>
+    <string name="recruit_4"><u>4.Walk-in-interview for Young Professional-I and II, date of interview 08.11.2016.</u></string>
+    <string name="recruit_5"><u>5.Click here to download Syllabus/scheme of examination for Technician T-1.</u></string>
+    <string name="recruit_6"><u>6.Click to download Admission Certificate for recruitment to the post of T-1 scheduled on 04th Sept 16.</u></string>
+    <string name="recruit_7"><u>7.Instructions to the candidates appearing for Written Examination for Technician, T-1 scheduled on 04th September 2016.</u></string>
+    <string name="recruit_8"><u>8.Notice_Date and Venue of Examination_Technician, T-1 (Field/Farm and Lab tech).</u></string>
+    <string name="recruit_9"><u>9.List of Shortlisted candidates for Written Examination for Technician, T-1 scheduled on 04thSeptember 2016.</u></string>
+    <string name="recruit_10"><u>10.Notice for the candidates appearing for T-1 Examination scheduled on 04th Sep 2016.</u></string>
+    <string name="recruit_11"><u>11.Answer Key of Written Examination of Technical (T-3) held on 17th July 2016.</u></string>
+    <string name="recruit_12"><u>12.Examination Notice for recruitment of Technical Assistant T-</u></string>
+    <string name="recruit_13"><u>13.Technical assistant T-3 Recruitment Guidelines.</u></string>
+    
+    <string name="home_text_1"><u>1. Winter School on “Understanding Flowering Mechanism and Management of Bearing in Sub-tropical Fruits” , 1st – 21st December, 2017</u></string>
+
+
+    <string name="intro">Welcome to National Research Centre on Litchi\nAn ISO 9001:2008 CERTIFIED INSTITUTE</string>
+    <string name="home_1"><u>1. ISO 9001:2008</u></string>
+    <string name="litchi">Litchi: the fruit</string>
+    <string name="home_2"><u>2. An Introduction</u></string>
+    <string name="home_3"><u>3. Organogram</u></string>
+    <string name="home_4"><u>4. Infrastructure</u></string>
+    <string name="home_5"><u>5. Governance</u></string>
+    <string name="home_6"><u>6. Research Projects</u></string>
+    <string name="home_7"><u>7. Technology Developed</u></string>
+    <string name="home_8"><u>8. Annual Reports</u></string>
+    <string name="home_9"><u>9. Research Achievements</u></string>
+    <string name="home_10"><u>10. Vision 2030</u></string>
+    <string name="home_11"><u>11. Vision 2050</u></string>
+    <string name="litchi1"><u>1. About the fruit</u></string>
+    <string name="litchi2"><u>2. How to plant litchi</u></string>
+    <string name="litchi3"><u>3. Production of litchi in India: Stats</u></string>
+
+
+    <string name="home_21"><u>1. Diagnosis of major diseases of litchi</u></string>
+    <string name="home_22"><u>2. Advisory on management of fruit borers of litchi (English)</u></string>
+    <string name="home_23"><u>3. फल बेधक कीट के प्रकोप से लीची के फलों को कैसे बचाएँ (हिन्दी में)</u></string>
+    <string name="home_24"><u>4. Likely attack of Loopers pest in litchi during september to November</u></string>
+    
+    
+    
+    <string name="error_invalid_email">1.Walk-in Interview for SRF under BRNS project scheduled on 12 September 2017 is postponed till further information</string>
+    <string name="main_1">\tभा. कृ. अनु. प. – राष्ट्रीय लीची अनुसंधान केंद्र \nICAR - National Research Centre On Litchi</string>
+    <string name="main_2">भारतीय कृषि अनुसंधान परिषद \nIndian Council Of Agricultural Research</string>
+    <string name="read_more_22">The NRCL is premier national institute for conducting research and developments on litchi and provide leadership at national level.
+        It also acts as a national repository of information on litchi production, processing, value addition, and provides consultancy services to end users\n\nThe
+        ICAR-National Research Centre on Litchi was established on 6th June, 2001 at the fag end of IXth Plan by Ministry of Agriculture, Government of India under
+        the aegis of Indian Council of Agricultural Research to act as a nodal institution for research and development on litchi in India in a mission mode approach.
+        The Centre started functioning from 2002 with budgetary allocation and the first batch of two scientists joining the Centre in March, 2002. The lease deed was
+        signed on 25th June, 2002 between the ICAR and Government of Bihar to transfer 100 acres of land to the Centre at Mushahri. The Centre was strengthened during
+        2005 and onwards by redeploying scientific, technical and supporting staff along with administrative support and financial assistance for developing infrastructural
+        facilities and to carry out the research work. The Centre is located at Mushahari, on Muzaffarpur-Pusa Road at 2605’87’’ N latitude, 85026’64’’ E longitude at an
+        elevation of 210 m. It is about eight km from Muzaffarpur railway station. The area has typically subtropical climate with an average annual rainfall of 1100-1300 mm.
+        The soil conditions of the area are alluvial with sandy loam texture and are calcareous having pH 7.5 – 8.0. The research farm of the centre is spread over an area of
+        40 ha.\n\nCurrently, the Centre has 14 scientific, 3 technical, 8 administrative and 3 supporting staff against the sanctioned strength of 15 scientific, 14 technical,
+        12 administrative and 10 supporting staff. The sanctioned scientific position represent the various disciplines of Horticulture, Plant Breeding, Genetics, Soil Science,
+        Biotechnology, Physiology, Pathology, Entomology, Economics, Extension and Computer Applications.\n\n<b>NRCL Vision :</b>\n\nTo develop ICAR-NRCL as centre of excellence
+        in the field of litchi research, extension and skill development for providing livelihood security and economic prosperity to litchi growers and traders\n\n<b>NRCL Mission :</b>
+        \n\nHarnessing science and technology by interfacing research and extension activities for enhanced quality production, productivity, processing and use diversification for
+        sustained litchi production, industry and trade.\n\n<b>NRCL Mandate :</b>\n\nTo act as a repository of litchi plant genetic resources and to provide single window solution
+        for crop production and post-harvest management to the growers, industries and exporters in mission mode.\n\n<b>NRCL Functions :</b>\n\n1)\tTo undertake basic, strategic
+        and applied research for enhancing productivity, quality and utility of litchi.\n2)\tTo act as repository of genetic resources and scientific information on all aspects of litchi.
+        \n3)\tTo undertake front-line demonstration in newer technologies and to impart training for upgrading scientific knowledge.\n\n<b>NRCL Infrastructure Facilities :</b>\n\nA number
+        of equipments were procured such as GCMS, AAS, UV-VIS spectrophotometer, leaf area meter, portable photosynthesis meter, horizontal electrophoresis unit, nitrogen analyser, flame
+        photometer, trinocular phase-contrast upright microscope, trinocular compound microscope, stereo binocular microscope, ultracentrifuge, modified atmospheric packaging unit,
+        hydro-cooling system, forced-air cooling system, litchi grading machine, plastic strip sealing and packaging machine, litchi peeling machine, cool storage chamber, bottle washing machine,
+        Litchi harvester cum pruner, power sprayer and mist chamber and a state-of-art glasshouse facility for different research and supportive activities at the centre by establishing crop production,
+        protection and post harvest management laboratories besides central instrumentation facility.\n\n<b>NRCL Library :</b>\n\nThe library is has a good collection of literature in the field of
+        litchi cultivation and other related fields including Hindi literature in horticulture and allied fields. It has 1340 books including recent editions of 400 reference books, 16 encyclopaedias
+        and 30 vol. of Britannica. Currently, 11 Indian and 11 international journals are being subscribed. The centre has published 7 technical bulletins and 9 extension bulletins that are available
+        in the library for researchers, extension workers and farmers.\n\n<b>NRCL Agricultural Knowledge Management Unit :</b>\n\nThe centre has an Agricultural Knowledge Management Unit (AKMU) to
+        manage the knowledge database with software of international repute such as SAS, FMS-MIS, CAB abstracts, horticultural abstract and other computing software available through LAN system as
+        shared resources. It has its own server. Fast internet connectivity has been provided through NKN which is available to users 24×7 throughout the weekdays. The website (http://www.nrclitchi.org/)
+        is accessed worldwide by many users.\n\n
+
+
+
+    </string>
+
+    <string name="achievements"><b>Genetic Resource Management and Crop Improvement</b>\n\n1)\tFifty two accessions of litchi and allied species were collected from indigenous sources and were planted in the
+        germplasm repository.\n\n2)\tEight cultivars of litchi were also collected from Spain under FAO Project\n\n3)\tThe molecular characterization of 20 litchi cultivars is in progress in collaboration
+        with CISH, Lucknow using RAPD and ISSR markers\n\n4)\tFifty six superior clones of litchi were identified and propagated for their detailed evaluation.\n\n5)\tThe hybrid progeny involving litchi cvs.
+        Shahi, China, Bedana and Kasba were developed and are under evaluation.\n\n6)\tAbout 400 seedlings of cv. Shahi and China are under evaluation. Further, seedlings are also being raised from the
+        selected clones.\n\n<b>Crop Production</b>\n\n1)\tPlantation of various experimental blocks with most common cvs. Shahi and China has been completed in 15 ha area to conduct different trials.
+        A mother block of 1.5 ha, germplasm block of 3 ha, seedling block of 2 ha has also been planted for conducting different studies at the Centre.\n\n2)\tRejuvenation technique for old senile orchard
+        has been standardized\n\n3)\tApplication of 75:50:100 g NPK/plant/year in cv. Shahi and 100:50:100 g NPK/plant/year in cv. China has been found most effective for vegetative growth of plants.\n\n4)\t
+        Inter-space utilization protocol for young non-bearing litchi orchards has been developed with (1) Litchi-Banana (2) Litchi–Cowpea-Potato-Onion (3) Litchi-Okra-Gladiolus models with high B:C ratio of
+        2.38, 1.53 and 1.37, respectively.\n\n5)\tFoliar application of planofix @ 2.5 ml/10 L or NAA 20 mg/ L of water one week after fruit set, significantly checked the fruit drop.\n\n6)\tTwo spray of KNO3
+        (4% and 2%) after 20 and 30 days of fruit set delayed colour-break by 5 days in litchi cv. Shahi.\n\n7)\tBagging of individual litchi bunches in cv.Shahi with perforated butter paper was found the
+        best for production more class-I category fruits with reduced sun-burn and cracked fruits.\n\n8)\tCovering plants with 30% green and 50% white shade net extended the harvesting period up to 16 days
+        with slight decrease in TSS and acidity.\n\n9)\tBiodiversity of arbuscular mycorrhiza in litchi rhizosphere was studied. Three species of Glomus was the found predominantly associated.\n\n<b>Crop Protection
+        </b>\n\n1)\tMajor pests of litchi prevalent in the area were identified. Borer complex of litchi are most important as they extensively damage the developing and matured fruits reducing the yields and
+        marketability.\n\n2)\tTrichogramma @50,000 eggs/ha at flower initiation and Nimbicidine @0.5% at fruiting, Cypermethrin @0.005% and Nimbicidine @0.5% were effective in minimizing the damage caused by fruit borer.
+        \n\n3)\tThree new threats of pests in litchi were identified viz., red weevil (Apoderus blandus), semilooper (Anisodes illepidaria) and bagworm (Eumeta crameri).\n\n</string>
+
+
+    <string name="vishal_nath"><ol class="list list-ordened list-ordened-style-3 pl-sm">
+<li>Nath V., Singh I.S., Kumar S. and Pandey A.K. 1992. Effect on post-harvest treatments on shelf-life of aonla fruits.and ;<em>Hort.and ;</em>24(1-2): 79-82.</li>\n\n
+<li>Nath V., Singh I.S. and Kumar S. 1992. Studies on storage of aonla fruits.and ;<em>Narendra Deva J. Agris. Res.and ;</em>7(1): 121-126.</li>\n\n
+<li>Nath V., Singh I.S. and Kumar S. 1992. Evaluation of aonla cultivars for their shelf-life at ambient temperature.and ;<em>Narendra Deva J. Agric. Res</em>. 7(1): 117-120.</li>\n\n
+<li>Kumar S., Nath V., Singh I.S. and Nainwal N.C. 1992. Preliminary studies on storage of aonla fruits in salt solution.and ;<em>Hort.</em>and ;24(1-2): 83-86.</li>\n\n
+<li>Kumar S. and Nath V. 1992. Storage stability of aonla fruits at ambient temperature.and ;<em>New Agriculturist</em>and ;3(1): 79-82.</li>\n\n
+<li>Kumar S. and Nath V. 1993. Storage stability of aonla fruitsandndash;a comparative study of zero-energy cool chamber versus room temperatureand ;<em>Food Sci. Technol</em>. 30(3): 202-203.</li>\n\n
+<li>Nath V. and Pandey A.K. 1996. Storage stability of aonla products at ambient temperature.and ;<em>New Agriculturist</em>7(1): 73-78.</li>\n\n
+<li>Nath V. 1996. Processing technology of aonla for beverage industry.and ;<em>New Agriculturist</em>and ;7(2): 143-46.</li>\n\n
+<li>Nath V., Singh R.S. and Pareek O.P. 1996. Variability of Boradi in Western Rajasthan.<em>and ;Agric.and ;</em>20(1-2): 83-86.</li>\n\n
+<li>Pareek O.P., Nath V., Singh R.S. and Sharma B.D. 1996. Regeneration ofand ;<em>Prosopis cineraria</em>and ;through cutting.<em>Applied Hort.</em>and ;2(Accepted).</li>\n\n
+<li>Nath V., Singh R.S., Bhargava R. and Pareek O.P. 1998. Note on patch and I-budding of ber (<em>Ziziphus mauritianaand ;</em>) onand ;<em>boradi</em>and ;(<em>Z.mauritiana</em>and ;var.and ;<em>rotundifolia</em>) Rootstock.and ;<em>Curr. Agric</em>. 22(1-2):115-116.</li>\n\n
+<li>Nath V. and Bhargava R. 1998. Shelf life of ber (<em>Ziziphus mauritianaand ;</em>Lamk<em>)and ;</em>as affected by post harvest treatments and storage environment.and ;<em>Hort</em>. 30(3-4): 158-163.</li>\n\n
+<li>Nath V. and Sharma R.K. 1998. Screening of aonla (<em>Emblica officinalisand ;</em>Caertn) cultivars for processing.<em>and ;Hort</em>. 30(1-2): 76-77.</li>\n\n
+<li>Pareek O.P, Sharma B.D., Nath V., Singh R.S. and Bhargava R. 1999. Effect of nitrogen and phosphorus fertilizers and organic manure on growth and yield of Indian aloe (<em>Aloe barbadensisand ;</em>)and ;<em>Annals of Arid Zoneand ;</em>38(1): 85-86.</li>\n\n
+<li>Nath V., Singh R.S., Shukla A.K. and Vashishtha B.B. 1999. Cactus pear (<em>Opuntia ficus indica</em>) as an emerging fruit crop for arid and semi-arid regions of India.and ;<em>Curr. Agric</em>. 23(1-2):49-58.</li>\n\n
+<li>Saroj P.L., Nath V. and Vashishtha B.B. 2000. Effect of polycontainers on germination, seedling vigor, root characters and budding success in aonlaand ;<em>J. Hort.and ;</em>57(4): 300-304.</li>\n\n
+<li>Nath V., Pareek O.P., Saroj P.L. and Sharma B.D. 2000. Biodiversity of khejri in arid region of Rajasthan: I- Screening of Khejri for culinary value.and ;<em>Indian J. Soil Cons.</em>and ;28(1):43-47.</li>\n\n
+<li>Bhargava R., Nath V. and Pareek O.P. 2000. Note on role of plant growth inhibitors in sprouting of Capparis deciduas cuttings.and ;<em>Agric.</em>and ;24(1-2): 131-133.</li>\n\n
+<li>Shukla K., Pathak R.K., Tiwari R.P. and Nath V. 2000. Influence of irrigation and mulching on plant growth and leaf nutrient status of aonla (<em>Emblica officinalis</em>) under sodic soil.and ;<em>J. Appl.Hort.</em>and ;2(1): 37-38.</li>\n\n
+<li>Nath V., Saroj P.L., Singh R.S., Bhargava R. and Pareek O.P. 2000.and ;<em>In-situand ;</em>establishment of ber orchard under hot arid ecosystem of Rajasthan.and ;<em>J. Hort</em>. 57(1): 21-26.</li>\n\n
+<li>Nath V., Pathak R.K., Singh H.S., Dwivedi R., Gangopadhyaya K.K. and Rai M. 2000. Farmersandrsquo; felt constraints and research need in aonla production.and ;<em>Hort.</em>and ;32(1): 10-19.</li>\n\n
+<li>Nath V. and Bhargava R. 2000. Flowering scenario in commercial cultivars of jujube (<em>Ziziphus mauritianaand ;</em>) Under Indian arid ecosystem.and ;<em>J. Appl. Hort.</em>and ;2(2): 98-101.</li>\n\n
+<li>Nath V., Singh B. and Rai M. 2001. Horticultural biodiversity in Santhal parganas.and ;<em>J. Plant Gen. Res.</em>and ;14(1): 92-98.</li>\n\n
+<li>Rai M., Pan R.S., Krishna Prasad V.S.R., Nath V. and Singh A.K. Plant genetic resources management of horticultural crops in eastern India.<em>and ;Ind. J. Plant Gen. Res.and ;</em>14(3): 331-336.</li>\n\n
+<li>Rai M., Nath V., Das B. and Kumar A. 2001. Cluster characteristics of litchi cultivars under eastern Indian conditions.and ;<em>Hort.</em>and ;32(2):111-117.</li>\n\n
+<li>Nath V. and Bhargava R. 2001. Ripening pattern of commercial jujube (<em>Ziziphus mauritiana</em>) cultivars in Indian arid ecosystem.and ;<em>J. Appl. Hort.and ;</em>3(1): 44-47.</li>\n\n
+<li>Rai M., Singh R.V., Nath V., Singh A.K and Pan R.S. 2001. Horticulture Development in Jharkhand B.A.U Souvenir: Convocation: 53-59.</li>\n\n
+<li>Singh R.S., Nath V. and Pareek O.P. 2001. Performance of Cactus pear (<em>Opuntia ficus-indica</em>and ;(L.) Mill) genotypes under hot and environment.and ;<em>Haryana J. Hort. Sci.</em>and ;30(1 andamp;2): 20-22.</li>\n\n
+<li>Rai M., Nath V., Das B. and Singh H.P. 2002. Changes in yield pattern during junior adult bearing stage of litchi cultivars in plateau region of eastern India.and ;<em>Orissa J. Hort.</em>and ;30 (1) 8-12.</li>\n\n
+<li>Nath V. and Bhargava R. 2002. Variation in maturity period of ber- as influenced by temperature differences and morning relative humidity under arid ecosystem.and ;<em>Hort.</em>and ;34(2):153-160.</li>\n\n
+<li>Rai M., Nath V., Das B. and Jana B.R. 2002. Genetic variability in fruit characters of litchi under eastern Indian condition.and ;<em>Hort.</em>and ;34(1): 39-43.</li>\n\n
+<li>Rai M., Nath V. and Das B. 2002. Heat unit summationandndash; An index for predicting fruit maturity in litchi (<em>Litchi chinensis</em>).and ;<em>J. Hort.</em>and ;59(1): 34-38.</li>\n\n
+<li>Rai M., Dey P., Gangopadhyaya K.K., Das B., Nath V., Reddy N.N. and Singh H.P. 2002. Influence of nitrogen, phosphorus and potassium on growth parameters, leaf nutrient composition and yield of litchi (<em>Litchi chinensis</em>).and ;<em>J. Agric. Sci.and ;</em>72(5): 267-270.</li>\n\n
+<li>Rai M., Das B., Nath V., Kumar M. and Rai R.K. 2002. Fruit characteristics of litchi genotypes under Chhotanagpur conditions.and ;<em>Orissa J Horti.</em>and ;30(2): 1-5.</li>\n\n
+<li>Nainwal N.C., Nath V., Das B. and Joshi N. 2003. Postharvest handling of fresh litchi for export.and ;<em>Hort.</em>and ;35(1): 1-10.</li>\n\n
+<li>Rai M., Nath V., Das B., Rai A. and Kumar M. 2003. Evaluation of Jackfruit genotypes for yield and quality attributes under Eastern Indian condition.and ;<em>Orissa J. Hort.</em>and ;31(1): 1-6.</li>\n\n
+<li>Nath V., Das B., Rai M. and Rajesh R.K. 2003. Centre opening induces stereo fruiting in Litchi cv. Shahi.and ;<em>Hort.and ;</em>35(2):219-220.</li>\n\n
+<li>Nath V., Das B., Rai M., Dey P., Kumar S. and Kumar M. 2003. Mango based cropping system for uplands of sub humid plateau region of Eastern India.and ;<em>Hort.and ;</em>35(2):142-145.</li>\n\n
+<li>Rai M., Nath V., Das B. and Rai A. 2003. Growing degree dayandrsquo;s requirement of mango cultivars for maturity under sub humid plateau region of Eastern India.and ;<em>Orissa J. Hort.</em>and ;31(2): 13-17.</li>\n\n
+<li>Das B, Nath V., Rai M. and Dey P. 2003. Investigations on flushing and panicle emergence in litchi under sub-humid subtropical plateau region of eastern India.<em>and ;J. Hort.and ;</em>61: 1-5.</li>\n\n
+<li>Nath V., Pandey D. and Das B. 2003. Diversity of bael in East Central India.and ;<em>J. Plant Gen. Res.</em>and ;16(2): 85-89.</li>\n\n
+<li>Das B., Nath V. and Dey P. 2004. Investigation on flushing and panicle emergence in litchi under sub-humid sub-tropical plateau region of Eastern Indiaand ;<em>J. Hort.</em>and ;61(1): 1-5.</li>\n\n
+<li>Pandey D., Shukla S.K. and Nath V. 2005. Diversity of bael (<em>Aegle Marmelosand ;</em>) in Bihar and Uttar Pradesh.and ;<em>Prog. Hort.</em>and ;37(2): 358-362.</li>\n\n
+<li>Dey P., Rai M., Kumar S., Nath V., Das B. and Reddy N.N. 2005. Effect of biofertilizers on physico-chemical characteristics of guava (<em>Psidium guajava</em>) Fruits.and ;<em>J. Agric. Sci.</em>and ;75(2): 95-96.</li>\n\n
+<li>Jana, B.R., Rai M., Das B. and Nath V. 2006. Genetic variability and association of component characters for fruit yield in papaya (<em>Carica papaya</em>).and ;<em>Orissa J. Hort.and ;</em>34(1): 22-27.</li>\n\n
+<li>Das B. and Nath V. 2006. Pattern of intra-plant variation in fruit quality in Litchi cv. Shahi with respect to size and type of fruit sample.and ;<em>J. Tropical Hort.and ;</em>24 (3-4): 367-371.</li>\n\n
+<li>Nath V., Das B. and Rai M. 2007: Standardization of high-density planting in mango (<em>Mangifera indica</em>) under sub-humid Alfisols of Eastern India.and ;<em>J. Agri. Sci.</em>and ;77(1): 3-7.</li>\n\n
+<li>Das B., Nath V., Jana B.R., Dey P., Pramanick K.K. and Kishore D.K. 2007. Performance of strawberry cultivars grown on different mulching materials under sub-humid subtropical plateau condtions of Eastern India.and ;<em>J. Hort.</em>and ;64 (2): 136-143.</li>\n\n
+<li>Das B., Nath V., Jana B.R., Kumar S. and Dey P. 2007. Evaluation of different methods of crop regulation in guava grown under rainfed plateau conditions of eastern India.and ;<em>J. Hort.</em>and ;64(3): 294-299.</li>\n\n
+<li>Singh H.S., Pandey V. and Naik G. and Nath V. 2007. Developing trellis system for efficient pest control in bitter gourd under coastal agro-ecosystem of Orissa.and ;<em>Vegetable Scienceand ;</em>34(2): 140-144.</li>\n\n
+<li>Kumar D., Pandey V., Anjaneyulu K. and Nath V. 2008. Relationship of trunk cross-sectional area of tree with fruit yield, quality and leaf nutrient status in Allahabad Safeda guava (<em>Psidium guajava</em>).and ;<em>J. Agril. Sci.</em>and ;78(4): 337-339.</li>\n\n
+<li>Kumar D., Pandey V., Anjaneyulu K. and Nath V. 2008. Effect of organic mulching and irrigation schedule through drip on growth and yield of mango var. Lat Sundari in eastern region of India.and ;<em>J. Agril. Sci.</em>and ;78(5): 385-388.</li>\n\n
+<li>Kumar D., Pandey V. and Nath V. 2008. Effect of drip irrigation regimes on growth, yield and quality of mango hybrid andlsquo;Arka Anmolandrsquo;.and ;<em>J. Hort.</em>and ;65(4): 409-412.</li>\n\n
+<li>Kumar D., Pandey, V. and Nath V. 2008. Effect of organic mulches on moisture conservation for rainfed turmeric production in mango orchard.and ;<em>J. Soil. Cons.</em>and ;36(3): 188-191.</li>\n\n
+<li>Bharathi L.K., Naik G. and Nath V. 2008. Selection indices for parthenocarpic clones of ivygourd (<em>Coccinia grandis</em>).<em>and ;J. Agril. Sci.and ;</em>78(10): 905-908.</li>\n\n
+<li>Singh A., Singh H.S., Nath V. and Sadangi B.N. 2010. Farmwomen participation in vegetable pest management in coastal Orissa.and ;<em>Sci.</em>and ;36(3): 368-371.</li>\n\n
+<li>Kumar D., Pandey V., Anjaneyulu K. and Nath V. 2009. Optimization of major nutrients for guava yield and quality under east coastal conditions.and ;<em>J. Hort.</em>and ;(Accepted).</li>\n\n
+<li>Nath V., Pandey V., Singh D.R., Verma R.K. and Srivastav R.C. 2009. Exploratory observations on easy and economic means of transport of Morinda citrifolia (Indinan Noni) seedlings.and ;<em>J. Noni Res.</em>and ;2: xx-xx.</li>\n\n
+<li>Jana B.R., Das B., Nath V., Rai M. and Kumar S. 2009. Evaluation of guava (<em>Psidiuim guajava</em>) germplasm under eastern plateau and hill region.and ;<em>Inter. J. Trop. Agr.</em>and ;27(3-4): 395-397.</li>\n\n
+<li>Jana B.R., Kumar S., Rai M., Nath V. and Das B. 2009. Top-veneer grafting a new approach to mango propagation.and ;<em>J. Trop. Agri.</em>and ;27(3-4): 399-404.</li>\n\n
+<li>Saha R., Nath V. and D.Kumar (2010). Effects of Farmyard manure on soil organic carbon stock, the pattern of fertility buildup and palnt growth in andldquo;Mallikaandrdquo; mango (<em>Mangifera indica</em>).and ;<em>Hortic. Sci. Biotech.and ;</em>85(6) 539-543.</li>\n\n
+<li>Bharathi L.K., Vinod A.D. Munshi T.K. Behra S., Chandrashekharan J.J., Kattukunnel A., Das B. and Nath V. 2010. Cytomorphological evidences for Segmental allpolyploid origin of Teasle gourd (<em>Momordica subangualr subsp. renigera</em>)<em>and ;Euphytica</em>and ;176: 79-85.</li>\n\n
+<li>Dey P., Rai M., Gangopadhaya K.K., Das B., Nath V. and Reddy N.N. 2010. Effect of phosphorus on growth, yield and nutrient use efficiency of litchi grown on Alfiso.and ;<em>J. Hort.and ;</em>67(3): 394-395.</li>\n\n
+<li>Bharthi L.K., Munshi A.D., Vinod, Chandrashekharan S., Behra T.K., Das A.B., John K.J. and Nath V. 2010. Cyto-taxonomical analysis ofand ;<em>Momordica</em>and ;(Cucurbitaceae) species of Indian Occurrence.and ;<em>J. Genet.</em>and ;90(1): 21-30.</li>\n\n
+<li>Jana B.R., Das B. and Nath V. 2010. Effect of micronutrients and growth regulators on fruit retention and cracking and fruit quality in litchi (<em>Litchi Chinensisand ;</em>) cv. Shahi.and ;<em>The Hort. J.</em>and ;23(I):12-15.</li>\n\n
+<li>Kumar, S.D. Pandey, V.Kumar and Nath V. (2011). Evaluating potting media for production of quality planting material of Litchi (<em>Litchi Chinensis</em>and ;Sonn).and ;<em>Bihar Journal of Horticultureand ;</em>1(1): 48-50.</li>\n\n
+<li>Bharathi L.K., Munshi A.D., Behra T.K., John K.J., Nath V. and Bisht I.S. 2011. Genetic resources of spinegourd (<em>Momordica dioica</em>ex Willd): an underexplored nutritious vegetable from tribal regions of eastern India.and ;<em>Plant Genetic Resources</em>and ;8: 225-228. doi:10.1017/S1479262110000237.</li>\n\n
+<li>Bharathi L.K. and Nath V. 2011. Phenotypic diversity analysis in pointed ground (<em>Trichosanthes dioica</em>and ;Roxb).<em>Cucurbit Genetics Cooperative Report</em>and ;33-34: (2010-2011)</li>\n\n
+<li>Bharathi L.K., Vinod, Das A.B., Ghosh N., Behera T.K., Nak G. and Nath V., 2011. Cytomorphological and molecular characterization of interspecific F1 hybrid ofand ;<em>Momordica diocia</em>and ;xand ;<em>Momoridca subangulata</em>and ;subsp. renigera (G.Don).de Wide.and ;<em>African J. of Agri. Res.</em>and ;6(13): 2982-2990.</li>\n\n
+<li>Kumar V., Kumar A. and Nath V. 2011. Emerging pests and diseases of litchi (<em>Litchi chinensis</em>).<em>and ;Pest Management in Horticultural Ecosystemsand ;</em>17(1):11-13.</li>\n\n
+<li>Singh H.S. and Nath V. 2011. Hawk moth as a pest on Noni, its nutritional indices and organic management.<em>J. Noni Res.</em>and ;6(1-2).</li>\n\n
+<li>Singh A. and Nath V. 2012. Variability in fruit Physico-chemical characters of litchi (<em>Litchi chinensis</em>): an index for selection of improved clones for processing and value addition.<em>and ;Ind. J. Genet</em>. 72(2):143-147.</li>\n\n
+<li>Kumar D., Pandey V. and Nath V. 2012. Growth, yield and quality of vegetable banana Monthan (Banthal-ABB) relation to NPK fertigation.and ;<em>J. Hort.</em>and ;69(4): 467-471.</li>\n\n
+<li>Kumar V., Reddy P.V.R., Anal A.K.D. and Nath V. 2014. Outbreak of the looper,and ;<em>Perixera illepidaria</em>(Lepidoptera: Geometridae) on Litchi,and ;<em>Litchi chinenis</em>and ;(Sapindales: Sapindaceae) andndash; a new pest record.and ;<em>Florida Entomologist</em>and ;97(1): 22-29.</li>\n\n
+<li>Singh A. and Nath V. 2014. Variability in fruit physico-chemical characteristics of litchi (<em>Litchi chinensis</em>) in Tripura and Assam.and ;<em>Indian Journal of Agricultural Sciences</em>and ;85(2): 113-117.</li>\n\n
+<li>Mandal S., Rath C., Gupta C.K., Nath V. and Singh H.S. 2014. Probing occurrence of phenylpropanoids in Morinda citrifolia in relation to foliar diseases.and ;<em>Natural Product Research</em>and ;29(6): 535-542. doi: 10.1080/14786419.2014.954245</li>\n\n
+<li>Kumar A., Pandey S.D., Patel R.K., Rai R.R., Srivastava, K. and Nath V. 2014. Studies on feasibility of intercropping under litchi based cropping system.and ;<em>The Ecoscan</em>and ;5: 101-109.</li>\n\n
+<li>Kumar V., Anal A.K.D. and Nath 2014. Prevalence of some threatening pests and disease of litchi (Litchi chinensis Sonn.) in Bihar state of India.and ;<em>Journal of Applied Horticultur</em>e 16(3): 235-240.</li>\n\n
+<li>Kumar A., Pandey S.D., Rai R.R. and Nath V. 2014. Evaluation of alternate potting media mixtures for raising quality-planting material of litchi in polybags.and ;<em>The Bioscanand ;</em>9(1): 381-384.</li>\n\n
+<li>Singh S.K., Singh A., Nath V., Parthasarathy V.A., Sthapit B., Rajan S. and Vinoth 2015. Genetic diversity in seedling population of Mango.and ;<em>J. Plant Genet. Resour.and ;</em>28(1):123-131.</li>\n\n
+<li>Singh S.K., Singh A., Nath V., Parthasarathy V.A., Sthapit B. and Vinoth 2015. Pummelo in homestead garden: Conservation through family farming.and ;<em>Indian J. Plant Genet. Resour.</em>and ;28(1): 132-138.</li>\n\n
+</ol></string>
+
+    <string name="amrendra">
+        <ol class="list list-ordened list-ordened-style-3 pl-sm">
+<li>Kumar A. and Jain B.P. 2002. Combining ability studies in pea (<em>Pisum sativum and  ;</em>). and  ;<em>Indian J. Horticulture</em> and  ;59(2): 181-184.</li>\n\n
+<li>Kumar A. and Jain B.P. 2003. Genetic variability in pea (<em>Pisum sativum</em>).<em> and  ;BAU Journal of Research</em> and  ;15(1): 55.</li>\n\n
+<li>Kumar A. and Jain B.P. 2003. Inter-relationship studies for different yield and yield attributes in pea (<em>Pisum sativum and  ;</em>).<em> and  ;Madras Journal of Agriculture</em> and  ;447/98.</li>\n\n
+<li>Kumar A., Pandey S.D., Kumar V. and Vishal Nath 2011. Evaluating potting media for production of quality planting materials of litchi (<em>Litchi chinenesis</em> and  ;Sonn).<em> and  ;Bihar Journal of Horticulture</em> and  ;1(1): 48-50.</li>\n\n
+<li>Kumar V, Kumar A and Vishal Nath 2011. Emerging pests and diseases of litchi (<em>Litchi chinensis</em>). and  ;<em>Pest Management in Horticultural Ecosystems 17(1): and  ;</em>10.</li>\n\n
+<li>Kumar A., Pandey S.D. and Rai R.R. 2012. Inter cropping of vegetables with pre-bearing litchi plants for profitable and sustainable production system. and  ;<em>Vegetable Science</em> and  ;39 (2): 128-131</li>\n\n
+<li>Kumar A., Pandey S.D., Rai R.R. and Nath V. 2014. Evaluation of alternate potting media mixtures for raising quality planting material of litchi in polybags. and  ;<em>The Bioscan</em> and  ;9(1): 381-384</li>\n\n
+<li>Kumar A., Pandey S.D., Patel R.K., Rai R.R., Srivastava K. and Nath V. 2014. Studies of feasibility of intercropping under litchi based farming system. and  ;<em>The Ecoscan Special issue and  ;</em>V: 101-109</li>\n\n
+<li>Kumar A., Srivastava K., Patel R.K., and Nath V. 2014 Management of litchi fruit borer and litchi mite using bio-rational approaches under subtropics of Bihar. and  ;<em>The Ecoscan Special issue and  ;</em>VI: 283-287</li>\n\n
+<li>Patel R.K., Meitei S.B., Kumar A., Srivastava K., Deka B.C., Deshmukh N.A. and Verma V.K. 2014. Effect of leaf and fruit thinning on yield and quality of peach cv. Flordasun. and  ;<em>The Ecoscan Special issue and  ;</em>VI: 465-469</li>\n\n
+<li>Kumar A., Pandey S.D., Patel R.K., Singh S.K., Srivastava K. and Nath V. 2015. Induction of flowering by use of chemicals and cincturing in Shahi litchi. and  ;<em>The Ecoscan Special issue and  ;</em>VII: 493-496</li>\n\n
+<li>Srivastava K., Patel R.K., Pandey S.D., Kumar A. and Nath V. 2015. Integrated management of lepidopteran defoliators in litchi under subtropics of Bihar. The Ecoscan Special issue VII: 483-487</li>\n\n
+<li>Pandey S. D., Kumar A., Patel, R. K., Rai R. R. and Nath V. 2015. Influence of planting densities on plant growth, yield and quality of litchi cv. Shahi. and  ;<em>The Ecoscan Special issue and  ;</em>VII: 397-401</li>\n\n
+<li>Patel R.K., Maiti C.S. Kumar A. and Srivastava K. Genetic variability, character association and path coefficient study in guava (<em>Psidium guajava</em> and  ;L.) for yield and fruit related traits. and  ;<em>The Ecoscan Special issue</em> and  ;VII: 447-453</li>\n\n
+<li>Purbey S.K. and Kumar A. 2015. Effect of pre-harvest bagging on quality and yield of litchi (<em>Litchi chinensis</em>) fruits. and  ;<em>The Ecoscan Special issue and  ;</em>VII: 197-201.</li>\n\n
+</ol>
+
+    </string>
+    <string name="gopal">
+        <ol class="list list-ordened list-ordened-style-3 pl-sm">
+<li>Kumar , Sena, D.R., Kurothe R.S., Pande V.C., Rao B.K., Vishwakarma A.K.V., Bagdi G.L. and Mishra P.K. 2014. Watershed impact evaluation using remote sensing. and  ;<em>Current Science</em> and  ;106(10): 1369-1378.</li>\n\n
+<li>Kurothe R.S., Kumar G., Singh R., Singh H.B., Tiwari S.P., Vishwakarma A.K., Sena D.R. and Pande V.C. 2014. Effect of tillage and cropping systems on runoff, soil loss and crop yields under semiarid rainfed agriculture in India. and  ;<em>Soil and Tillage Research</em> and  ;140: 126-134.</li>\n\n
+<li>Kumar G., Kurothe R.S., Brajendra, Vishwakarma A.K., Rao B.K., Pande V.C. 2014. Effect of farm yard manure and fertilizer application on crop yield, runoff, soil erosion and soil organic carbon under rainfed pearl millet. and  ;<em>Indian Journal of Agricultural Sciences</em> and  ;84 (7): 816-822.</li>\n\n
+<li>Adak T., Kumar G., Chakravarty N.V.K., Katiyar R.K., Deshmukh P.S. and Joshi H.C. 2013. Biomass and biomass water use efficiency in oilseed crop (<em>Brassica juncea</em>) under semi-arid microenvironments. and  ;<em>Biomass and Bioenergy</em> and  ;51: 154-162</li>\n\n
+<li>Kumar G., Chakravarty N.V.K., Kurothe R.S., Sena D.R., Tripathi K.P., Adak T. Haldar D. and Anuranjan 2010. Effect of projected climate change on mustard (<em>Brassica juncea</em>). and  ;<em>Journal of Agrometeorology</em> and  ;12(2): 168-173.</li>\n\n
+<li>Kumar G., Kurothe R.S., Sena D.R., Vishwakarma A.K., Madhu M., Rao B.K. Tripathi, K.P. and Anuranjan 2010. Sensitivity of wheat crop to the projected climate change in non-traditional areas. and  ;<em>Journal of Agrometeorology</em> and  ;12(2): 161-167.</li>\n\n
+<li>Pande V.C., Kurothe R.S., Sena D.R. and Kumar G. 2014. Cost of siltation in Sardar Sarovar reservoir: implications for catchment treatment. and  ;<em>Current Science</em> and  ;106(1): 35-39.</li>\n\n
+<li>Rao B.K., Mishra P.K., Kurothe R.S., Pande V.C. and Kumar G. 2014. Effectiveness of and  ;<em>Dichanthium annulatum</em>in watercourses for reducing sediment delivery from agricultural watersheds, and  ;<em>CLEAN  and ndash; Soil, Air, Water</em>Accepted manuscript online: 7 OCT 2014 01:04AM EST. doi: 10.1002/clen.201400265</li>\n\n
+<li>Rao B.K., Kurothe R.S., Mishra P.K., Kumar G. and Pande V.C. Climate change impact on design and costing of soil and water conservation structures in watersheds. and  ;<em>Current Science</em> and  ;(accepted-Oct 9, 2014)</li>\n\n
+<li>Kumar G. and Chakravarty N.V.K. 2008. A simple weather based forewarning model for white rust in Brassica. and  ;<em>Journal of Agrometerology</em> and  ;10(1): 75-80.</li>\n\n
+<li>Kumar G., Sena D.R., Chakravarty N.V.K., Vishwakarma A.K., Anuranjan, Kurothe R.S., Adak T., Madhu M. and Haldar D. 2010. A simple empirical model for estimating actual evapotranspiration in Mustard crop. and  ;<em>Indian Journal of Soil Conservation</em> and  ;38 (3): 161-168.</li>\n\n
+<li>Kumar G., Sena D.R., Tiwari K.N., Kurothe R.S. and Sharda V.N. 2010. Statistical assessment of soil-water Characteristic models, and  ;<em>Indian Journal of Soil Conservation</em> and  ;42(1): 1-9.</li>\n\n
+<li>Kurothe R.S., Vishwakarma A.K., Sena D.R., Kumar G., Rao B.K., Pande V.C. 2014. Decision support system for contour trenching. and  ;<em>Indian Journal of Soil Conservation</em> and  ;42(2): 143-153.</li>\n\n
+<li>Kumar G., Chakravarty N.V.K., Adak T., Madhu M., Sena D.R., Vishwakarma A.K., Haldar D. and Anuranjan 2010. Radiation interception parameters in mustard and its modification due to debranching. Indian Journal of Soil Conservation 38 (3): 205-211.</li>\n\n
+<li>Rao B.K., Kumar G., Kurothe R.S., Pandey V., Mishra P.K., Vishwakarma A.K. and Barya M.J. 2012. Determination of crop coefficients and optimum irrigation schedule for bidi tobbaco and pearl millet crop in central Gujarat. and  ;<em>Journal of Agrometeorology and  ;</em>14 (2):123-129</li>\n\n
+<li>Adak T., Kumar G., Sharma PK., Srivastava A.K. and Chakravarty N.V.K. Seasonal changes in soil temperature within mustard crop stand. and  ;<em>Journal of Agrometeorology</em> and  ;13(1): 72-74.</li>\n\n
+<li>Adak T., Kumar G., Nirjay B. and Chakravarty N.V.K. 2012. Micrometeorological dynamics within mustard (Brassica Juncea) crop canopy under semi-arid conditions of northern India. and  ;<em>Journal of Agrometeorology</em> and  ;14 (1): 45-49.</li>\n\n
+<li>Kumar G., Haldar D., Sunder Sarma K.S., Adhikari P.P., Sahoo R.N., Brajendra, Sena D.R., Sehgal V.K. and Vishwakarma A.K. 2010. Hydro-mechanical properties of recently developed alkaline soils: A case study from Sultanpur village of Gurgaon district, Haryana. and  ;<em>Environment and Ecology</em> and  ;29 (1A): 322-329.</li>\n\n
+<li>Kumar G., Sahoo R.N., Tomar R.K., Bhavanarayana M., Gupta V.K., Rao C.S., Sehgal V.K. and Chakravarty D. 2010. Land use land cover change in active flood plain using satellite remote sensing. and  ;<em>Journal of Agricultural Physics and  ;</em>8: 22-28.</li>\n\n
+<li>Kumar G., Chakravarty N.V.K., Adak T., Vishwakarma A.K., Adhikary, P.P., Sena, D.R., Madhu M., Sahoo R.N. and Anuranjan 2010. Compensatory behavior of different variety of mustard (<em>Brassica</em>) for lower branch removal. and  ;<em>Environment and Ecology</em> and  ;29 (1A) 339-346.</li>\n\n
+<li>Adak T., Kumar G. and Chakravarty N.V.K. 2013. Agroclimatic models as a tool to predict biophysical variables and productivity in oilseed Brassica (<em>Brassica juncea</em>) under semiarid subtropical environment. and  ;<em>Indian Journal of Soil Conservation and  ;</em>41(2): 141-150.</li>\n\n
+<li>Rao B.K., Gaur M.L., Kumar G., Kurothe R.S. and Tiwari S.P. 2013. Morphological characterization and alterations in cross section of different order streams of Mahi river in Gujarat. and  ;<em>Indian Journal of Soil Conservation</em> and  ;41(1) 20-24.</li>\n\n
+<li>Adak T., Kumar G. and Chakravarty N.V.K. 2012. Assessment of radiation interception in a modified microenvironment and its relationship with biophysical parameters. and  ;<em>Indian Journal of Soil Conservation</em>40(1): 240-246.</li>\n\n
+<li>Rao B.K., Kurothe R.S., Pande V.C. and Kumar G. 2011. Measurement of through fall and stemflow and their significance in bamboo (<em>Dendrocalmus strictus</em>) plantation in degraded ravine lands of India. and  ;<em>Indian Journal of Soil Conservation</em> and  ;40(1): 60-64.</li>\n\n
+<li>Pande V.C., Kurothe R.S., Rao B.K., Kumar G., Parandiyal A.K., Singh A.K. and Ashok K. 2012. Economic analysis of bamboo plantation in three major ravine systems of and  ;<em>Agricultural Economics Research Review and  ;</em>25(1): 49-59.</li>\n\n
+<li>Pande V.C., Kurothe R.S., Singh H.B., Tiwari S.P., Kumar G., Vishwakarma A.K. and Bagdi G.L. 2013. Economic assessment of soil erosion damage on smallholder farms in marginal lands of Mahi ravines in Gujarat. and  ;<em>Agricultural Economics Research Review and  ;</em>26(1): 63-71.</li>\n\n
+<li>Bagdi G.L., Kurothe R.S., Rao B.K., Pande V.C. and Kumar G. 2013. Farmer and rsquo;s perception towards adoption of bamboo in Mahi ravines. and  ;<em>Indian Journal of Soil Conservation</em> and  ;41(1): 83-87.</li>\n\n
+<li>Chatra R., Singh H.B., Patel R.B., Singh H. and Kumar G. 2013. Effect of various nutrient sources on productivity and economics of groundnut (<em>Arachis hypogaea</em>). Ann<em>. Agric. Res. New Series</em> and  ;34(2): 176-178.</li>\n\n
+<li>Haldar D., Sehgal V.K., Kumar G. and Sundersarma K.S.S. 2011. Evaluation of ground water and land resources in relation to landforms in Alwar district (Rajasthan): A remote sensing based approach. and  ;<em>Environ. Sci.</em> and  ;5: 37-45</li>\n\n
+<li>Haldar D., Sehgal V.K., Kumar G. and Sundersarma K.S.S. 2011. Characterization of Landform of Alwar district of Rajasthan (India) by deriving and using terrain parameters from DEM. and  ;<em>Asian Journal of Geoinformatics</em>11(1): 1-11.</li>\n\n
+</ol>
+
+
+    </string>
+    <string name="alok">
+<ol class="list list-ordened list-ordened-style-3 pl-sm">
+<li>Gupta A.K. and Tripathi V.K. 2012. Efficacy of and  ;<em>Azotobactor</em> and  ;and vermicompost alone and in combination on vegetative growth, flowering and yield of strawberry (<em>Fragaria  and times; ananassa</em>). and  ;<strong><em>Progressive Horticulture</em></strong> and  ;44: 256-261.</li>\n\n
+<li>Sharma J., Gupta A.K., Kumar C. and Gautam R.K.S. 2013. Influence of Zinc, Calcium and Boron on vegetative and flowering parameter of Gladiolus cv. Aldebran. and  ;<strong><em>The Bioscan</em></strong> and  ;8(4): 1153-1158.</li>\n\n
+<li>Tripathi V.K., Kumar S. and Gupta A.K. Influence of and  ;<em>Azotobacter</em> and  ;and vermicompost on growth, flowering, yield and quality of strawberry cv. Chandler.<strong> and  ;<em>Indian Journal of Horticulture</em></strong> and  ;<strong>72</strong>(2): 201-205.</li>\n\n
+</ol>
+
+
+    </string>
+    <string name="pandey">
+       <ol class="list list-ordened list-ordened-style-3 pl-sm">
+<li>Dwivedi R., Pathak R.K. and Pandey S.D. 1990. Effect of various concentration of urea on crop regulation in guava (<em>Psidium guajavaa</em>) cv. Sardar. and  ;<em>Prog. Hort.</em> and  ;22(1-4): 134-139</li>\n\n
+<li>Dwivedi R., Pathak R.K. and Pandey S.D. 1991. Effect of season on the vegetative and reproductive attributes of guava fruits cv. Sardar. and  ;<em>J. Hort. and  ;</em>48(2): 100-04</li>\n\n
+<li>Pandey S.D., Pathak R.K. and Dwivedi R. 1991. Effect of sodicity and salinity levels on chlorophyll, free proline and amino acid contents in ber leaves. and  ;<em>The Hort. J.</em> and  ;4(1): 33-36</li>\n\n
+<li>Pandey S.D., Pathak R.K. and Awasthi O.P. 1993. Effect of salinity levels on nutrients status in ber. and  ;<em>Indian J. Hort.</em> and  ;50(1): 46-48</li>\n\n
+<li>Awasthi O.P., Pathak R.K. and Pandey S.D. 1994. Effect of sodicity and salinity levels on survival and total chlorophyll content of ber genotypes. and  ;<em>The Hort. J. and  ;</em>7(1): 51-54</li>\n\n
+<li>Awasthi O.P., Pathak R.K. and Pandey S.D. 1995. Effect of sodicity and salinity levels on four scion cultivars budded on Indian jujube (<em> and  ;mauritiana</em>). and  ;<em>Indian. J. Agric. Sci.</em> and  ;65(5): 363-70</li>\n\n
+<li>Rajput S.S. and Pandey S.D. 1997. Studies on physicochemical characteristics some mango cultivars under Chhattisgarh region of Madhya Pradesh. and  ;<em>The Hort. J.</em> and  ;10(1): 9-14</li>\n\n
+<li>Awasthi O.P., Pathak, R.K. and Pandey S.D. 1997. Effect of sodicity and salinity on survival and nutrient status of four scion cultivar budded on Indian jujube (<em> and  ;mauritiana</em>). and  ;<em>Trop. Agric. (Trinidad)</em> and  ;74(3): 238-42</li>\n\n
+<li>Agrawal S., Pandey S.D. and Tiwary B.L. 1997. Studies on the effect of high status of N and K on qualitative character of in and ndash;vitro banana fruit cv. Robusta. and  ;<em>The Orissa J. Hort.</em> and  ;25(1): 67-72</li>\n\n
+<li>Sharma G.L., Tiwary B.L. and Pandey S.D. 1997. Rapid in-vitro propagation of banana and changes in biochemical constituents at various cultural stages. and  ;<em>Indian J. Hort. and  ;</em>54(2): 128-131</li>\n\n
+<li>Agrawal S., Pandey S.D. and Patel R.K. 1998. Influence of higher levels of nitrogen and potassium on growth and yield potential of in-vitro banana cv. Robusta. and  ;<em>Mysore J. Agric. Sci.</em> and  ;32: 275-80</li>\n\n
+<li>Tirkey T., Pandey S.D. and Sharma G.L. 1998. Effect of nitrogen levels and time of application of NPK on yield and quality of in-vitro raised banana cv. Dwarf Cavendish. and  ;<em>South Indian Hort.</em> and  ;46(12): 65-67</li>\n\n
+<li>Rajput S.S. and Pandey S.D. 1998. Physico-chemical changes associated with growth and development of mango fruits. and  ;<em>Progressive Hort.</em> and  ;30(1-2)</li>\n\n
+<li>Awasthi O.P., Pathak R.K. and Pandey S.D. 1999. Anatomical variation in leaf lamina of ber seedlings at different sodicity levels. and  ;<em>Indian J. Hort.</em></li>/n/n/n/n
+<li>Patel R.K, Agrawal S. and Pandey S.D. 1999. Effect of split application of NPK with varying levels of nitrogen and potassium on bunch characters of banana cv. Dwarf Cavendish as first ratoon crop. and  ;<em>South Indian Hort.</em>47(1-6) 162-163</li>\n\n
+<li>Pandey S.D., Jayabhaskaran K.J., Laxman R.H., Shanti V.P. and Mustaffa M.M. 2001. Effect of irrigation, N fertigation and planting geometry on growth and yield of banana cv. Nendran. and  ;<em>South Indian Horticulture</em> and  ;49: 76-79</li>\n\n
+<li>Jayabhaskaran K.J., Pandey S.D., Mustaffa M.M. and Sathiamoorthy S. 2001. Effect of different organic manures with graded levels of inorganic fertilizers on ratoon of Poovan banana. and  ;<em>South Indian Horticulture</em>49: 105-108</li>\n\n
+<li>Jayabhaskaran K.J., Pandey S.D., Mustaffa M.M. and Sathiamoorthy S. Effect of FYM and gypsum with graded levels of K application on banana grown in saline sodic soils. and  ;<em>Journal of Potassium Research</em> and  ;17:101-106</li>\n\n
+<li>Selvarajan R., Sathiamoothy S., Pandey S.D. and Dhansekar D. 2001. Incidence of sigatoka leaf spot disease in relation to different plant densities in cultivar Robusta. and  ;<em>South Indian Horticulture</em> and  ;49: 43-46</li>\n\n
+<li>Pandey S.D., Jeyabaskaran K.J., Laxman R.H. and Mustaffa M.M. 2001. Effect of different moisture regimes and N fertigation on growth, yield and quality of Poovan banana. and  ;<em>Progressive Horticulture</em> and  ;33(2): 130-133</li>\n\n
+<li>Tirkey T., Agrawal S. and Pandey S.D. 2001. Effect of organic manures on growth, maturity and yield of banana cv. Dwarf Cavendish. and  ;<em>South Indian Horticulture</em> and  ;50(1-3): 19-24</li>\n\n
+<li>Jeyabaskaran K.J., Pandey S.D. and Gomadhi G. 2003. Effect of potassium-rich cement kiln flue dust and distillery effluent as substitute for potassium fertilizers on growth, yield and quality of  and ldquo;Ney Poovan and rdquo; banana (<em>Musa paradisiaca</em>). and  ;<em>Indian Journal of Agricultural Sciences</em> and  ;73(12): 641-644</li>\n\n
+<li>Jeyabaskaran K.J., Pandey S.D. and Gomadhi G. 2004. Integration of potassium-rich cement kiln flue dust and distillery effluent in potassium fertilization for increasing banana production. and  ;<em>The Andhra Agricultural Journal</em> and  ;50: 418-420</li>\n\n
+<li>Jeyabaskaran K.J., Pandey S.D. and Gomadhi G. 2005. Substitution of potassium-rich cement kiln flue dust and distillery effluent for potassium fertilizers in banana cv. Ney Poovan. Journal of Potassium Research 21:</li>/n/n/n/n
+<li>Jeyabaskaran K.J., Pandey S.D., Mustaffa M.M. and Sathiamoorthy S. 2005. Diagnosis and recommendation for integrated system for monitoring status of nitrogen, phosphorus and potassium of  and lsquo;Nendran and rsquo; banana (<em>Musa paradisiaca</em>). and  ;<em>Indian Journal of Agricultural Sciences</em> and  ;75(7): 432-434</li>\n\n
+<li>Jeyabaskaran K.J., Pandey S.D. 2008. Effect of foliar spray of micronutrients in banana under high soil pH condition. and  ;<em>Indian J. Hort.</em> and  ;65(1): 102-105</li>\n\n
+<li>Selvarajan R., Balasubramanian V., Jaybaskaran K.J., Pandey S.D. and Mustaffa M.M. 2009. Management of bract mosaic disease through higher dose of fertilizers in banana cv. Ney Poovan (AB). and  ;<em>Indian J. Hort.</em> and  ;66(3): 301-305</li>\n\n
+<li>Kumar A., Pandey S.D., Kumar V. and Vishal Nath 2011. Evaluating potting media for production of quality planting materials of litchi (<em>Litchi chinensis</em> and  ;Sonn). and  ;<em>Bihar Journal of Horticulture</em> and  ;1(1): 48-50</li>\n\n
+<li>Kumar A., Pandey S.D. and Rai R.R. 2012. Intercropping of vegetables with pre-bearing litchi plants for profitable and sustainable production system. and  ;<em>Vegetable Science</em> and  ;39(2): 128-131</li>\n\n
+<li>Selvarajan R., Balasubramanian V., Jeyabaskaran K.J., Pandey S.D. and Mustaffa M.M. 2012. Mitigating the effect of banana bract mosaic disease through application of increased dose of fertilizers in banana cultivar Robusta (AAA). and  ;<em>Journal of plant disease sciences</em> and  ;7(2): 158-161</li>\n\n
+<li>Kumar A., Pandey S.D., Rai R.R. and Vishal Nath Evaluation of alternate potting media mixtures for raising quality planting material of litchi in polybags.<em> and  ;The Bioscan</em> and  ;9(1): 381-384</li>\n\n
+<li>Kumar A., Pandey S.D., Patel R.K., Rai R.R., Srivastava K. and Vishal Nath. Studies of Feasibility of Intercropping under litchi based farming system.<em> and  ;The Ecoscan</em> and  ;<em>Special issue</em> and  ;V: 101-109</li>\n\n
+</ol>
+
+
+    </string>
+
+    <string name="patel">
+<ol class="list list-ordened list-ordened-style-3 pl-sm">
+<li>Agrawal S., Patel R.K. and Pandey S.D. 1998. Influence of higher levels of nitrogen and potassium on growth and yield potential of and  ;<em>in vitro</em> and  ;banana (cv. Robusta). and  ;<em><strong>Mysore J. Agric</strong>. Sci</em>. 32: 275-280.</li>\n\n
+<li>Patel R.K., Agrawal S. and Pandey S.D. 1999. Effect of split application of NPK with varying levels of nitrogen and potassium on bunch characters on and  ;<em>in vitro</em> and  ;banana cv. Dwarf Cavendish as first ratoon crop. and  ;<strong><em>South Ind. Hort</em>.</strong> and  ;47: 162-163.</li>\n\n
+<li>Patel R.K., Pandey S.D. and Agrawal S. 1999. Studies on the effect of varying doses of nitrogen and potassium with splitting of NPK on fruit characters on and  ;<em>in vitro</em> and  ;banana cv. Dwarf Cavendish as first ratoon crop. and  ;<strong><em>The Orissa J. of Hort</em>.</strong> and  ;27: 48-52.</li>\n\n
+<li>Puri S., Agrawal S., Patel R.K. and Swamy S.L. 2001. Germination and viability testing of some multipurpose trees used in Agroforestry practices.<strong> and  ;<em>Indian J. Agroforestry</em></strong> and  ;1: 69-79.</li>\n\n
+<li>Rai N., Yadav D.S., Yadav R.K. and Patel R.K. 2001. Variability, correlation and path coefficient analysis in between seed morphology and seedling growth in French bean<em>. and  ;<strong>Assam Sc. Soc</strong></em>. 42: 40-43.</li>\n\n
+<li>Dubey A.K., Yadav D.S. and Patel R.K. 2002. Studies on the softwood grafting in Khasi mandarin (<em>Citrus reticulata</em> and  ;Blanco). and  ;<strong><em>Indian J. Citriculture</em></strong> and  ;1: 109-112.</li>\n\n
+<li>Dubey A.K., Nath A., Patel R.K., Babu K.D. and Yadav D.S. 2002. Standardization of maturity indices of Kinnow under Meghalaya condition. and  ;<strong><em>Progressive Horticulture</em></strong> and  ;34: 119-122.</li>\n\n
+<li>Dubey A.K., Patel R.K. and Singh A. K. 2003. Performance of citrus (C<em>itrus</em> and  ;species) and hybrids in nursery at mid-altitude of Khasi hills of Meghalaya. and  ;<strong><em>Indian Journal of Agricultural Sciences</em></strong> and  ;74: 552-554.</li>\n\n
+<li>Dubey A.K., Patel R.K. and Singh A. K. 2003. Standardization of fruit maturity indices in Khasi mandarin (<em>Citrus reticulata</em> and  ;Blanco) under Meghalaya. and  ;<strong><em>Agric. Res. New Series</em></strong> and  ;24: 5-8.</li>\n\n
+<li>Dubey A.K., Singh A.K., Yadav D.S. and Patel R.K. 2003. Seed germination in citrus species as affected by storage of seeds within the fruits. and  ;<strong><em>Indian J. Plant Physiol</em>.</strong>: 226-230.</li>\n\n
+<li>Yadav D.S., Patel R.K., Rai N. and Dubey A.K. 2003. Physico-chemical status and yield of declined Khasi mandarin orchards in Meghalaya. and  ;<strong><em>Sci. Digest</em></strong> and  ;23: 71-72.</li>\n\n
+<li>Dubey A.K., Patel R.K. and Yadav D.S. 2004. Studies on bare root transplanting of Khasi mandarin (<em>Citrus reticulata</em> and  ;Blanco) under mid altitude of Meghalaya. and  ;<strong><em>The Orissa Journal of Horticulture</em></strong> and  ;32: 55-57.</li>\n\n
+<li>Rai N., Patel R.K., Yadav D.S. and Asati B.S. 2004. Effect of PGR on growth, flowering and yield of French bean Cv. Meghalaya Local. and  ;<em>Sci</em>. 31: 95-97.</li>\n\n
+<li>Patel R.K., Yadav D.S., and Yadav R.M. 2005. Physico-chemical studies of kiwi cultivars under mid hill situation of Meghalaya. and  ;<em>J. of Hill Farming</em> and  ;18: 165-168.</li>\n\n
+<li>Patel R.K., Yadav D.S., Yadav R.M. and Patel K.K. 2005. Performance of patch budding on different cultivars of guava under mid hill altitude of Meghalaya. and  ;<em>The Orissa J. Horticulture and  ;</em>33: 1-3.</li>\n\n
+<li>Rai N., Yadav D.S., Patel K. K. and Patel R.K. 2005. Effect of position of flower clusters on yield and quality of tomato hybrids. and  ;<em>Haryana J. Hort. Sci</em>. 34: 310-312.</li>\n\n
+<li>Rai N., Yadav D.S., Patel K.K. and Patel R.K. 2005. Studies on shelf life of capsicum grown under protected and open conditions. and  ;<em>Haryana J. Hort. Sci.</em> and  ;34: 313-315.</li>\n\n
+<li>Yadav D.S., Rai N., Dey B., Patel R.K. and Singh S. 2005. Effect of spacing on growth and yield of pineapple planted on terraced land and across the hill slope. and  ;<em>The Orissa J. Horticulture</em> and  ;33: 27-30.</li>\n\n
+<li>Singh A., Patel, R.K., Babu K.D. and Bhuyan M. 2006. Flowering, Fruiting and ripening physiology of passion fruit. and  ;<em>Environment and Ecology</em> and  ;24: 693-697.</li>\n\n
+<li>Babu K.D., Ram C., De L.C., Paul, D., Singh A. and Patel R.K. 2007. Evaluation of guava selections for productivity and quality traits. and  ;<em>International J. Tropical Agric. and  ;</em>25: 84-87.</li>\n\n
+<li>Patel R.K., Babu K.D., Singh A. and Yadav D.S. 2007. Performance of low chilling Peach cultivars under mid hills of Meghalaya, Physico-chemical studies of kiwi cultivars under mid hill situation of Meghalaya. and  ;<em>Environment and Ecology</em> and  ;25: 229-231.</li>\n\n
+<li>Patel R.K., Singh A., De L.C., Patel R.S., Yadav R.M., Buragohain, J. and Bhuyan, M. 2007. Tree health, growth, yield and fruit quality attributes of some citrus species/types at mid altitude of Khasi hill of Meghalaya. and  ;<em>International Journal of Tropical Agriculture and  ;</em>25: 927-932.</li>\n\n
+<li>Singh, A., Yadav D.S., Patel R.K. and Bhuyan M. 2007. Effect of shelf-life and quality of passion fruit with polyethylene packaging under specific temperature, and  ;<em>food Sci. Technol.</em> and  ;44: 201-204.</li>\n\n
+<li>Singh A., Patel R.K., De L.C. and Babu K.D. 2008. Effect of cutting types, indol butyric acid treatment and shoot pinching on rooting of kiwifruit (<em>Actinidia deliciosa</em>). and  ;<em>J. Agric. Sci.</em> and  ;78: 695-698.</li>\n\n
+<li>Singh A., Patel R.K., De L.C. and Pereira Lolly S. 2008. Performance of strawberry (<em>Fragaria</em> and  ;x and  ;<em>ananassa</em>) cultivars under sub-tropics of Meghalaya. and  ;<em>J. Agric. Sci.</em> and  ;78: 575-580.</li>\n\n
+<li>Babu K.D., De L.C., Patel R.K. and Singh A. 2009. Genotypic amenability of guava for patch budding. and  ;<em>Indian J. Hort</em>. 66: 264-266.</li>\n\n
+<li>Patel R.K., Singh A., Yadav D.S., Bhuyan, M. and Deka Bidyut C. 2009. Waxing, lining and polyethylene packaging on the shelf-life and juice quality of passion fruit during storage.<em> and  ;Journal of Food Science and Technology</em> and  ;46: 70-74.</li>\n\n
+<li>Baiswar P., Chandra S, Patel R.K. and Ngachan S.V. 2009. First report of powdery mildew on and  ;<em>Prunus nepalensis</em> and  ;in India. and  ;<em>Australasian Plant Disease Notes</em> and  ;4: 131-132.</li>\n\n
+<li>Patel R.K., Babu K.D., Singh A., Yadav D.S. and De L.C. 2010. Soft wood grafting in mandarin (<em> and  ;reticulata</em>Blanco): A novel vegetative propagation technique. and  ;<em>International Journal of fruit Science</em> and  ;10: 54-64.</li>\n\n
+<li>Singh A., Nath A., Deka B.C., Prakash J., Patel R.K. and Choudhary S. 2010. Studies on nutritive value of papaya (Carica papaya) fruits at different stages for their amenability to specific use. and  ;<em>Tropical Agriculturist</em>158: 15-23.</li>\n\n
+<li>Baiswar P., Chandra S., Bag T.K., Patel R.K., Ngachan S.V. and Deka B.C. 2011. and  ;<em>Cladosporium oxysporum</em> and  ;on and  ;<em>Prunus nepalensis</em> and  ;in India. and  ;<em>Australasian Plant Disease Notes</em> and  ;DOI 10.1007/s13314-011-0002-1.</li>\n\n
+<li>Nath A, Deka Bidyut C, Singh A. and Patel R.K. 2011. Extension of shelf life of pear fruits using different packaging materials. and  ;<em>Journal of Food Science and Technology</em> and  ;49: 556-563.</li>\n\n
+<li>Patel R.K, Maiti C.S. Deka Bidyut C., Deshmukh N.A. and Roy D. 2011. Variability Studies in Guava (<em>Psidium guajava and  ;</em>) Genotypes for Growth, Yield and Quality Attributes at mid-hills of Meghalaya. and  ;<em>Indian J Hill Farming and  ;</em>24: 24-28.</li>\n\n
+<li>Singh A., Singh B.K., Deka B.C., Sanwal S.K., Patel R.K. and Verma M.R. 2011. The genetic variability, inheritance and inter-relationships of ascorbic acid,  and beta;-carotene, phenol and anthocyanin content in strawberry (<em>Fragaria</em><em> and times;</em><em>ananassa</em>). and  ;<em>Scientia Horticulturae</em> and  ;129: 86 and ndash;90.</li>\n\n
+<li>Singh A., Yadav D.S., Patel R.K., Nath A. and Bhuyan, M. 2011. Wax coating and padding materials influence quality and shelf-life of purple passion fruit during storage. and  ;<em>Indian Journal of Horticulture</em> and  ;68: 246-249.</li>\n\n
+<li>Singh A., Syndor A., Deka Bidyut C., Singh R.K. and Patel R.K. 2012. The effect of microclimate inside low tunnels on off-season production of strawberry (<em>Fragaria x</em> and  ;<em>ananassa</em>). and  ;<em>Scientia Horticulturae</em> and  ;144: 36-41. </li>\n\n
+<li>Deka Bidyut C., Thirugnanavel A., Patel R.K., Nath Amit and Deshmukh N. 2012. Horticultural diversity in North-East India and its improvement for value addition. and  ;<em>Indian Journal of Genetics and Plant Breeding</em> and  ;72: 157-167.</li>\n\n
+<li>Deshmukh N.A., Patel R.K, Deka B.C., Jha A.K. and Lyngdoh P. 2012. Leaf to fruit ratio affects fruit yield and quality of low chilling peach cv. Flordasun. and  ;<em>Indian Journal of Hill Farming</em> and  ;25: 31-34.</li>\n\n
+<li>Singh A., Deka B.C., Patel R.K., Nath A. and Mulieh S.R. 2012. Effect of pruning time, severity and tree aspects on harvesting period and fruit quality of low chilling peach (<em>Prunus persica</em>). and  ;<em>Indian Journal of Agricultural Sciences</em> and  ;82: 862-868</li>\n\n
+<li>Deka B.C., Nath A., Lamare R.L. and Patel R.K. 2013. Quality and shelf-life of and  ;<em>Sohshang</em> and  ;(<em>Elaeagnus latifolia and  ;</em>) fruits in different packages during storage.<em> and  ;Ind. J. Hill Farm. and  ;</em>26: 21-25.</li>\n\n
+<li>Deshmukh N.A., Patel R.K., Deka Bidyut C., Verma V.K., Jha A.K. and Pathaw J.E. 2013. Self help groups boost turmeric production in Meghalaya- a success story. and  ;<em>HortFlora Research Spectrum</em> and  ;2: 230-234.</li>\n\n
+<li>Lamare R.L., Deka B.C., Nath A. and Patel R.K. 2013. Dynamics of physico-chemical values in and  ;<em>Sohshang and  ;</em>(<em>Elaeagnus latifolia and  ;</em>) across maturity.<em> and  ;Ind. J. Hill Farm.</em> and  ;26: 49-53.</li>\n\n
+<li>Meiti S.B., Patel R.K., Deka Bidyut C., Deshmukh N.A. and Singh A. 2013. Effect of chemical thinning on yield and quality of peach cv. Flordasun. and  ;<em>African Journal of Agricultural Research</em> and  ;8: 3558-3565.</li>\n\n
+<li>Patel R.K., Maiti C.S., Deka Bidyut C, Deshmukh N.A. and Nath A. 2013. Changes in sugars, pectin and antioxidants of guava and  ;<em>(Psidium guajava) and  ;</em>fruits during fruit growth and maturity. and  ;<em>Indian Journal of Agricultural Sciences</em> and  ;83:1017-21.</li>\n\n
+<li>Patel R.K., Maiti C.S., Deka Bidyut C, Roy S.S. and Verma V.K. 2013. Genetic diversity among guava genotypes based on seed protein polymorphosim. and  ;<em>Indian Journal of Horticulture</em> and  ;70:190-194.</li>\n\n
+<li>Kumar A., Srivastava K., Patel R.K. and Nath V. 2014. Management of litchi fruit borer and litchi mite using bio-rational approaches under subtropics of Bihar. and  ;<em>The Ecoscan Special Issue</em> and  ;VI: 285-289.</li>\n\n
+<li>Deshmukh N.A., Lyngdoh P., Jha A.K., Patel R.K. and Deka Bidyut C. 2014. Comparative study on newly developed guava hybrids with commercial cultivars under mid-hills of NE India. and  ;<em>The Bioscan</em> and  ;8: 1467-1470.</li>\n\n
+<li>Kumar A., Pandey S.D., Patel R.K., Rai R.R., Srivastava K. and Nath V. 2014. Studies on feasibility of intercropping under litchi based cropping system. and  ;<em>The Ecoscan Special Issue</em> and  ;V: 101-109.</li>\n\n
+<li>Mishra S.J., Chandra R., Prasad L. and Patel R.K. 2014. Influence of some phytohormones based culture medium on and  ;<em>in vitro and  ;</em>multiplication of gerbera (<em>Gerbera jamesonii</em>). and  ;<em>HortFlora Research Spectrum</em> and  ;3: 65-68. </li>\n\n
+<li>Patel R.K., Meitei S.B., Kumar A., Srivastava K., Deka B.C., Deshmukh N.A. and Verma V.K. 2014. Effect of leaf and fruit thinning on yield and quality of peach cv. Flordasun. and  ;<em>The Ecoscan</em> and  ;Special Issue VI: 467-471. </li>\n\n
+<li>Patel R.K., Singh A., Prakash J., Nath A. and Deka B.C. 2014. Physico-biochemical changes during fruit growth, development, and maturity in passion fruit genotypes. and  ;<em>Indian Journal of Horticulture and  ;</em>71: 486-493. </li>\n\n
+<li>Kumar A., Pandey, S.D., Patel R.K., Singh S.K., Srivastava K. and Nath V. 2015. Induction of flowering by use of chemicals and cincturing in  and lsquo;Shahi and rsquo; litchi. and  ;<em>The Ecoscan Special Issue</em> and  ;VII: 493-496.</li>\n\n
+<li>Pandey S.D., Kumar A., Patel R.K., Rai R.R. and Nath V. 2015. Influence of planting densities on plant growth, yield and quality of litchi cv. Shahi. and  ;<em>The Ecoscan</em> and  ;Special Issue VII: 397-401.</li>\n\n
+<li>Patel R.K., Basu L., Deka B.C., Deshmukh N.A. 2015. Standardization of grafting time and methods in and  ;<em>sohiong and  ;</em>(<em>Prunus nepalensis and  ;</em>): an underutilized fruit under mid hills of Meghalaya. and  ;<em>HortFlora Research Spectrum</em> and  ;4: 366-369.</li>\n\n
+<li>Patel R.K., Maiti C.S., Deka B.C., Deshmukh N.A., Verma V.K. and Nath A. 2015. Physical and biochemical changes in guava (<em>Psidium guajava</em>) during various stages of fruit growth and development. and  ;<em>International Journal of Agriculture, Environment and Biotechnology</em> and  ;8: 63-70</li>\n\n
+<li>Patel R.K., Maiti C.S., Deka B.C., Verma V.K., Deshmukh N.A. and Verma, M.R. 2015. Genetic Variability, Character Association and Path Coefficient Study in Guava (<em>Psidium guajava and  ;</em>) for Plant growth, Floral and Yield Attributes. and  ;<em>International Journal of Bio-resource and Stress Management</em> and  ;6: 000-000. </li>\n\n
+<li>Patel R.K., Maiti C.S., Kumar A. and Srivastava K. 2015. Genetic variability, character association and path coefficient study in guava (<em>Psidium guajava</em>) for yield and fruit related traits. and  ;<em>The Ecoscan</em> and  ;Special Issue VII: 447-453.</li>\n\n
+<li>Srivastava K., Patel R.K., Pandey S.D. Kumar A., and Nath V. 2015. Integrated management of lepidopteran defoliators in litchi under subtropics of Bihar. and  ;<em>The Ecoscan and lt; Special Issue</em> and  ;VII: 477-481.</li>\n\n
+</ol>
+
+    
+    </string>
+    <string name="narayan"><ol class="list list-ordened list-ordened-style-3 pl-sm">
+<li>Lal N., Das R.P. and Verma L.R. 2013. Effect of plant growth regulators on flowering and fruit growth of guava (Psidium guajava L) cv. Allahabad Safeda, Asian J. Hort. 8(1): 54-56.</li>\n\n
+</ol>
+</string>
+
+    <string name="swati">
+
+        <ol class="list list-ordened list-ordened-style-3 pl-sm">
+<li>Sharma S. and Sharma R.R. 2014. Nitric oxide inhibits activities of PAL and PME enzymes and reduces chilling injury in  and lsquo;Santa Rosa and rsquo; Japanese plum (<em>Prunus salicina</em> and  ;Lindell). and  ;<strong><em>Journal of Plant Biochemistry and Biotechnology</em></strong> and  ;doi:10.1007/s13562-014-0271-9. </li>\n\n
+<li>Barman K., Asrey R., Pal R.K., Jha S.K. and Sharma S. 2013. Influence of different desapping agents on the incidence of sapburn, ripening behaviour and quality of mango.<strong><em> and  ;Journal of Food Science and Technology</em></strong>doi: 10.1007/s13197-013-0995-x. </li>\n\n
+<li>Sharma S., Sharma R.R., Pal R.K., Jhalegar J., Singh J. and Srivastav M. 2012. Ethylene absorbents influence fruit firmness and activity of enzymes involved in fruit softening of Japanese plum (<em>Prunus salicina</em>) cv. Santa Rosa. and  ;<strong><em>Fruits</em></strong> and  ;67(4): 257-266. </li>\n\n
+<li>Sharma S., Sharma R.R., Pal R.K., Paul, V. and Dahuja A. 2012. 1-Methylcyclopropene influences biochemical attributes and fruit softening enzymes of  and lsquo;Santa Rosa and rsquo; Japanese plum (<em>Prunus salicina</em>).<strong><em> and  ;Journal of Plant Biochemistry and Biotechnology and  ;</em></strong>21(2): 295-299. </li>\n\n
+<li>Sharma S., Sharma R.R. and Pal R.K. 2012. Effect of ethylene absorbents on compression injury and quality of Santa Rosa Japanese plum (<em>Prunus salicina</em>) during transportation. and  ;<strong><em>Indian Journal of Agricultural Sciences</em> and  ;</strong>82(12): 223-226. </li>\n\n
+<li>Sharma S., Sharma R.R., Pal R.K. and Singh S.K. 2012. Influence of 1-MCP on compression injury of Japanese plums during transportation. and  ;<strong><em>Indian Journal of Horticulture</em></strong> and  ;69(4): 101-106. </li>\n\n
+<li>Jhalegar J., Sharma R.R., Pal R.K. and Sharma S. 2012. Effect of 1-MCP on shelf-life and quality of kiwifruit stored under ambient conditions.<strong> and  ;<em>Indian Journal of Horticulture and  ;</em></strong>69(2): 258-262.</li>\n\n
+<li>Sharma S. and Sharma R.R. 2016. Impact of staggered treatments of novel molecules and ethylene absorbents on postharvest fruit physiology and enzyme activity of  and lsquo;Santa Rosa and rsquo; plums. and  ;<strong><em>Scientia Horticulturae</em></strong> and  ;198: 242-248.</li>\n\n
+<li>Nath V., Sharma S. and Barman K. 2016. Acute Encephalitis Syndrome and its Alleged Litchi Connection- A Review and Status and rdquo;. (Accepted in<strong> and  ;<em>Indian Journal of Agricultural Sciences</em></strong>). </li>\n\n
+<li>Sharma S., Sharma R.R. and Verma M.K. 2015. Postharvest treatment with nitric oxide influences the physiological and quality attributes of  and lsquo;Santa Rosa and rsquo; plums during cold storage. and  ;<strong><em>Indian Journal of Horticulture</em></strong> and  ;72(4): 535-540. and  </li>\n\n
+<li>Barman K., Sharma S., Patel V.B. and Asrey R. 2016. Harnessing nitrous oxide in postharvest management of fresh horticultural produce. (Accepted in and  ;<strong><em>Indian Journal of Agricultural Sciences</em></strong>). </li>\n\n
+</ol>
+
+
+    </string>
+    <string name="kuldeep">
+
+        <ol class="list list-ordened list-ordened-style-3 pl-sm">
+<li>Abrol P., Ramamurthy V.V. and Srivastava K. 2006. Bean Gall weevil and blister beetle as new pests of red kidney bean, (<strong><em>Phaseolus vulgaris and  ;</em>L.)</strong> and  ;in India. and  ;<em>Journal of Asia Pacific Entomology and  ;</em>9(4):1-4. </li>\n\n
+<li>Ahmad H., Khan R. B., Sharma D., Jamwal V.V.S. and Srivastava K. 2010. Assessment of yield infestation relationship of and  ;<strong><em>Cnaphalocrocic medinalis</em> and  ;(Guenee.)</strong> and  ;in rice.<em> and  ;Annals of Plant Protection Sciences</em> and  ;18(2): 489-490. </li>\n\n
+<li>Gupta R.K., Gani M., Jasrotia P. and Srivastava K. 2013. Development of the predator and  ;<strong><em>Eocanthecona furcellata</em></strong> and  ;on different proportions of nucleopolyhedrovirus infected and  ;<em>Spodoptera litura</em> and  ;larvae and potential for predator dissemination of virus in the field. and  ;<strong><em>BioControl</em></strong> and  ;58(4): 543-52.</li>\n\n
+<li>Gupta R.K., Gupta S., Bali K. and Srivastava K. 2010. Enhancing bio-suppression of and  ;<em>Parthenium hysterophorus</em>: Diapause in and  ;<strong><em>Zygogramma bicolorata and  ;</em></strong>Pallister and its manipulation through Insulin like Peptides (ILPs). and  ;<em>Journal of Asia-Pacific Entomology</em> and  ;13: 303 and ndash;308.</li>\n\n
+<li>Gupta R.K., Jaronski S.T., Srivastava K. and Bali K. 2011. First record on epizootics of and  ;<strong><em>Entomophthora grylli,</em></strong>on grasshoppers in Indian subcontinent: Pathogenecity and biocontrol potential on and  ;<em>Oxya velox. Archives of and  ;<strong>phytopathology</strong> and  ;and Plant Protection</em> and  ;44(5): 475-483.</li>\n\n
+<li>Gupta R.K., Srivastava K. and Kamlesh Bali. 2012. An entomophage park to promote natural enemy diversity. and  ;<strong><em>Biocontrol Science and Technology</em></strong> and  ;22(12): 1442-1464.</li>\n\n
+<li>Gupta S., Kaul V., Srivastava K. and Md. Monobrullah. 2008. Pathogenecity and in vivo culturing of a local isolate and  ;<strong><em>Steinernema carpocapsae</em> and  ;against and  ;<em>spodoptera litura</em> and  ;</strong>(Fab.). and  ;<em>Indian Journal Entomology and  ;</em>70(4): 346-349. </li>\n\n
+<li>Jamwal V.V.S., Ahmad H., Sharma D., Srivastava K. and Kumar V. 2013. Comparative Biological and Morphometric Attributes of and  ;<strong><em>Epilachna vigintioctopunctata and  ;</em>on Brinjal</strong> and  ;and Bitter Gourd. and  ;<em>Vegetos</em> and  ;26 (2): 426-437.</li>\n\n
+<li>Monobrullah M., Bharti P., Shankar U., Gupta R.K., Srivastava K. and Ahmad H. 2007. Trap catches and seasonal incidence of and  ;<em>Spodoptera litura</em> and  ;on cauliflower and tomato. and  ;<strong><em>Annals of Plant Protection Sciences</em></strong>15(1): 73-76.</li>\n\n
+<li>Srivastava K, Azizur Rahman S.K.M. and Shri Ram. 2007. Toxicity of lufenuron against<strong> and  ;<em>Spodoptera litura and  ;</em></strong>and ;<em><strong>Spilarctia obliqua and  ;</strong></em>Walk. and  ;<em>Annals of Plant Protection Sciences</em> and  ;15(1): 253-254.</li>\n\n
+<li>Srivastava K. and Shri Ram. 2004. Toxicity of diflubenzuron against and  ;<em><strong>Spodoptera litura</strong> and  ;</em>Fab. and  ;<strong><em>Spilarctia obliqua and  ;</em></strong>Walk. and  ;<em>Indian Journal Entomology and  ;</em>66(4): 354-356.</li>\n\n
+<li>Srivastava K., Azizur Rahman S.K.M. and Shri Ram. 2004. Effect of sublethal doses of lufenuron against and  ;<em>Spodoptera litura</em> and  ;Fab. and ;<strong><em>Spilarctia obliqua</em> and  ;Walk.. and  ;</strong><em><strong>Indian Journal Entomology</strong> and  ;</em>66(4): 287-292.</li>\n\n
+<li>Srivastava K., Azizur Rahman S.K.M. and Shri Ram. 2005. Effect of sublethal doses of diflubenzuron against and  ;<strong><em>Spodoptera litura</em> and  ;and ;<em>Spilarctia obliqua</em></strong> and  ;Walk. and  ;<em>Annals of Plant Protection Sciences</em> and  ;13(1): 44-47.</li>\n\n
+<li>Srivastava K., Shanker U., Abrol D.P. and Sharma D. 2008. Seasonal incidence and management of red spider mite, and  ;<em>Panonychus ulmi and  ;</em>(Koch) on apple.<strong> and  ;<em>Indian Journal of Applied Entomology and  ;</em></strong>22(2): 135-138.</li>\n\n
+<li>Kumar A., Srivastava K., Patel R.K. and Nath V. 2014. Management of litchi fruit borer and litchi mite using bio-rational approaches under subtropics of Bihar. and  ;<strong><em>The Ecoscan Special Issue</em></strong> and  ;VI: 285-289.</li>\n\n
+<li>Kumar A., Pandey S.D., Patel R.K., Rai R.R., Srivastava K. and Nath V. 2014. Studies on feasibility of intercropping under litchi based cropping system. and  ;<strong><em>The Ecoscan Special Issue</em></strong> and  ;V: 101-109.</li>\n\n
+<li>Patel R.K., Meitei S.B., Kumar A., Srivastava K., Deka B.C., Deshmukh N.A. and Verma V.K. 2014. Effect of leaf and fruit thinning on yield and quality of peach cv. Flordasun. and  ;<strong><em>The Ecoscan</em> and  ;</strong>Special Issue VI: 467-471. </li>\n\n
+<li>Kumar A., Pandey, S.D., Patel R.K., Singh S.K., Srivastava K. and Nath V. 2015. Induction of flowering by use of chemicals and cincturing in  and lsquo;Shahi and rsquo; litchi. and  ;<strong><em>The Ecoscan Special Issue</em> and  ;</strong>VII: 493-496.</li>\n\n
+<li>Patel R.K., Maiti C.S., Kumar A. and Srivastava K. 2015. Genetic variability, character association and path coefficient study in guava (<em>Psidium guajava</em>) for yield and fruit related traits. and  ;<strong><em>The Ecoscan</em> and  ;Special Issue</strong> and  ;VII: 447-453.</li>\n\n
+<li>Srivastava K., Patel R.K., Pandey S.D. Kumar A., and Nath V. 2015. Integrated management of lepidopteran defoliators in litchi under subtropics of Bihar. and  ;<strong><em>The Ecoscan</em> and  ;<em>Special Issue</em></strong> and  ;VII: 477-481.</li>\n\n
+</ol>
+
+
+
+
+
+    </string>
+
+    <string name="sanjay">
+
+        <ol class="list list-ordened list-ordened-style-3 pl-sm">
+<li>Panwar, Rashmi, Singh, Sanjay Kumar., Singh, C. P. and Singh, P. K. 2007. Mango fruit yield and quality improvement through fertigation along with mulch. and  ;<em>Indian Journal of Agricultural Sciences</em>, 77(10):680-684. </li>\n\n
+<li>Singh, Sanjay K., Singh, C. P. and Panwar, R. 2009. Response of fertigation and plastic mulch on growth characteristics of young  and lsquo;Dashehari and rsquo; mango. and  ;<em>Indian Journal of Horticulture</em>, 66(3):390-392. </li>\n\n
+<li>Singh, Sanjay Kumar, Singh. S. K., Sharma, R.R. and Srivastav, M. 2009. Effect of pruning on morpho-physiological parameters and microclimate under high density planting of mango (<em>Mangifera indica</em>) and  ;<em>Indian Journal of Agricultural Sciences</em>, 79(8):632-635. </li>\n\n
+<li>Singh, Sanjay Kumar., Singh. S.K. and Sharma, R.R. Endogenous phytohormones after pruning in three mango cultivars planted under high density. and  ;<em>Indian Journal of Plant Physiology</em>, 14(4):392-396. </li>\n\n
+<li>Singh, Sanjay Kr., Singh. S. K., Srivastav, M., Sharma, R.R. and Patel, V. B. 2010. Influence of pruning intensities on leaf nutrient composition in some mango (<em>Mangifera indica and  ;</em>) cultivars planted under high density. and  ;<em>Indian Journal of Horticulture</em>, 67(1):16-20. </li>\n\n
+<li>Singh, Sanjay Kumar., Singh, Sanjay Kumar and Sharma, Ram R. 2010. Effects of pruning intensity on the biochemical status of shoot buds in three different mango (<em>Mangifera indica</em>) cultivars planted at high density. and  ;<em>Journal of Horticultural Science  and amp; Biotechnology</em>, 85 (6): 483 and ndash;490). </li>\n\n
+<li>Singh, Sanjay Kumar, Singh, S. K and Sharma, R. R. 2010. Pruning alters fruit quality of mango cultivars (<em>Mangifera indica</em>) under high density planting. and  ;<em>Journal of Tropical Agriculture</em>. 48 (1 and ndash;2): 55 and ndash;57. </li>\n\n
+<li>Singh, Sanjay Kumar., Singh, S.K., Shrama, R.R. and Patel, V.B. 2010. Influence of pruning intensity on flowering, fruit yields and floral malformation in three mango cultivars planted under high density. and  ;<em>Indian J. Hort</em>. 67(Special Issue): 84-89.</li>\n\n
+<li>Singh, Sanjay Kumar., Singh, S. K. 2010. Effect of pruning intensities on leaf tissue micronutrient status in three mango (<em>Mangifera indica</em>) cultivars planted under high density. and  ;<em>Journal of Horticultural Science</em>. 5 (2):37-41</li>\n\n
+<li>Singh Sanjay Kumar and Bhargava, R. Evaluation of mango genotypes for morpho-physiological attributes under hot-arid zone of Rajasthan. and  ;<em>Journal of Tropical Agriculture</em>. 49 (1 and ndash;2): 104 and ndash;106. </li>\n\n
+<li>Singh, Sanjay Kumar, Singh, R. S. and Awasthi, O.P. 2013. Influence of pre- and post-harvest treatments on shelf-life and quality attributes of and  ;<em>ber</em> and  ;<em>Indian Journal Horticulture</em>, 70 (4): 610-614. </li>\n\n
+<li>Singh, Sanjay Kumar, Singh, Awtar, Nath, Vishal, Parthasarathy, V. A., Sthapit B., Rajan, S. and Vinoth, S. 2015. Genetic Diversity in Seedling Populations of Mango. and  ;<em>Indian J. Plant Genet. Resour. and  ;</em>28(1): 123-131. </li>\n\n
+<li>Singh, Sanjay Kumar, Singh, Awtar, Nath Vishal, Parthasarathy, V. A., Sthapit B. and Vinoth, S. 2015. Pummelo in Homestead Garden: Conservation through Family Farming. and  ;<em>Indian J. Plant Genet. Resour. and  ;</em>28(1): 132-138. </li>\n\n
+<li>Singh, Sanjay Kumar, Singh, I. P., Singh, Awtar, Parthasarathy, V. A. and Vinoth, S. 2015. Pummelo [<em>Citrus grandis and  ;</em>(L.) Osbeck] Diversity in India. and  ;<em>Indian J. Plant Genet. Resour. and  ;</em>28(1): 44-49. </li>\n\n
+<li>Gajanana, T.M., Dinesh, M.R., Rajan, S., Vasudeva, R., Singh, Sanjay Kumar, Lamers, Hugo A.H., Parthasarathy, V.A., Sthapit, B. and Ramanatha Rao. 2015. Motivation for On-farm Conservation of Mango (<em>Mangifera indica</em>) Diversity in India: A Case Study.<em> and  ;Indian J. Plant Genet. Resour. and  ;</em>28(1):1-6</li>\n\n
+<li>Vasudeva R., Sthapit B., Salma I., Changtragoon S., Arsanti I.W., Gerten , Dum-ampai, N., Rajan, S., Dinesh, M.R., Singh<sub>,</sub> and  ;I. P., Singh, Sanjay Kumar, Reddy, B.M.C., Parthasarathy, V. A. and V. Ramanatha Rao. 2015. Use Values and Cultural Importance of Major Tropical Fruit Trees: An Analysis from 24 Village Sites Across South and South East Asia.<em> and  ;Indian J. Plant Genet. Resour. and  ;</em>28(1):17-30</li>\n\n
+<li>Gajanana, T.M., Rajan, S., Singh, I.P., Dinesh, M.R., Vasudeva R., Singh., Sanjay Kumar, Lamers, Hugo A.H., Parthasarathy, V.A., Sthapit, B. and Ramanatha Rao V. 2015. Fruit Diversity Fair and On-farm Conservation: An Indian Experience. and  ;<em>Indian J. Plant Genet. Resour. and  ;</em>28(1): 80-86</li>\n\n
+<li>Dinesh, M.R.,<sup>,</sup> and  ;Rajan S., Singh, Sanjay Kumar, Singh I.P., Ravishankar, K.V., Reddy, B.M.C., Parthasarathy, V.A., Sthapit B., Ramanatha Rao V. and B.S. Sandya. 2015. Heirloom/ Seedling Mango Varieties of India: Potentialities and Future.<em> and  ;Indian J. Plant Genet. Resour. and  ;</em>28(1):139-151</li>\n\n
+<li>Pandey, Swapnil, Singh, J., Singh, Sanjay Kumar and Mourya, I. B. 2015. Influence of growing environment on growth, yield and chemical composition of strawberry (Fragaria  and times; ananassa) fruits under open vs naturally ventilated polyhouse conditions. and  ;<em>Indian Journal of Agricultural Sciences</em>, 85(12):1540-45</li>\n\n
+<li>Kumar, Amrendra, Pandey, S.D., Patel, R. K., Singh, S. K., Srivastava, K., and Vishal Nath. 2015. Induction of flowering by use of chemicals and cincturing in  and lsquo;Shahi and rsquo; litchi. and  ;<em>The Ecoscan</em>, 9(7):493-496.</li>\n\n
+</ol>
+
+
+
+
+    </string>
+    <string name="morboh">
+
+        <ol class="list list-ordened list-ordened-style-3 pl-sm">
+<li>Marboh E.S., Lal R.L. and Mishra D.S. 2010. Effect of hot water treatment and oxalic acid at different regimes on storage quality of litchi fruit cv. Rose Scented under ambient conditions. and  ;<em><strong>Indian J. Hort</strong>.</em> and  ;<strong>67</strong>: 419-422.</li>\n\n
+<li>Marboh E.S., Lal R.L., Mishra D.S. and Goswami A.K. 2012. Effect of hot water treatment and oxalic acid on colour retention and storage quality of litchi fruit cv. Rose Scented. and  ;<em><strong>Indian J. Hort</strong>. and  ;</em>69(4): 484-488. </li>\n\n
+<li>Marboh E.S., Singh A.K., Dubey A.K. and Prakash J. 2015. Analysis of genetic variability among citrus (<em>Citrus and  ;</em>spp) genotypes using morphological traits.<strong><em> and  ;Indian Journal of Agricultural Sciences and  ;</em></strong>85(2): 203 and ndash;11. </li>\n\n
+</ol>
+    </string>
+
+    <string name="purbey">
+
+        <ol class="list list-ordened list-ordened-style-3 pl-sm">
+<li>Vyas S.P. and Purbey S.K. 1998. Under exploited oil yielding plants of Kachchh (Gujarat). Econ. Taxon. Bot. 22: 635-638.</li>\n\n
+<li>Vyas S.P. and Purbey S.K. 2004. Evaluation of ber (<em>Ziziphus mauritiana</em> and  ;Lamk) under rainfed condition in Kuchchh. and  ;<em>Current Agriculture</em> and  ;28(3-4): 171-174.</li>\n\n
+<li>Vyas S.P. and Purbey S.K. 2004. Influence of biofertilizer on growth yield and economic returns of henna. and  ;<em>Current Agriculture</em> and  ;29(1-2): 133-135.</li>\n\n
+<li>Purbey S.K. and Vyas S.P. 2005. Medicinal Importance of Trees and Shrubs of Kachchh Desert. Econ. Taxon. Bot. 29: 137-140.</li>\n\n
+<li>Purbey S.K. and Meghwal P.R. 2005. Effect of pre-sowing seed treatment on seed germination and vigour of aonla seedlings. and  ;<em>Research on Crops</em> and  ;6(3): 560-61.</li>\n\n
+<li>Purbey S.K. and Vyas S.P. 2005. Influence of seed age on germination and seeling vigour of Aonla. and  ;<em>Current agriculture</em>, 29 (3-4):36-38.</li>\n\n
+<li>Purbey S.K. Harit R.C., Swami M.L. and Vyas S.P. 2005. Growth response of and  ;<em>Plantago ovata</em> and  ;Forks (Isabgol) to light conditions. and  ;<em>Udayanika</em> and  ;10(1): 26-28.</li>\n\n
+<li>Purbey S.K. and Sen N.L. Lal 2005. Effect of bioinoculants and bioregulators on productivity and quality of fenugreek and  ;<em>(Trigonella foenum-graecum L.). Indian Journal of Agricultural Sciences</em> and  ;75(9): 608-611.</li>\n\n
+<li>Purbey S.K. and Sen N.L. Lal. 2005. Response of fenugreek and  ;<em>(Trigonella foenum-graecum L.) and  ;</em>to bioinoculantion and plant bioregulators. and  ;<em>Indian Journal of Horticultural Science</em> and  ;62(4): 416-418.</li>\n\n
+<li>Purbey S.K. and Vyas S.P. 2006. Effect of antitranspirant on growth and yield of different varieties of cowpea under limited irrigation. and  ;<em>Journal of Arid Legumes</em> and  ;22(2): 28-30.</li>\n\n
+<li>Purbey S.K. and Sen N.L. Lal. 2007. Effect of bioinoculants and plant bioregulators on yield, nutrient content and uptake by fenugreek and  ;<em>(Trigonella foenum-graecum L.). Indian Journal of Agricultural Research and  ;</em>41(2): 154-156.</li>\n\n
+<li>Purbey S. K. and Kumar A. 2015. Effect of Pre-harvest bagging on quality and yield of litchi (<em>Litchi chinensis</em>Sonn) Fruits. and  ;<em>The Ecoscan Special issue</em> and  ;VII: 197-201.</li>\n\n
+<li>Kumar V., Purbey S.K. and Anal A.K.D. 2016. Losses in litchi at various stages of supply chain and changes in fruit quality parameters. and  ;<em>Crop Protection</em> and  ;79: 97-104.</li>\n\n
+</ol>
+    </string>
+
+    <string name="vinod">
+
+        <ol class="list list-ordened list-ordened-style-3 pl-sm">
+<li>Singh U.P., Prithiviraj B., Khiste S., Kumar V., Srivastava J.S.,Manickam M. and Singh A. 1999. Effect of and  ;<em>Cyperus rotundus</em> and  ;rhizome extract on and  ;<em>Fusarium udum. Indian Phytopathology</em> and  ;52(1): 18-23.</li>\n\n
+<li>Kumar V. and Chowdhry P.N. 2004. Virulence of entomopathogenic fungi and  ;<em>Beauveria bassiana</em> and  ;and ;<em>Metarhizium anisopliae</em> and  ;against tomato fruit borer, and  ;<em>Helicoverpa armigera</em>.<em> and  ;Indian Phytopathology</em> and  ;57(2): 208-212.</li>\n\n
+<li>Kumar V., Basu M.S. and Rajendran T.P. 2008. Mycotoxin research and mycoflora in some commercially important agricultural commodities. C<em>rop Protection</em> and  ;27: 891-905. </li>\n\n
+<li>Kumar V., Bagwan N.B., Vyas U.M. and Singh D. 2008. Dynamics of soil population of and  ;<em>Aspergillus flavus</em> and  ;Link and aflatoxin contamination in groundnut based production system in Gujarat. and  ;<em>Indian Phytopathology</em> and  ;61(3): 343-347.</li>\n\n
+<li>Bera S.K., Hariprasanna K. and Kumar V. 2008. NRCG CS and ndash;148: A new large seeded genotype of groundnut. and  ;<em>Journal of Plant genetic Resources and  ;</em>21(1): 71-74. </li>\n\n
+<li>Kumar V., Bagwan N.B. and Singh D. 2009. On-farm evaluation of cultural practices for management of aflatoxins in groundnut. and  ;<em>Journal of Mycology and Plant Pathology</em> and  ;39(2): 271-274. </li>\n\n
+<li>Bera S.K., Kumar V., Radhakrishnan T., Sojitra V.K. and Gedia M.V. 2010. Interspecific derivatives for widening the genetic base of groundnut. and  ;<em>Journal of Plant Genetic Resources</em> and  ;23(2): 160-163.</li>\n\n
+<li>Kumar V., Bagwan N.B., Koradia V.G. and Padavi R.D. 2010. Colour sorting  and ndash; an effective tool to remove aflatoxin contaminated kernels in groundnut. and  ;<em>Indian Phytopathology</em> and  ;63(4): 449-451.]</li>\n\n
+<li>Kumar V., Ghewande M.P., Girdhar I.K., Padavi R.D. and Bhalodia P.K. 2010. Effect of salinity stress on foliar fungal diseases of groundnut. and  ;<em>Indian Phytopathology</em> and  ;63(3): 273-277.</li>\n\n
+<li>Kumar V., Kumar A. and Vishal Nath 2011. Emerging pests and diseases of litchi (<em>Litchi chinensis</em>). and  ;<em>Pest Management in Horticultural Ecosystems</em> and  ;17(1): 11-13. </li>\n\n
+<li>Kumar A., Pandey S.D., Kumar V. and Vishal Nath 2011. Evaluating potting media for production of quality planting materials of Litchi (<em>Litchi chinensis</em>). and  ;<em>Bihar Journal of Horticulture</em> and  ;1(1): 48-50.</li>\n\n
+<li>Kumar V., Lukose C., Bagwan N.B., Koradia V.G. and Padavi R.D. 2012. Occurrence of Alternaria leaf bight of groundnut in Gujarat and reaction of some genotypes against the disease. and  ;<em>Indian Phytopathology</em> and  ;65(1): 25-30.</li>\n\n
+<li>Kumar V., Rathnakumar A.L. and Bagwan N.B. 2012. Effect of crop residues and root exudates on mycelial growth, sclerotial formation, and ;<em>Sclerotium rolfsii</em>-induced stem rot disease of groundnut. and  ;<em>Indian Phytopathology</em> and  ;65(3): 238-243.</li>\n\n
+<li>Kumar V., Reddy P.V.R. and Anal A.K.D. 2013. Report on the occurrence and biology of and  ;<em>Thalassodes pilaria</em>Guen and eacute;e (Lepidoptera: Geometridae) on litchi (<em>Litchi chinensis</em>) in Bihar, India. and  ;<em>Pest Management in Horticultural Ecosystem</em> and  ;19: 239-241.</li>\n\n
+<li>Kumar V., Reddy P.V.R., Anal A.K.D. and Vishal Nath 2014. Outbreak of looper, and  ;<em>Perixera illepidaria</em>(Lepidoptera: Geometridae) on litchi, and  ;<em>Litchi chinensis</em> and  ;(Sapindales: Sapindaceae) and ndash; A new pest record from India. and  ;<em>Florida Entomolologist</em> and  ;97(1): 22-29. </li>\n\n
+<li>Kumar V., Anal A.K.D. and Vishal Nath 2014. Prevalence of some threatening pests and disease of litchi (<em>Litchi chinensis</em>) in Bihar state of India. and  ;<em>Journal of Applied Horticulture</em> and  ;16(3): 235-240. </li>\n\n
+<li>Kumar R. and Kumar V. 2014. Impact of pollination by European honey bee, and  ;<em>Apis mellifera</em> and  ;on the yield and quality of litchi (<em>Litchi chinensis</em> and  ;Sonn.) fruits in India. and  ;<em>Pest Management in Horticultural Ecosystems</em> and  ;20 (2): 127-132.</li>\n\n
+<li>Singh D., Radhakrishnan T., Kumar V., Bagwan N.B., Basu M.S., Dobaria J.R., Mishra G.P. and Chanda S. 2015. Morphological and toxigenic variability in the and  ;<em>Aspergillus flavus</em> and  ;isolates from peanut (<em>Arachis hypogaea</em>) production system in Gujarat, India. and  ;<em>Journal of Environmental Biology</em> and  ;6(2): 441-449.</li>\n\n
+<li>Singh D., Radhakrishnan T., Kumar V., Bagwan N.B., Basu M.S., Dobaria J.R., Mishra G.P. and Chanda S.V. 2015. Molecular characterization of Aspergillus section Flavi isolates collected from a major peanut cropping system of India using AFLP. and  ;<em>Brazilian Journal of Microbiology</em> and  ;46(3): 673-682. doi: 10.1590/S1517-838246320131115. </li>\n\n
+<li>Jadon K.S., Thirumalaisamy P.P., Kumar V., Koradia V.G. and Padavi R.D. 2015. Management of soil borne diseases of groundnut through seed dressing fungicides. and  ;<em>Crop Protection</em> and  ;78: 198-203. doi: 10.1016/j.cropro.2015.08.021.</li>\n\n
+<li>Kumar V., Kumar R. and Anal A.K.D. 2016. Arbuscular mycorrhizal association, species diversity and factors influencing association with litchi trees in India. and  ;<em>Journal of Environmental Biology</em> and  ;37(1): 91-100.</li>\n\n
+<li>Kumar V., Purbey S.K. and Anal A.K.D. 2016. Losses in litchi at various stages of supply chain and changes in fruit quality parameters after harvest. and  ;<em>Crop Protection</em> and  ;79: 97-104. doi:10.1016/j.cropro.2015.10.014.</li>\n\n
+<li>Kumar R. and Kumar V. 2016. Physiological disorders in perennial woody tropical and subtropical fruit crops-A review. Indian Journal of Agricultural Sciences 86(6):703-717.</li>\n\n
+<li>Kumar V, Purbey SK, Pongener A, Anal AKD and Nath V 2016. Effect of some fructoplane antagonists and postharvest dip treatments on litchi fruit rots and shelf life. International Journal of Tropical Agriculture 64(2): 333-343. </li>\n\n
+</ol>
+
+
+    </string>
+    <string name="alemwati">
+
+        <ol class="list list-ordened list-ordened-style-3 pl-sm">
+<li>Singh S.P., Saini M.K., Singh J., Pongener A. and Sidhu G.S. 2014. Preharvest application of abscisic acid promotes anthocyanins accumulation in pericarp of litchi fruit without adversely affecting postharvest quality. ;<strong><em>Postharvest Biology and Technology</em></strong> ;96: 14-22.</li>\n\n
+<li>Pongener A., Sagar V., Pal R.K., Ram Asrey, Sharma R.R., Singh S.K. 2014. Physiological and quality changes during postharvest ripening of purple passion fruit (<em>Passiflora edulis</em> ;Sims). ;<strong><em>Fruits</em></strong> ;69(1): 1-12. </li>\n\n
+<li>Sharma R.R. and Pongener A. 2010. Natural products for postharvest decay control in horticultural produce: a review. ;<strong><em>Stewart Postharvest Review</em></strong> ;4: 1. </li>\n\n
+<li>Pongener A., Mahajan B.V.C. and Singh H. 2011. Effect of different packaging films on storage life and quality of peach fruits under cold storage conditions. ;<strong><em>Indian Journal of Horticulture</em></strong> ;68(2): 240-245. </li>\n\n
+<li>Pongener A., Mahajan B.V.C. and Singh H. 2010. Effect of packaging films on shelf life of peach fruits under supermarket conditions. ;<strong><em>Journal of Research Punjab Agricultural University</em></strong> ;47 (3amp;4): 149-153. </li>\n\n
+</ol>
+
+    </string>
+
+    <string name="pdf">
+       <u>Download PDF</u>
+    </string>
+
+    <string name="content">
+       <u>Content</u>
+    </string>
+
+    <string name="drawer_open">drawer open</string>
+    <string name="drawer_close">drawer close</string>
+    <string name="notice">Notice Board</string>
+
+</resources>

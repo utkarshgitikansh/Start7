@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="100dp"
+    android:layout_height="400dp">
+
+    <item
+        android:id="@+id/litchi"
+        app:showAsAction="never"
+        android:title="@string/litchi"
+        />
+    <item
+        android:id="@+id/notice"
+        app:showAsAction="never"
+        android:title="@string/notice"
+        />
+
+    <item
+        android:id="@+id/news"
+        app:showAsAction="never"
+        android:title="News and Events">
+    </item>
+
+
+    <item
+        android:id="@+id/tender"
+        app:showAsAction="never"
+        android:title="Tenders">
+    </item>
+
+    <item
+        android:id="@+id/recruit"
+        app:showAsAction="never"
+        android:title="Recruitment"
+        >
+    </item>
+</menu>

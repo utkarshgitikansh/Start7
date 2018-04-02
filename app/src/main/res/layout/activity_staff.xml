@@ -1,0 +1,272 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent" android:layout_height="match_parent"
+    android:background="@color/white">
+<RelativeLayout
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/white">
+    <ImageView
+        android:layout_width="150dp"
+        android:layout_height="150dp"
+        android:src="@drawable/director"
+        android:padding="10dp"/>
+
+    <TextView
+        android:layout_height="wrap_content"
+        android:layout_width="wrap_content"
+        android:layout_marginLeft="180dp"
+        android:layout_marginRight="10dp"
+        android:layout_marginTop="50dp"
+        android:text="Dr. Vishal Nath (Director)"
+        android:textColor="#000000"
+        android:textStyle="bold"
+
+        />
+    <TextView
+        android:layout_height="wrap_content"
+        android:layout_width="200dp"
+        android:layout_marginLeft="180dp"
+        android:layout_marginRight="10dp"
+        android:layout_marginTop="70dp"
+        android:text="nrclitchi@yahoo.co.in
+director.nrcl@icar.gov.in"
+        android:textColor="#000000"
+        android:fontFamily="sans-serif-smallcaps"
+        />
+
+    <ImageView
+    android:layout_width="150dp"
+    android:layout_height="150dp"
+    android:layout_marginTop="150dp"
+    android:src="@drawable/staff_1"
+    android:padding="10dp"/>
+
+    <TextView
+        android:layout_height="wrap_content"
+        android:layout_width="wrap_content"
+        android:layout_marginLeft="180dp"
+        android:layout_marginRight="10dp"
+        android:layout_marginTop="180dp"
+        android:text="Dr. S. D. Pandey (Pr. Scientist (Hort.))"
+        android:textColor="#000000"
+        android:textStyle="bold"
+        />
+    <TextView
+        android:layout_height="wrap_content"
+        android:layout_width="200dp"
+        android:layout_marginLeft="180dp"
+        android:layout_marginRight="10dp"
+        android:layout_marginTop="215dp"
+        android:text="pandeynrcb@yahoo.com
+shesh@ icar.gov.in"
+        android:textColor="#000000"
+        android:fontFamily="sans-serif-smallcaps"
+        />
+
+    <ImageView
+        android:layout_width="150dp"
+        android:layout_height="150dp"
+        android:layout_marginTop="300dp"
+        android:src="@drawable/staff_2"
+        android:padding="10dp"/>
+
+    <TextView
+        android:layout_height="wrap_content"
+        android:layout_width="wrap_content"
+        android:layout_marginLeft="180dp"
+        android:layout_marginRight="10dp"
+        android:layout_marginTop="340dp"
+        android:text="Dr. S. K. Purbey (Pr. Scientist (Hort.))"
+        android:textColor="#000000"
+        android:textStyle="bold"
+        />
+    <TextView
+        android:layout_height="wrap_content"
+        android:layout_width="200dp"
+        android:layout_marginLeft="180dp"
+        android:fontFamily="sans-serif-smallcaps"
+        android:layout_marginRight="10dp"
+        android:layout_marginTop="375dp"
+        android:text="pandeynrcb@yahoo.com
+shesh@ icar.gov.in"
+        android:textColor="#000000"
+        />
+
+    <ImageView
+        android:layout_width="150dp"
+        android:layout_height="150dp"
+        android:layout_marginTop="450dp"
+        android:src="@drawable/staff_3"
+        android:padding="10dp"/>
+
+    <TextView
+        android:layout_height="wrap_content"
+        android:layout_width="wrap_content"
+        android:layout_marginLeft="180dp"
+        android:layout_marginRight="10dp"
+        android:layout_marginTop="490dp"
+        android:text="Dr. Amrendra Kumar  (Pr. Scientist (Hort))"
+        android:textColor="#000000"
+        android:textStyle="bold"
+        />
+    <TextView
+        android:layout_height="wrap_content"
+        android:layout_width="200dp"
+        android:layout_marginLeft="180dp"
+        android:layout_marginRight="10dp"
+        android:fontFamily="sans-serif-smallcaps"
+        android:layout_marginTop="530dp"
+        android:text="amrendra_nrcl@yahoo.com
+amrendra.kumar1@ icar.gov.in"
+        android:textColor="#000000"
+        />
+
+    <ImageView
+        android:layout_width="150dp"
+        android:layout_height="150dp"
+        android:layout_marginTop="600dp"
+        android:src="@drawable/staff_4"
+        android:padding="10dp"/>
+
+    <TextView
+        android:layout_height="wrap_content"
+        android:layout_width="wrap_content"
+        android:layout_marginLeft="180dp"
+        android:layout_marginRight="10dp"
+        android:layout_marginTop="640dp"
+        android:text="Dr. R. K. Patel (Sr. Scientist (Hort.))"
+        android:textColor="#000000"
+        android:textStyle="bold"
+        />
+    <TextView
+        android:layout_height="wrap_content"
+        android:layout_width="200dp"
+        android:layout_marginLeft="180dp"
+        android:layout_marginRight="10dp"
+        android:layout_marginTop="680dp"
+        android:text="rkpatelicar@gmail.com
+ram.patel1@ icar.gov.in"
+        android:textColor="#000000"
+        android:fontFamily="sans-serif-smallcaps"
+        />
+
+    <ImageView
+        android:layout_width="150dp"
+        android:layout_height="150dp"
+        android:layout_marginTop="750dp"
+        android:src="@drawable/staff_5"
+        android:padding="10dp"/>
+
+    <TextView
+        android:layout_height="wrap_content"
+        android:layout_width="wrap_content"
+        android:layout_marginLeft="180dp"
+        android:layout_marginRight="10dp"
+        android:layout_marginTop="780dp"
+        android:text="Dr. Kuldeep Srivastava (Sr. Scientist (Entomology))"
+        android:textColor="#000000"
+        android:textStyle="bold"
+        />
+    <TextView
+        android:layout_height="wrap_content"
+        android:layout_width="200dp"
+        android:layout_marginLeft="180dp"
+        android:layout_marginRight="10dp"
+        android:layout_marginTop="820dp"
+        android:text="Kuldeep.ipm@gmail.com
+kuldeep.srivastava@ icar.gov.in"
+        android:fontFamily="sans-serif-smallcaps"
+        android:textColor="#000000"
+        />
+
+    <ImageView
+        android:layout_width="150dp"
+        android:layout_height="150dp"
+        android:layout_marginTop="900dp"
+        android:src="@drawable/staff_6"
+        android:padding="10dp"/>
+
+    <TextView
+        android:layout_height="wrap_content"
+        android:layout_width="wrap_content"
+        android:layout_marginLeft="180dp"
+        android:layout_marginRight="10dp"
+        android:layout_marginTop="940dp"
+        android:text="Dr. Vinod Kumar (Sr. Scientist (Plant Path.))"
+        android:textColor="#000000"
+        android:textStyle="bold"
+        />
+    <TextView
+        android:layout_height="wrap_content"
+        android:layout_width="200dp"
+        android:layout_marginLeft="180dp"
+        android:layout_marginRight="10dp"
+        android:layout_marginTop="975dp"
+        android:fontFamily="sans-serif-smallcaps"
+        android:text="vinod3kiari@yahoo.co.in
+vinod@nrclitchi.org"
+        android:textColor="#000000"
+        />
+
+    <ImageView
+        android:layout_width="150dp"
+        android:layout_height="150dp"
+        android:layout_marginTop="1050dp"
+        android:src="@drawable/staff_7"
+        android:padding="10dp"/>
+
+    <TextView
+        android:layout_height="wrap_content"
+        android:layout_width="wrap_content"
+        android:layout_marginLeft="180dp"
+        android:layout_marginRight="10dp"
+        android:layout_marginTop="1090dp"
+        android:text="Dr. Sanjay Kumar Singh (Scientist SS (Hort.))"
+        android:textColor="#000000"
+        android:textStyle="bold"
+        />
+    <TextView
+        android:layout_height="wrap_content"
+        android:layout_width="200dp"
+        android:layout_marginLeft="180dp"
+        android:layout_marginRight="10dp"
+        android:layout_marginTop="1125dp"
+        android:fontFamily="sans-serif-smallcaps"
+        android:text="sanjayhor@rediffmail.com
+sanjay.singh3@ icar.gov.in"
+        android:textColor="#000000"
+        />
+
+    <ImageView
+        android:layout_width="150dp"
+        android:layout_height="150dp"
+        android:layout_marginTop="1200dp"
+        android:src="@drawable/staff_8"
+        android:padding="10dp"/>
+
+    <TextView
+        android:layout_height="wrap_content"
+        android:layout_width="wrap_content"
+        android:layout_marginLeft="180dp"
+        android:layout_marginRight="10dp"
+        android:layout_marginTop="1245dp"
+        android:text="Dr. Abhay Kumar (Scientist SS (Plant Biotech.))"
+        android:textColor="#000000"
+        android:textStyle="bold"
+        />
+    <TextView
+        android:layout_height="wrap_content"
+        android:layout_width="200dp"
+        android:fontFamily="sans-serif-smallcaps"
+        android:layout_marginLeft="180dp"
+        android:layout_marginRight="10dp"
+        android:layout_marginTop="1280dp"
+        android:text="abhayiari@gmail.com
+abhay.kumar1@icar.gov.in"
+        android:textColor="#000000"
+        />
+
+</RelativeLayout>
+
+</ScrollView>

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white">
+
+    <TextView
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:text="Research Papers :"
+    android:layout_marginTop="25dp"
+    android:layout_marginLeft="25dp"
+    android:textStyle="bold"
+    android:textColor="#000000"
+    />
+
+    <Spinner
+        android:id="@+id/spinner1"
+        android:layout_width="350dp"  android:layout_centerHorizontal="true"
+        android:layout_height="wrap_content"
+        android:background="@android:drawable/btn_dropdown"
+        android:layout_marginTop="60dp"
+        android:spinnerMode="dialog" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Technical Bulletins :"
+        android:layout_marginTop="135dp"
+        android:layout_marginLeft="25dp"
+        android:textStyle="bold"
+        android:textColor="#000000"
+        />
+
+    <Spinner
+        android:id="@+id/spinner2"
+        android:layout_width="350dp"  android:layout_centerHorizontal="true"
+        android:layout_height="wrap_content"
+        android:background="@android:drawable/btn_dropdown"
+        android:layout_marginTop="170dp"
+        android:spinnerMode="dialog" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Extension Folder :"
+        android:layout_marginTop="235dp"
+        android:layout_marginLeft="25dp"
+        android:textStyle="bold"
+        android:textColor="#000000"
+        />
+
+    <Spinner
+        android:id="@+id/spinner3"
+        android:layout_width="350dp"  android:layout_centerHorizontal="true"
+        android:layout_height="wrap_content"
+        android:background="@android:drawable/btn_dropdown"
+        android:layout_marginTop="270dp"
+        android:spinnerMode="dialog" />
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Books :"
+        android:layout_marginTop="335dp"
+        android:layout_marginLeft="25dp"
+        android:textStyle="bold"
+        android:textColor="#000000"
+        />
+
+    <Spinner
+        android:id="@+id/spinner4"
+        android:layout_width="350dp"  android:layout_centerHorizontal="true"
+        android:layout_height="wrap_content"
+        android:background="@android:drawable/btn_dropdown"
+        android:layout_marginTop="370dp"
+        android:spinnerMode="dialog" />
+
+</RelativeLayout>

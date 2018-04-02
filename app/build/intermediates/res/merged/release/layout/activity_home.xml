@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    >
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/white"
+        android:padding="10dp"
+        android:alpha="1"
+        >
+
+        <ImageView
+            android:id="@+id/home_image1"
+            android:layout_width="match_parent"
+            android:layout_height="250dp"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true"
+            android:src="@drawable/home_1"
+            android:alpha="1"
+            />
+
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+
+            android:layout_marginTop="255dp"
+
+
+            android:text="आईसीएआर-राष्ट्रीय लीची अनुसंधान केन्द्र, मुजफ्फरपुर राष्ट्रीय स्तर पर लीची अनुसंधान और विकास को नेतृत्व प्रदान करने हेतु भारतीय कृषि अनुसंधान परिषद की एक प्रमुख संस्थान है। यह लीची के उत्पादन, प्रसंस्करण, मूल्य संवर्धन के बारे में जानकारी के लिए एक राष्ट्रीय-कोष के रूप में भी कार्य करता है, और अंत-उपयोगकर्ताओं के लिए परामर्श सेवाएं प्रदान करता है. वर्तमान में, केन्द्र पर 14 वैज्ञानिक, 3 तकनीकी सहायक, 8 प्रशासनिक कर्मचारी और 3 कुशल सहायक कर्मी हैं, जबकि स्वीकृत संख्या क्रमशः 15, 14, 12 और 10  हैं ।"
+            android:textColor="#000000"
+            android:padding="10dp"/>
+
+        <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="440dp"
+        android:text="Upcoming Events :"
+        android:textColor="#000000"
+        android:layout_marginLeft="10dp"
+        android:textStyle="bold"
+        />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="490dp"
+            android:text="@string/home_text_1"
+            android:textColor="#ADD8E6"
+            android:layout_marginLeft="10dp"
+            android:textStyle="bold"
+            android:id="@+id/event_1"
+            />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="570dp"
+            android:text="Important Links :"
+            android:textColor="#000000"
+            android:layout_marginLeft="10dp"
+            android:textStyle="bold"
+            />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="615dp"
+            android:text="@string/home_1"
+            android:textColor="#ADD8E6"
+            android:layout_marginLeft="10dp"
+            android:id="@+id/event_2"
+            />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="640dp"
+            android:text="@string/home_2"
+            android:textColor="#ADD8E6"
+            android:layout_marginLeft="10dp"
+            android:id="@+id/event_3"
+            />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="665dp"
+            android:text="@string/home_3"
+            android:textColor="#ADD8E6"
+            android:layout_marginLeft="10dp"
+            android:id="@+id/event_4"
+            />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="690dp"
+            android:text="@string/home_4"
+            android:textColor="#ADD8E6"
+            android:layout_marginLeft="10dp"
+            android:id="@+id/event_5"
+            />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="715dp"
+            android:text="@string/home_5"
+            android:textColor="#ADD8E6"
+            android:layout_marginLeft="10dp"
+            android:id="@+id/event_6"
+            />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="740dp"
+            android:text="@string/home_6"
+            android:textColor="#ADD8E6"
+            android:layout_marginLeft="10dp"
+            android:id="@+id/event_7"
+            />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="765dp"
+            android:text="@string/home_7"
+            android:textColor="#ADD8E6"
+            android:layout_marginLeft="10dp"
+            android:id="@+id/event_8"
+            />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="790dp"
+            android:text="@string/home_8"
+            android:textColor="#ADD8E6"
+            android:layout_marginLeft="10dp"
+            android:id="@+id/event_9"
+            />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="815dp"
+            android:text="@string/home_9"
+            android:textColor="#ADD8E6"
+            android:layout_marginLeft="10dp"
+            android:id="@+id/event_10"
+            />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="840dp"
+            android:text="@string/home_10"
+            android:textColor="#ADD8E6"
+            android:layout_marginLeft="10dp"
+            android:id="@+id/event_11"
+            />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="865dp"
+            android:text="@string/home_11"
+            android:textColor="#ADD8E6"
+            android:layout_marginLeft="10dp"
+            android:id="@+id/event_12"
+            android:layout_marginBottom="20dp"
+            />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="910dp"
+            android:text="Farmer\'s Advisory :"
+            android:textColor="#000000"
+            android:layout_marginLeft="10dp"
+            android:textStyle="bold"
+            />
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="950dp"
+            android:text="@string/home_21"
+            android:textColor="#ADD8E6"
+            android:layout_marginLeft="10dp"
+            android:id="@+id/event_21"
+            />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="985dp"
+            android:text="@string/home_22"
+            android:textColor="#ADD8E6"
+            android:layout_marginLeft="10dp"
+            android:id="@+id/event_22"
+            />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="1035dp"
+            android:text="@string/home_23"
+            android:textColor="#ADD8E6"
+            android:layout_marginLeft="10dp"
+            android:id="@+id/event_23"
+            />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="1070dp"
+            android:text="@string/home_24"
+            android:textColor="#ADD8E6"
+            android:layout_marginLeft="10dp"
+            android:id="@+id/event_24"
+            />
+
+
+
+
+    </RelativeLayout>
+</ScrollView>

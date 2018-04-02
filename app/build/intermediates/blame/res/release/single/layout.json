@@ -1,0 +1,410 @@
+[
+    {
+        "merged": "C:\\Users\\ugitikansh\\AndroidStudioProjects\\Start7\\app\\build\\intermediates\\res\\merged\\release\\layout\\notification_template_lines_media.xml",
+        "source": "C:\\Users\\ugitikansh\\.android\\build-cache\\1f9ff3f89c388f88a755bd1803a3600dbefed0bd\\output\\res\\layout\\notification_template_lines_media.xml"
+    },
+    {
+        "merged": "C:\\Users\\ugitikansh\\AndroidStudioProjects\\Start7\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_action_bar_up_container.xml",
+        "source": "C:\\Users\\ugitikansh\\.android\\build-cache\\10249a1105a05fdbe6e0a661b381745c2e66dbed\\output\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "C:\\Users\\ugitikansh\\AndroidStudioProjects\\Start7\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_select_dialog_material.xml",
+        "source": "C:\\Users\\ugitikansh\\.android\\build-cache\\10249a1105a05fdbe6e0a661b381745c2e66dbed\\output\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\ugitikansh\\AndroidStudioProjects\\Start7\\app\\build\\intermediates\\res\\merged\\release\\layout\\notification_template_big_media_narrow_custom.xml",
+        "source": "C:\\Users\\ugitikansh\\.android\\build-cache\\1f9ff3f89c388f88a755bd1803a3600dbefed0bd\\output\\res\\layout\\notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "C:\\Users\\ugitikansh\\AndroidStudioProjects\\Start7\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_alert_dialog_material.xml",
+        "source": "C:\\Users\\ugitikansh\\.android\\build-cache\\10249a1105a05fdbe6e0a661b381745c2e66dbed\\output\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\ugitikansh\\AndroidStudioProjects\\Start7\\app\\build\\intermediates\\res\\merged\\release\\layout\\tenders.xml",
+        "source": "C:\\Users\\ugitikansh\\AndroidStudioProjects\\Start7\\app\\src\\main\\res\\layout\\tenders.xml"
+    },
+    {
+        "merged": "C:\\Users\\ugitikansh\\AndroidStudioProjects\\Start7\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_list_menu_item_layout.xml",
+        "source": "C:\\Users\\ugitikansh\\.android\\build-cache\\10249a1105a05fdbe6e0a661b381745c2e66dbed\\output\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\ugitikansh\\AndroidStudioProjects\\Start7\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_list_menu_item_radio.xml",
+        "source": "C:\\Users\\ugitikansh\\.android\\build-cache\\10249a1105a05fdbe6e0a661b381745c2e66dbed\\output\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "C:\\Users\\ugitikansh\\AndroidStudioProjects\\Start7\\app\\build\\intermediates\\res\\merged\\release\\layout\\contact_us.xml",
+        "source": "C:\\Users\\ugitikansh\\AndroidStudioProjects\\Start7\\app\\src\\main\\res\\layout\\contact_us.xml"
+    },
+    {
+        "merged": "C:\\Users\\ugitikansh\\AndroidStudioProjects\\Start7\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_dialog_title_material.xml",
+        "source": "C:\\Users\\ugitikansh\\.android\\build-cache\\10249a1105a05fdbe6e0a661b381745c2e66dbed\\output\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\ugitikansh\\AndroidStudioProjects\\Start7\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_expanded_menu_layout.xml",
+        "source": "C:\\Users\\ugitikansh\\.android\\build-cache\\10249a1105a05fdbe6e0a661b381745c2e66dbed\\output\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\ugitikansh\\AndroidStudioProjects\\Start7\\app\\build\\intermediates\\res\\merged\\release\\layout\\notification_template_part_chronometer.xml",
+        "source": "C:\\Users\\ugitikansh\\.android\\build-cache\\96cac14f918607da0c8d95459d137b2d1737d3bc\\output\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "C:\\Users\\ugitikansh\\AndroidStudioProjects\\Start7\\app\\build\\intermediates\\res\\merged\\release\\layout\\slider.xml",
+        "source": "C:\\Users\\ugitikansh\\AndroidStudioProjects\\Start7\\app\\src\\main\\res\\layout\\slider.xml"
+    },
+    {
+        "merged": "C:\\Users\\ugitikansh\\AndroidStudioProjects\\Start7\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_action_menu_layout.xml",
+        "source": "C:\\Users\\ugitikansh\\.android\\build-cache\\10249a1105a05fdbe6e0a661b381745c2e66dbed\\output\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\ugitikansh\\AndroidStudioProjects\\Start7\\app\\build\\intermediates\\res\\merged\\release\\layout\\publications.xml",
+        "source": "C:\\Users\\ugitikansh\\AndroidStudioProjects\\Start7\\app\\src\\main\\res\\layout\\publications.xml"
+    },
+    {
+        "merged": "C:\\Users\\ugitikansh\\AndroidStudioProjects\\Start7\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_action_bar_title_item.xml",
+        "source": "C:\\Users\\ugitikansh\\.android\\build-cache\\10249a1105a05fdbe6e0a661b381745c2e66dbed\\output\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\ugitikansh\\AndroidStudioProjects\\Start7\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_screen_toolbar.xml",
+        "source": "C:\\Users\\ugitikansh\\.android\\build-cache\\10249a1105a05fdbe6e0a661b381745c2e66dbed\\output\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\ugitikansh\\AndroidStudioProjects\\Start7\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_action_mode_bar.xml",
+        "source": "C:\\Users\\ugitikansh\\.android\\build-cache\\10249a1105a05fdbe6e0a661b381745c2e66dbed\\output\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "C:\\Users\\ugitikansh\\AndroidStudioProjects\\Start7\\app\\build\\intermediates\\res\\merged\\release\\layout\\purbey.xml",
+        "source": "C:\\Users\\ugitikansh\\AndroidStudioProjects\\Start7\\app\\src\\main\\res\\layout\\purbey.xml"
+    },
+    {
+        "merged": "C:\\Users\\ugitikansh\\AndroidStudioProjects\\Start7\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_screen_content_include.xml",
+        "source": "C:\\Users\\ugitikansh\\.android\\build-cache\\10249a1105a05fdbe6e0a661b381745c2e66dbed\\output\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "C:\\Users\\ugitikansh\\AndroidStudioProjects\\Start7\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "C:\\Users\\ugitikansh\\.android\\build-cache\\10249a1105a05fdbe6e0a661b381745c2e66dbed\\output\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "C:\\Users\\ugitikansh\\AndroidStudioProjects\\Start7\\app\\build\\intermediates\\res\\merged\\release\\layout\\notification_media_action.xml",
+        "source": "C:\\Users\\ugitikansh\\.android\\build-cache\\1f9ff3f89c388f88a755bd1803a3600dbefed0bd\\output\\res\\layout\\notification_media_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\ugitikansh\\AndroidStudioProjects\\Start7\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "C:\\Users\\ugitikansh\\.android\\build-cache\\10249a1105a05fdbe6e0a661b381745c2e66dbed\\output\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\ugitikansh\\AndroidStudioProjects\\Start7\\app\\build\\intermediates\\res\\merged\\release\\layout\\narayan.xml",
+        "source": "C:\\Users\\ugitikansh\\AndroidStudioProjects\\Start7\\app\\src\\main\\res\\layout\\narayan.xml"
+    },
+    {
+        "merged": "C:\\Users\\ugitikansh\\AndroidStudioProjects\\Start7\\app\\build\\intermediates\\res\\merged\\release\\layout\\notification_template_media.xml",
+        "source": "C:\\Users\\ugitikansh\\.android\\build-cache\\1f9ff3f89c388f88a755bd1803a3600dbefed0bd\\output\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "C:\\Users\\ugitikansh\\AndroidStudioProjects\\Start7\\app\\build\\intermediates\\res\\merged\\release\\layout\\actionbar.xml",
+        "source": "C:\\Users\\ugitikansh\\AndroidStudioProjects\\Start7\\app\\src\\main\\res\\layout\\actionbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\ugitikansh\\AndroidStudioProjects\\Start7\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_staff.xml",
+        "source": "C:\\Users\\ugitikansh\\AndroidStudioProjects\\Start7\\app\\src\\main\\res\\layout\\activity_staff.xml"
+    },
+    {
+        "merged": "C:\\Users\\ugitikansh\\AndroidStudioProjects\\Start7\\app\\build\\intermediates\\res\\merged\\release\\layout\\design_navigation_item_header.xml",
+        "source": "C:\\Users\\ugitikansh\\.android\\build-cache\\0ef10220eee2f02e1bec46cc84ae7c25447aed9b\\output\\res\\layout\\design_navigation_item_header.xml"
+    },
+    {
+        "merged": "C:\\Users\\ugitikansh\\AndroidStudioProjects\\Start7\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_popup_menu_header_item_layout.xml",
+        "source": "C:\\Users\\ugitikansh\\.android\\build-cache\\10249a1105a05fdbe6e0a661b381745c2e66dbed\\output\\res\\layout\\abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\ugitikansh\\AndroidStudioProjects\\Start7\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_activity_chooser_view.xml",
+        "source": "C:\\Users\\ugitikansh\\.android\\build-cache\\10249a1105a05fdbe6e0a661b381745c2e66dbed\\output\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\ugitikansh\\AndroidStudioProjects\\Start7\\app\\build\\intermediates\\res\\merged\\release\\layout\\design_navigation_item_subheader.xml",
+        "source": "C:\\Users\\ugitikansh\\.android\\build-cache\\0ef10220eee2f02e1bec46cc84ae7c25447aed9b\\output\\res\\layout\\design_navigation_item_subheader.xml"
+    },
+    {
+        "merged": "C:\\Users\\ugitikansh\\AndroidStudioProjects\\Start7\\app\\build\\intermediates\\res\\merged\\release\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "C:\\Users\\ugitikansh\\.android\\build-cache\\10249a1105a05fdbe6e0a661b381745c2e66dbed\\output\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\ugitikansh\\AndroidStudioProjects\\Start7\\app\\build\\intermediates\\res\\merged\\release\\layout\\design_navigation_item_separator.xml",
+        "source": "C:\\Users\\ugitikansh\\.android\\build-cache\\0ef10220eee2f02e1bec46cc84ae7c25447aed9b\\output\\res\\layout\\design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "C:\\Users\\ugitikansh\\AndroidStudioProjects\\Start7\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "C:\\Users\\ugitikansh\\.android\\build-cache\\10249a1105a05fdbe6e0a661b381745c2e66dbed\\output\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\ugitikansh\\AndroidStudioProjects\\Start7\\app\\build\\intermediates\\res\\merged\\release\\layout\\design_navigation_item.xml",
+        "source": "C:\\Users\\ugitikansh\\.android\\build-cache\\0ef10220eee2f02e1bec46cc84ae7c25447aed9b\\output\\res\\layout\\design_navigation_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\ugitikansh\\AndroidStudioProjects\\Start7\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_main.xml",
+        "source": "C:\\Users\\ugitikansh\\AndroidStudioProjects\\Start7\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\ugitikansh\\AndroidStudioProjects\\Start7\\app\\build\\intermediates\\res\\merged\\release\\layout\\notice.xml",
+        "source": "C:\\Users\\ugitikansh\\AndroidStudioProjects\\Start7\\app\\src\\main\\res\\layout\\notice.xml"
+    },
+    {
+        "merged": "C:\\Users\\ugitikansh\\AndroidStudioProjects\\Start7\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_action_menu_item_layout.xml",
+        "source": "C:\\Users\\ugitikansh\\.android\\build-cache\\10249a1105a05fdbe6e0a661b381745c2e66dbed\\output\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\ugitikansh\\AndroidStudioProjects\\Start7\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_alert_dialog_title_material.xml",
+        "source": "C:\\Users\\ugitikansh\\.android\\build-cache\\10249a1105a05fdbe6e0a661b381745c2e66dbed\\output\\res\\layout\\abc_alert_dialog_title_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\ugitikansh\\AndroidStudioProjects\\Start7\\app\\build\\intermediates\\res\\merged\\release\\layout\\notification_template_custom_big.xml",
+        "source": "C:\\Users\\ugitikansh\\.android\\build-cache\\96cac14f918607da0c8d95459d137b2d1737d3bc\\output\\res\\layout\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "C:\\Users\\ugitikansh\\AndroidStudioProjects\\Start7\\app\\build\\intermediates\\res\\merged\\release\\layout\\select_dialog_item_material.xml",
+        "source": "C:\\Users\\ugitikansh\\.android\\build-cache\\10249a1105a05fdbe6e0a661b381745c2e66dbed\\output\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\ugitikansh\\AndroidStudioProjects\\Start7\\app\\build\\intermediates\\res\\merged\\release\\layout\\tooltip.xml",
+        "source": "C:\\Users\\ugitikansh\\.android\\build-cache\\10249a1105a05fdbe6e0a661b381745c2e66dbed\\output\\res\\layout\\tooltip.xml"
+    },
+    {
+        "merged": "C:\\Users\\ugitikansh\\AndroidStudioProjects\\Start7\\app\\build\\intermediates\\res\\merged\\release\\layout\\design_bottom_sheet_dialog.xml",
+        "source": "C:\\Users\\ugitikansh\\.android\\build-cache\\0ef10220eee2f02e1bec46cc84ae7c25447aed9b\\output\\res\\layout\\design_bottom_sheet_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\ugitikansh\\AndroidStudioProjects\\Start7\\app\\build\\intermediates\\res\\merged\\release\\layout\\kuldeep.xml",
+        "source": "C:\\Users\\ugitikansh\\AndroidStudioProjects\\Start7\\app\\src\\main\\res\\layout\\kuldeep.xml"
+    },
+    {
+        "merged": "C:\\Users\\ugitikansh\\AndroidStudioProjects\\Start7\\app\\build\\intermediates\\res\\merged\\release\\layout\\pests.xml",
+        "source": "C:\\Users\\ugitikansh\\AndroidStudioProjects\\Start7\\app\\src\\main\\res\\layout\\pests.xml"
+    },
+    {
+        "merged": "C:\\Users\\ugitikansh\\AndroidStudioProjects\\Start7\\app\\build\\intermediates\\res\\merged\\release\\layout\\annual_report.xml",
+        "source": "C:\\Users\\ugitikansh\\AndroidStudioProjects\\Start7\\app\\src\\main\\res\\layout\\annual_report.xml"
+    },
+    {
+        "merged": "C:\\Users\\ugitikansh\\AndroidStudioProjects\\Start7\\app\\build\\intermediates\\res\\merged\\release\\layout\\projects.xml",
+        "source": "C:\\Users\\ugitikansh\\AndroidStudioProjects\\Start7\\app\\src\\main\\res\\layout\\projects.xml"
+    },
+    {
+        "merged": "C:\\Users\\ugitikansh\\AndroidStudioProjects\\Start7\\app\\build\\intermediates\\res\\merged\\release\\layout\\navigation_header.xml",
+        "source": "C:\\Users\\ugitikansh\\AndroidStudioProjects\\Start7\\app\\src\\main\\res\\layout\\navigation_header.xml"
+    },
+    {
+        "merged": "C:\\Users\\ugitikansh\\AndroidStudioProjects\\Start7\\app\\build\\intermediates\\res\\merged\\release\\layout\\patel.xml",
+        "source": "C:\\Users\\ugitikansh\\AndroidStudioProjects\\Start7\\app\\src\\main\\res\\layout\\patel.xml"
+    },
+    {
+        "merged": "C:\\Users\\ugitikansh\\AndroidStudioProjects\\Start7\\app\\build\\intermediates\\res\\merged\\release\\layout\\governance.xml",
+        "source": "C:\\Users\\ugitikansh\\AndroidStudioProjects\\Start7\\app\\src\\main\\res\\layout\\governance.xml"
+    },
+    {
+        "merged": "C:\\Users\\ugitikansh\\AndroidStudioProjects\\Start7\\app\\build\\intermediates\\res\\merged\\release\\layout\\notification_action.xml",
+        "source": "C:\\Users\\ugitikansh\\.android\\build-cache\\96cac14f918607da0c8d95459d137b2d1737d3bc\\output\\res\\layout\\notification_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\ugitikansh\\AndroidStudioProjects\\Start7\\app\\build\\intermediates\\res\\merged\\release\\layout\\notification_media_cancel_action.xml",
+        "source": "C:\\Users\\ugitikansh\\.android\\build-cache\\1f9ff3f89c388f88a755bd1803a3600dbefed0bd\\output\\res\\layout\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\ugitikansh\\AndroidStudioProjects\\Start7\\app\\build\\intermediates\\res\\merged\\release\\layout\\design_bottom_navigation_item.xml",
+        "source": "C:\\Users\\ugitikansh\\.android\\build-cache\\0ef10220eee2f02e1bec46cc84ae7c25447aed9b\\output\\res\\layout\\design_bottom_navigation_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\ugitikansh\\AndroidStudioProjects\\Start7\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_read_more2.xml",
+        "source": "C:\\Users\\ugitikansh\\AndroidStudioProjects\\Start7\\app\\src\\main\\res\\layout\\activity_read_more2.xml"
+    },
+    {
+        "merged": "C:\\Users\\ugitikansh\\AndroidStudioProjects\\Start7\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_list_menu_item_icon.xml",
+        "source": "C:\\Users\\ugitikansh\\.android\\build-cache\\10249a1105a05fdbe6e0a661b381745c2e66dbed\\output\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\ugitikansh\\AndroidStudioProjects\\Start7\\app\\build\\intermediates\\res\\merged\\release\\layout\\vinod.xml",
+        "source": "C:\\Users\\ugitikansh\\AndroidStudioProjects\\Start7\\app\\src\\main\\res\\layout\\vinod.xml"
+    },
+    {
+        "merged": "C:\\Users\\ugitikansh\\AndroidStudioProjects\\Start7\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "C:\\Users\\ugitikansh\\.android\\build-cache\\10249a1105a05fdbe6e0a661b381745c2e66dbed\\output\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "C:\\Users\\ugitikansh\\AndroidStudioProjects\\Start7\\app\\build\\intermediates\\res\\merged\\release\\layout\\sanjay.xml",
+        "source": "C:\\Users\\ugitikansh\\AndroidStudioProjects\\Start7\\app\\src\\main\\res\\layout\\sanjay.xml"
+    },
+    {
+        "merged": "C:\\Users\\ugitikansh\\AndroidStudioProjects\\Start7\\app\\build\\intermediates\\res\\merged\\release\\layout\\home_organo.xml",
+        "source": "C:\\Users\\ugitikansh\\AndroidStudioProjects\\Start7\\app\\src\\main\\res\\layout\\home_organo.xml"
+    },
+    {
+        "merged": "C:\\Users\\ugitikansh\\AndroidStudioProjects\\Start7\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "C:\\Users\\ugitikansh\\.android\\build-cache\\10249a1105a05fdbe6e0a661b381745c2e66dbed\\output\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\ugitikansh\\AndroidStudioProjects\\Start7\\app\\build\\intermediates\\res\\merged\\release\\layout\\notification_template_big_media_narrow.xml",
+        "source": "C:\\Users\\ugitikansh\\.android\\build-cache\\1f9ff3f89c388f88a755bd1803a3600dbefed0bd\\output\\res\\layout\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "C:\\Users\\ugitikansh\\AndroidStudioProjects\\Start7\\app\\build\\intermediates\\res\\merged\\release\\layout\\morboh.xml",
+        "source": "C:\\Users\\ugitikansh\\AndroidStudioProjects\\Start7\\app\\src\\main\\res\\layout\\morboh.xml"
+    },
+    {
+        "merged": "C:\\Users\\ugitikansh\\AndroidStudioProjects\\Start7\\app\\build\\intermediates\\res\\merged\\release\\layout\\rajesh.xml",
+        "source": "C:\\Users\\ugitikansh\\AndroidStudioProjects\\Start7\\app\\src\\main\\res\\layout\\rajesh.xml"
+    },
+    {
+        "merged": "C:\\Users\\ugitikansh\\AndroidStudioProjects\\Start7\\app\\build\\intermediates\\res\\merged\\release\\layout\\litchi.xml",
+        "source": "C:\\Users\\ugitikansh\\AndroidStudioProjects\\Start7\\app\\src\\main\\res\\layout\\litchi.xml"
+    },
+    {
+        "merged": "C:\\Users\\ugitikansh\\AndroidStudioProjects\\Start7\\app\\build\\intermediates\\res\\merged\\release\\layout\\pandey.xml",
+        "source": "C:\\Users\\ugitikansh\\AndroidStudioProjects\\Start7\\app\\src\\main\\res\\layout\\pandey.xml"
+    },
+    {
+        "merged": "C:\\Users\\ugitikansh\\AndroidStudioProjects\\Start7\\app\\build\\intermediates\\res\\merged\\release\\layout\\select_dialog_multichoice_material.xml",
+        "source": "C:\\Users\\ugitikansh\\.android\\build-cache\\10249a1105a05fdbe6e0a661b381745c2e66dbed\\output\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\ugitikansh\\AndroidStudioProjects\\Start7\\app\\build\\intermediates\\res\\merged\\release\\layout\\design_layout_tab_icon.xml",
+        "source": "C:\\Users\\ugitikansh\\.android\\build-cache\\0ef10220eee2f02e1bec46cc84ae7c25447aed9b\\output\\res\\layout\\design_layout_tab_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\ugitikansh\\AndroidStudioProjects\\Start7\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_alert_dialog_button_bar_material.xml",
+        "source": "C:\\Users\\ugitikansh\\.android\\build-cache\\10249a1105a05fdbe6e0a661b381745c2e66dbed\\output\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\ugitikansh\\AndroidStudioProjects\\Start7\\app\\build\\intermediates\\res\\merged\\release\\layout\\recruit.xml",
+        "source": "C:\\Users\\ugitikansh\\AndroidStudioProjects\\Start7\\app\\src\\main\\res\\layout\\recruit.xml"
+    },
+    {
+        "merged": "C:\\Users\\ugitikansh\\AndroidStudioProjects\\Start7\\app\\build\\intermediates\\res\\merged\\release\\layout\\design_navigation_menu.xml",
+        "source": "C:\\Users\\ugitikansh\\.android\\build-cache\\0ef10220eee2f02e1bec46cc84ae7c25447aed9b\\output\\res\\layout\\design_navigation_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\ugitikansh\\AndroidStudioProjects\\Start7\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_main2.xml",
+        "source": "C:\\Users\\ugitikansh\\AndroidStudioProjects\\Start7\\app\\src\\main\\res\\layout\\activity_main2.xml"
+    },
+    {
+        "merged": "C:\\Users\\ugitikansh\\AndroidStudioProjects\\Start7\\app\\build\\intermediates\\res\\merged\\release\\layout\\notification_template_media_custom.xml",
+        "source": "C:\\Users\\ugitikansh\\.android\\build-cache\\1f9ff3f89c388f88a755bd1803a3600dbefed0bd\\output\\res\\layout\\notification_template_media_custom.xml"
+    },
+    {
+        "merged": "C:\\Users\\ugitikansh\\AndroidStudioProjects\\Start7\\app\\build\\intermediates\\res\\merged\\release\\layout\\swati.xml",
+        "source": "C:\\Users\\ugitikansh\\AndroidStudioProjects\\Start7\\app\\src\\main\\res\\layout\\swati.xml"
+    },
+    {
+        "merged": "C:\\Users\\ugitikansh\\AndroidStudioProjects\\Start7\\app\\build\\intermediates\\res\\merged\\release\\layout\\notification_template_big_media_custom.xml",
+        "source": "C:\\Users\\ugitikansh\\.android\\build-cache\\1f9ff3f89c388f88a755bd1803a3600dbefed0bd\\output\\res\\layout\\notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "C:\\Users\\ugitikansh\\AndroidStudioProjects\\Start7\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "C:\\Users\\ugitikansh\\.android\\build-cache\\10249a1105a05fdbe6e0a661b381745c2e66dbed\\output\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\ugitikansh\\AndroidStudioProjects\\Start7\\app\\build\\intermediates\\res\\merged\\release\\layout\\amrendra.xml",
+        "source": "C:\\Users\\ugitikansh\\AndroidStudioProjects\\Start7\\app\\src\\main\\res\\layout\\amrendra.xml"
+    },
+    {
+        "merged": "C:\\Users\\ugitikansh\\AndroidStudioProjects\\Start7\\app\\build\\intermediates\\res\\merged\\release\\layout\\design_layout_snackbar_include.xml",
+        "source": "C:\\Users\\ugitikansh\\.android\\build-cache\\0ef10220eee2f02e1bec46cc84ae7c25447aed9b\\output\\res\\layout\\design_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "C:\\Users\\ugitikansh\\AndroidStudioProjects\\Start7\\app\\build\\intermediates\\res\\merged\\release\\layout\\archives.xml",
+        "source": "C:\\Users\\ugitikansh\\AndroidStudioProjects\\Start7\\app\\src\\main\\res\\layout\\archives.xml"
+    },
+    {
+        "merged": "C:\\Users\\ugitikansh\\AndroidStudioProjects\\Start7\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_screen_simple.xml",
+        "source": "C:\\Users\\ugitikansh\\.android\\build-cache\\10249a1105a05fdbe6e0a661b381745c2e66dbed\\output\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "C:\\Users\\ugitikansh\\AndroidStudioProjects\\Start7\\app\\build\\intermediates\\res\\merged\\release\\layout\\alemwati.xml",
+        "source": "C:\\Users\\ugitikansh\\AndroidStudioProjects\\Start7\\app\\src\\main\\res\\layout\\alemwati.xml"
+    },
+    {
+        "merged": "C:\\Users\\ugitikansh\\AndroidStudioProjects\\Start7\\app\\build\\intermediates\\res\\merged\\release\\layout\\bulletin.xml",
+        "source": "C:\\Users\\ugitikansh\\AndroidStudioProjects\\Start7\\app\\src\\main\\res\\layout\\bulletin.xml"
+    },
+    {
+        "merged": "C:\\Users\\ugitikansh\\AndroidStudioProjects\\Start7\\app\\build\\intermediates\\res\\merged\\release\\layout\\design_navigation_menu_item.xml",
+        "source": "C:\\Users\\ugitikansh\\.android\\build-cache\\0ef10220eee2f02e1bec46cc84ae7c25447aed9b\\output\\res\\layout\\design_navigation_menu_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\ugitikansh\\AndroidStudioProjects\\Start7\\app\\build\\intermediates\\res\\merged\\release\\layout\\news.xml",
+        "source": "C:\\Users\\ugitikansh\\AndroidStudioProjects\\Start7\\app\\src\\main\\res\\layout\\news.xml"
+    },
+    {
+        "merged": "C:\\Users\\ugitikansh\\AndroidStudioProjects\\Start7\\app\\build\\intermediates\\res\\merged\\release\\layout\\vishal_nath.xml",
+        "source": "C:\\Users\\ugitikansh\\AndroidStudioProjects\\Start7\\app\\src\\main\\res\\layout\\vishal_nath.xml"
+    },
+    {
+        "merged": "C:\\Users\\ugitikansh\\AndroidStudioProjects\\Start7\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_home.xml",
+        "source": "C:\\Users\\ugitikansh\\AndroidStudioProjects\\Start7\\app\\src\\main\\res\\layout\\activity_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\ugitikansh\\AndroidStudioProjects\\Start7\\app\\build\\intermediates\\res\\merged\\release\\layout\\alok.xml",
+        "source": "C:\\Users\\ugitikansh\\AndroidStudioProjects\\Start7\\app\\src\\main\\res\\layout\\alok.xml"
+    },
+    {
+        "merged": "C:\\Users\\ugitikansh\\AndroidStudioProjects\\Start7\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "C:\\Users\\ugitikansh\\.android\\build-cache\\10249a1105a05fdbe6e0a661b381745c2e66dbed\\output\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "C:\\Users\\ugitikansh\\AndroidStudioProjects\\Start7\\app\\build\\intermediates\\res\\merged\\release\\layout\\design_menu_item_action_area.xml",
+        "source": "C:\\Users\\ugitikansh\\.android\\build-cache\\0ef10220eee2f02e1bec46cc84ae7c25447aed9b\\output\\res\\layout\\design_menu_item_action_area.xml"
+    },
+    {
+        "merged": "C:\\Users\\ugitikansh\\AndroidStudioProjects\\Start7\\app\\build\\intermediates\\res\\merged\\release\\layout\\design_text_input_password_icon.xml",
+        "source": "C:\\Users\\ugitikansh\\.android\\build-cache\\0ef10220eee2f02e1bec46cc84ae7c25447aed9b\\output\\res\\layout\\design_text_input_password_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\ugitikansh\\AndroidStudioProjects\\Start7\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_read_more.xml",
+        "source": "C:\\Users\\ugitikansh\\AndroidStudioProjects\\Start7\\app\\src\\main\\res\\layout\\activity_read_more.xml"
+    },
+    {
+        "merged": "C:\\Users\\ugitikansh\\AndroidStudioProjects\\Start7\\app\\build\\intermediates\\res\\merged\\release\\layout\\infrastructure.xml",
+        "source": "C:\\Users\\ugitikansh\\AndroidStudioProjects\\Start7\\app\\src\\main\\res\\layout\\infrastructure.xml"
+    },
+    {
+        "merged": "C:\\Users\\ugitikansh\\AndroidStudioProjects\\Start7\\app\\build\\intermediates\\res\\merged\\release\\layout\\achievements.xml",
+        "source": "C:\\Users\\ugitikansh\\AndroidStudioProjects\\Start7\\app\\src\\main\\res\\layout\\achievements.xml"
+    },
+    {
+        "merged": "C:\\Users\\ugitikansh\\AndroidStudioProjects\\Start7\\app\\build\\intermediates\\res\\merged\\release\\layout\\design_layout_snackbar.xml",
+        "source": "C:\\Users\\ugitikansh\\.android\\build-cache\\0ef10220eee2f02e1bec46cc84ae7c25447aed9b\\output\\res\\layout\\design_layout_snackbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\ugitikansh\\AndroidStudioProjects\\Start7\\app\\build\\intermediates\\res\\merged\\release\\layout\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\ugitikansh\\.android\\build-cache\\96cac14f918607da0c8d95459d137b2d1737d3bc\\output\\res\\layout\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "C:\\Users\\ugitikansh\\AndroidStudioProjects\\Start7\\app\\build\\intermediates\\res\\merged\\release\\layout\\notification_template_big_media.xml",
+        "source": "C:\\Users\\ugitikansh\\.android\\build-cache\\1f9ff3f89c388f88a755bd1803a3600dbefed0bd\\output\\res\\layout\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "C:\\Users\\ugitikansh\\AndroidStudioProjects\\Start7\\app\\build\\intermediates\\res\\merged\\release\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "C:\\Users\\ugitikansh\\.android\\build-cache\\10249a1105a05fdbe6e0a661b381745c2e66dbed\\output\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\ugitikansh\\AndroidStudioProjects\\Start7\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_search_view.xml",
+        "source": "C:\\Users\\ugitikansh\\.android\\build-cache\\10249a1105a05fdbe6e0a661b381745c2e66dbed\\output\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\ugitikansh\\AndroidStudioProjects\\Start7\\app\\build\\intermediates\\res\\merged\\release\\layout\\gopal.xml",
+        "source": "C:\\Users\\ugitikansh\\AndroidStudioProjects\\Start7\\app\\src\\main\\res\\layout\\gopal.xml"
+    },
+    {
+        "merged": "C:\\Users\\ugitikansh\\AndroidStudioProjects\\Start7\\app\\build\\intermediates\\res\\merged\\release\\layout\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\ugitikansh\\.android\\build-cache\\96cac14f918607da0c8d95459d137b2d1737d3bc\\output\\res\\layout\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "C:\\Users\\ugitikansh\\AndroidStudioProjects\\Start7\\app\\build\\intermediates\\res\\merged\\release\\layout\\notification_template_part_time.xml",
+        "source": "C:\\Users\\ugitikansh\\.android\\build-cache\\96cac14f918607da0c8d95459d137b2d1737d3bc\\output\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "C:\\Users\\ugitikansh\\AndroidStudioProjects\\Start7\\app\\build\\intermediates\\res\\merged\\release\\layout\\books.xml",
+        "source": "C:\\Users\\ugitikansh\\AndroidStudioProjects\\Start7\\app\\src\\main\\res\\layout\\books.xml"
+    },
+    {
+        "merged": "C:\\Users\\ugitikansh\\AndroidStudioProjects\\Start7\\app\\build\\intermediates\\res\\merged\\release\\layout\\design_layout_tab_text.xml",
+        "source": "C:\\Users\\ugitikansh\\.android\\build-cache\\0ef10220eee2f02e1bec46cc84ae7c25447aed9b\\output\\res\\layout\\design_layout_tab_text.xml"
+    }
+]

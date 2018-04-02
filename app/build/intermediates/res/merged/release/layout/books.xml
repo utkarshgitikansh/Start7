@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent" android:layout_height="match_parent"
+    android:background="@color/white">
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/white">
+        <ImageView
+            android:layout_width="150dp"
+            android:layout_height="150dp"
+            android:src="@drawable/books_1"
+            android:padding="10dp"
+           />
+
+        <TextView
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            android:layout_marginLeft="180dp"
+            android:layout_marginRight="10dp"
+            android:layout_marginTop="10dp"
+            android:text="Litchi: Preventive Practices and Curative Measures
+
+Hari Shankar Singh
+Vishal Nath
+Abha Singh
+Sheshdhar Pandey
+
+Publisher: Satish Serial Publishing House, New Delhi (2012)"
+            android:textColor="#000000"
+            android:textStyle="bold"
+            />
+        <TextView
+            android:layout_height="wrap_content"
+            android:layout_width="200dp"
+            android:layout_marginLeft="50dp"
+            android:layout_marginRight="10dp"
+            android:layout_marginTop="160dp"
+            android:text="@string/content"
+            android:textColor="#000000"
+            android:fontFamily="sans-serif-smallcaps"
+            android:id="@+id/b1"
+
+            />
+
+        <ImageView
+            android:layout_width="150dp"
+            android:layout_height="150dp"
+            android:layout_marginTop="220dp"
+            android:src="@drawable/books_2"
+            android:padding="10dp"
+            android:id="@+id/imageView2" />
+
+        <TextView
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            android:layout_marginLeft="180dp"
+            android:layout_marginRight="10dp"
+            android:layout_marginTop="220dp"
+            android:text="The Litchi
+
+Gorakh Singh
+Vishal Nath
+S. D. Pandey
+P. K. Ray
+H. S. Singh
+
+Publisher: Food and agriculture Organization of the United Nations, New Delhi, India (2012)"
+            android:textColor="#000000"
+            android:textStyle="bold"
+            />
+        <TextView
+            android:layout_height="wrap_content"
+            android:layout_width="200dp"
+            android:layout_marginLeft="50dp"
+            android:layout_marginRight="10dp"
+            android:layout_marginTop="380dp"
+            android:text="@string/content"
+            android:textColor="#000000"
+            android:fontFamily="sans-serif-smallcaps"
+            android:id="@+id/b2"
+            />
+
+        <Spinner
+            android:id="@+id/spinner1"
+            android:layout_width="350dp"
+            android:layout_centerHorizontal="true"
+            android:layout_height="wrap_content"
+            android:background="@android:drawable/btn_dropdown"
+            android:layout_marginTop="440dp"
+            android:spinnerMode="dialog" />
+
+        <ImageView
+            android:layout_width="150dp"
+            android:layout_height="150dp"
+            android:layout_marginTop="520dp"
+            android:src="@drawable/books_3"
+            android:padding="10dp"
+            android:id="@+id/image_3"
+           />
+
+        <TextView
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            android:layout_marginLeft="180dp"
+            android:layout_marginRight="10dp"
+            android:layout_marginTop="530dp"
+            android:text="लीची
+
+गोरख सिंह
+विशाल नाथ
+शेषधर पाण्डेय
+
+प्रकाशक: संयुक्त राष्ट्र के खाद्य एवं कृषि संगठन, नई दिल्ली (2013)"
+            android:textColor="#000000"
+            android:textStyle="bold"
+            />
+        <TextView
+            android:layout_height="wrap_content"
+            android:layout_width="200dp"
+            android:layout_marginLeft="50dp"
+            android:layout_marginRight="10dp"
+            android:layout_marginTop="680dp"
+            android:text="@string/content"
+            android:textColor="#000000"
+            android:fontFamily="sans-serif-smallcaps"
+            android:id="@+id/b3"
+            />
+
+        <ImageView
+            android:layout_width="150dp"
+            android:layout_height="150dp"
+            android:layout_marginTop="720dp"
+            android:src="@drawable/books_4"
+            android:padding="10dp"
+            android:id="@+id/image_4"
+            />
+
+        <TextView
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            android:layout_marginLeft="180dp"
+            android:layout_marginRight="10dp"
+            android:layout_marginTop="750dp"
+            android:text="लीची की खेती
+
+राजेश कुमार
+
+Publisher: Astral Publication, New Delhi (2014)"
+            android:textColor="#000000"
+            android:textStyle="bold"
+            />
+        <TextView
+            android:layout_height="wrap_content"
+            android:layout_width="200dp"
+            android:layout_marginLeft="50dp"
+            android:layout_marginRight="10dp"
+            android:layout_marginTop="880dp"
+            android:text="@string/content"
+            android:textColor="#000000"
+            android:fontFamily="sans-serif-smallcaps"
+            android:id="@+id/b4"
+            android:layout_marginBottom="20dp"
+            />
+
+
+
+
+
+    </RelativeLayout>
+
+</ScrollView>

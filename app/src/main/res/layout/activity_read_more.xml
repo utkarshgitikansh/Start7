@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:theme="@style/AppTheme.NoActionBar"
+    android:layout_height="match_parent"
+    android:background="@color/white">
+
+    <RelativeLayout
+
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:padding="10dp">
+
+        <ImageView
+        android:layout_width="150dp"
+        android:layout_height="150dp"
+        android:src="@drawable/director1"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="35dp">
+        </ImageView>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/director"
+            android:textColor="#000000"
+            android:text="@string/director"
+            android:layout_marginTop="210dp"
+            android:layout_centerHorizontal="true"
+            android:textStyle="italic"
+
+            />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="240dp"
+        android:layout_marginLeft="12dp"
+        android:layout_marginRight="12dp"
+        android:padding="10dp"
+        android:textColor="#000000"
+        android:text="Litchi is an important fruit crop of the country with tremendous domestic market and export potential. But it is specific to its soil and climatic preference. At present, the area of this fruit under cultivation is 84,000 hectares and production is 594,000 metric tonnes (NHB, 2015). The productivity of litchi is although better in India in comparison with its native country but still wide gap exists between present productivity level (7-8 tonnes/ha) and realizable potential productivity (14-15 tonnes/ha). Litchi contributes significantly to the growers’ economy in Bihar, West Bengal, Assam and Jharkhand states of India that accounts for 78% of the total production in the country. Bihar produces 45% of total litchi and occupies nearly 40% of the area in India. The NRC for litchi has been mandated to address the productivity gap through basic and strategic research in areas of crop improvement and genetic enhancement, development of sustainable production techniques and integrated pest management systems."/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginTop="630dp"
+            android:layout_marginLeft="12dp"
+            android:layout_marginRight="12dp"
+            android:padding="10dp"
+            android:textColor="#000000"
+            android:text="Litchi is a non climacteric fruit where the post-harvest losses have been assessed to the tune of 18-23 per cent. This is another challenge to reduce these losses with suitable post harvest management tools. The NRC for litchi has made a steady beginning in all these direction with a team of committed scientists. The problems on priority basis are being addressed and will continue in years to come. As a result, it is hoped that this specialty fruit of Bihar will find place in fruit basket of every Indian at affordable price."/>
+
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginTop="850dp"
+            android:layout_marginLeft="35dp"
+            android:textColor="#000000"
+            android:text="Vishal Nath (Director), ICAR- NRC on  Litchi"
+            />
+
+
+    </RelativeLayout>
+
+</ScrollView>

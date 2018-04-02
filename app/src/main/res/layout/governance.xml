@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="#00322d"
+    >
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="900dp">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="COMMITTEE"
+            android:layout_margin="20dp"
+            android:textColor="@color/white"
+            android:layout_centerHorizontal="true"
+            android:textStyle="bold"
+           />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Research Advisory Committee"
+            android:layout_marginTop="60dp"
+            android:layout_marginLeft="10dp"
+            android:textColor="@color/white"
+            android:id="@+id/text11"/>
+
+        <ImageView
+            android:layout_width="360dp"
+            android:layout_height="240dp"
+            android:src="@drawable/infra_1"
+            android:layout_centerHorizontal="true"
+            android:layout_below="@+id/text11"
+            android:layout_margin="10dp"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Institute Management Committee"
+            android:layout_marginTop="360dp"
+            android:layout_marginLeft="10dp"
+            android:textColor="@color/white"
+            android:id="@+id/text12"/>
+
+        <ImageView
+            android:layout_width="360dp"
+            android:layout_height="240dp"
+            android:src="@drawable/infra_2"
+            android:layout_centerHorizontal="true"
+            android:layout_below="@+id/text12"
+            android:layout_margin="10dp"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Institute Research Committee"
+            android:layout_marginTop="660dp"
+            android:layout_marginLeft="10dp"
+            android:textColor="@color/white"
+            android:id="@+id/text13"/>
+
+        <ImageView
+            android:layout_width="360dp"
+            android:layout_height="240dp"
+            android:src="@drawable/infra_3"
+            android:layout_marginTop="680dp"
+            android:layout_centerHorizontal="true"/>
+
+
+    </RelativeLayout>
+</ScrollView>

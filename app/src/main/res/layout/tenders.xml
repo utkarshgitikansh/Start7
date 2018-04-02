@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:background="@color/white">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="25dp"
+        android:background="@color/white">
+
+        <ImageView
+            android:layout_width="350dp"
+            android:layout_height="100dp"
+            android:src="@drawable/notice_1"
+            android:id="@+id/notice_image"
+            android:layout_marginTop="10dp"
+            android:layout_centerHorizontal="true"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="TENDERS:"
+            android:textColor="#000000"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="150dp"
+            android:textStyle="bold"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/tender_1"
+        android:layout_marginTop="200dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:id="@+id/tenders_pdf_11"
+        android:textColor="#000000"
+            android:fontFamily="sans-serif-smallcaps"
+        android:textStyle="bold"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/tender_2"
+        android:layout_marginTop="250dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:id="@+id/tenders_pdf_12"
+        android:textColor="#000000"
+            android:fontFamily="sans-serif-smallcaps"
+        android:textStyle="bold"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/tender_3"
+        android:layout_marginTop="300dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:id="@+id/tenders_pdf_13"
+        android:textColor="#000000"
+            android:fontFamily="sans-serif-smallcaps"
+        android:textStyle="bold"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/tender_4"
+        android:layout_marginTop="340dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:id="@+id/tenders_pdf_14"
+        android:textColor="#000000"
+            android:fontFamily="sans-serif-smallcaps"
+        android:textStyle="bold"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/tender_5"
+        android:layout_marginTop="395dp"
+        android:layout_marginStart="10dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="30dp"
+        android:layout_marginEnd="30dp"
+        android:id="@+id/tenders_pdf_15"
+        android:textColor="#000000"
+            android:fontFamily="sans-serif-smallcaps"
+        android:textStyle="bold"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/tender_6"
+        android:layout_marginTop="435dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:id="@+id/tenders_pdf_16"
+        android:textColor="#000000"
+            android:fontFamily="sans-serif-smallcaps"
+        android:textStyle="bold"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/tender_7"
+        android:layout_marginTop="485dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:id="@+id/tenders_pdf_17"
+        android:textColor="#000000"
+            android:fontFamily="sans-serif-smallcaps"
+        android:textStyle="bold"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/tender_8"
+        android:layout_marginTop="540dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:id="@+id/tenders_pdf_18"
+        android:textColor="#000000"
+            android:fontFamily="sans-serif-smallcaps"
+        android:textStyle="bold"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/tender_9"
+        android:layout_marginTop="600dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:id="@+id/tenders_pdf_19"
+        android:textColor="#000000"
+            android:fontFamily="sans-serif-smallcaps"
+        android:textStyle="bold"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/tender_10"
+        android:layout_marginTop="650dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:id="@+id/tenders_pdf_20"
+        android:textColor="#000000"
+            android:fontFamily="sans-serif-smallcaps"
+        android:textStyle="bold"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/tender_11"
+        android:layout_marginTop="710dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:id="@+id/tenders_pdf_21"
+        android:textColor="#000000"
+            android:fontFamily="sans-serif-smallcaps"
+        android:textStyle="bold"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/tender_12"
+        android:layout_marginTop="750dp"
+        android:layout_marginStart="10dp"
+        android:layout_marginEnd="30dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="30dp"
+        android:id="@+id/tenders_pdf_22"
+        android:textColor="#000000"
+            android:fontFamily="sans-serif-smallcaps"
+        android:textStyle="bold"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/tender_13"
+        android:layout_marginTop="800dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:id="@+id/tenders_pdf_23"
+        android:textColor="#000000"
+            android:fontFamily="sans-serif-smallcaps"
+        android:textStyle="bold"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/tender_14"
+        android:layout_marginTop="850dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:id="@+id/tenders_pdf_24"
+        android:textColor="#000000"
+            android:fontFamily="sans-serif-smallcaps"
+        android:textStyle="bold"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/tender_15"
+        android:layout_marginTop="900dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:id="@+id/tenders_pdf_25"
+        android:textColor="#000000"
+            android:fontFamily="sans-serif-smallcaps"
+        android:textStyle="bold"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/tender_16"
+        android:layout_marginTop="950dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:id="@+id/tenders_pdf_26"
+        android:textColor="#000000"
+            android:fontFamily="sans-serif-smallcaps"
+        android:textStyle="bold"/>
+    </RelativeLayout>
+
+</ScrollView>

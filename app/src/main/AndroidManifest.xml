@@ -1,0 +1,558 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.gitikansh.utkarsh.start7">
+
+    <!-- To auto-complete the email text field in the login form with the user's emails -->
+    <uses-permission android:name="android.permission.GET_ACCOUNTS" />
+    <uses-permission android:name="android.permission.READ_PROFILE" />
+    <uses-permission android:name="android.permission.READ_CONTACTS" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/icar_1"
+        android:label="@string/name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:actionMenuTextColor="@color/black"
+        tools:replace="android:label"
+        android:theme="@style/AppTheme.myTheme">
+
+
+
+        <activity
+             android:name="com.gitikansh.utkarsh.start7.MainActivity"
+             android:theme="@style/AppTheme.NoActionBar">
+             <intent-filter>
+                 <action android:name="android.intent.action.MAIN" />
+
+                 <category android:name="android.intent.category.LAUNCHER" />
+             </intent-filter>
+        </activity>
+        <activity android:name="com.gitikansh.utkarsh.start7.Main2Activity"
+            android:theme="@style/AppTheme.myTheme"
+            android:icon="@drawable/icar_1"
+            >
+
+        </activity>
+        <activity android:name="com.gitikansh.utkarsh.start7.home"
+            android:theme="@style/AppTheme.myTheme"
+            android:parentActivityName="com.gitikansh.utkarsh.start7.home"
+            android:label="Home"
+            android:icon="@drawable/icar_1">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.gitikansh.utkarsh.start7.tenders" />
+           <intent-filter>
+                <action android:name="com.gitikansh.utkarsh.start7"/>
+
+            </intent-filter>
+                  </activity>
+
+        <activity android:name="com.gitikansh.utkarsh.start7.bulletin"
+            android:theme="@style/AppTheme.myTheme"
+            android:parentActivityName="com.gitikansh.utkarsh.start7.bulletin"
+            android:label="Home">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.gitikansh.utkarsh.start7.tenders" />
+            <intent-filter>
+                <action android:name="com.gitikansh.utkarsh.start7"/>
+
+            </intent-filter>
+        </activity>
+
+        <activity android:name="com.gitikansh.utkarsh.start7.read_more"
+            android:theme="@style/AppTheme.myTheme"
+            android:parentActivityName="com.gitikansh.utkarsh.start7.read_more"
+            android:label="Director\'s Message">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.gitikansh.utkarsh.start7.tenders" />
+            <intent-filter>
+                <action android:name="com.gitikansh.utkarsh.start7"/>
+
+            </intent-filter>
+        </activity>
+
+        <activity android:name="com.gitikansh.utkarsh.start7.read_more2"
+            android:theme="@style/AppTheme.myTheme"
+            android:parentActivityName="com.gitikansh.utkarsh.start7.read_more2"
+            android:label="The Institute">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.gitikansh.utkarsh.start7.tenders" />
+            <intent-filter>
+                <action android:name="com.gitikansh.utkarsh.start7"/>
+
+            </intent-filter>
+
+
+
+        </activity>
+        <activity android:name="com.gitikansh.utkarsh.start7.contact_us"
+            android:theme="@style/AppTheme.myTheme"
+            android:parentActivityName="com.gitikansh.utkarsh.start7.contact_us"
+            android:label="Contact us">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.gitikansh.utkarsh.start7.tenders" />
+            <intent-filter>
+                <action android:name="com.gitikansh.utkarsh.start7"/>
+
+            </intent-filter>
+
+
+
+        </activity>
+        <activity android:name="com.gitikansh.utkarsh.start7.staff"
+        android:theme="@style/AppTheme.myTheme"
+            android:parentActivityName="com.gitikansh.utkarsh.start7.staff"
+            android:label="Staff">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.gitikansh.utkarsh.start7.staff" />
+        <intent-filter>
+            <action android:name="com.gitikansh.utkarsh.start7"/>
+
+        </intent-filter>
+
+
+
+    </activity>
+
+        <activity android:name="com.gitikansh.utkarsh.start7.notice"
+            android:theme="@style/AppTheme.myTheme"
+            android:parentActivityName="com.gitikansh.utkarsh.start7.notice"
+            android:label="Notice">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.gitikansh.utkarsh.start7.notice" />
+
+            <intent-filter>
+                <action android:name="com.gitikansh.utkarsh.start7"/>
+
+            </intent-filter>
+
+
+
+        </activity>
+
+        <activity android:name="com.gitikansh.utkarsh.start7.news"
+            android:theme="@style/AppTheme.myTheme"
+            android:parentActivityName="com.gitikansh.utkarsh.start7.notice"
+            android:label="News">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.gitikansh.utkarsh.start7.news" />
+
+            <intent-filter>
+                <action android:name="com.gitikansh.utkarsh.start7"/>
+
+            </intent-filter>
+
+
+
+        </activity>
+
+        <activity android:name="com.gitikansh.utkarsh.start7.tenders"
+            android:theme="@style/AppTheme.myTheme"
+            android:parentActivityName="com.gitikansh.utkarsh.start7.tenders"
+            android:label="Tenders">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.gitikansh.utkarsh.start7.tenders" />
+
+            <intent-filter>
+                <action android:name="com.gitikansh.utkarsh.start7"/>
+
+            </intent-filter>
+        </activity>
+
+        <activity android:name="com.gitikansh.utkarsh.start7.recruit"
+            android:theme="@style/AppTheme.myTheme"
+            android:parentActivityName="com.gitikansh.utkarsh.start7.recruit"
+            android:label="Recruitments">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.gitikansh.utkarsh.start7.recruit" />
+
+            <intent-filter>
+                <action android:name="com.gitikansh.utkarsh.start7"/>
+
+            </intent-filter>
+
+        </activity>
+        <activity android:name="com.gitikansh.utkarsh.start7.achievements"
+            android:theme="@style/AppTheme.myTheme"
+            android:parentActivityName="com.gitikansh.utkarsh.start7.achievements"
+            android:label="Research Achievements">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.gitikansh.utkarsh.start7.achievements" />
+
+            <intent-filter>
+                <action android:name="com.gitikansh.utkarsh.start7"/>
+
+            </intent-filter>
+
+        </activity>
+
+        <activity android:name="com.gitikansh.utkarsh.start7.annual_report"
+            android:theme="@style/AppTheme.myTheme"
+            android:parentActivityName="com.gitikansh.utkarsh.start7.annual_report"
+            android:label="Annual Report">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.gitikansh.utkarsh.start7.annual_report" />
+
+            <intent-filter>
+                <action android:name="com.gitikansh.utkarsh.start7"/>
+
+            </intent-filter>
+
+        </activity>
+
+        <activity android:name="com.gitikansh.utkarsh.start7.archives"
+            android:theme="@style/AppTheme.myTheme"
+            android:parentActivityName="com.gitikansh.utkarsh.start7.archives" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.gitikansh.utkarsh.start7.archives" />
+
+            <intent-filter>
+                <action android:name="com.gitikansh.utkarsh.start7"/>
+
+            </intent-filter>
+
+        </activity>
+        <activity android:name="com.gitikansh.utkarsh.start7.governance"
+            android:theme="@style/AppTheme.myTheme"
+            android:parentActivityName="com.gitikansh.utkarsh.start7.governance"
+            android:label="Governance">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.gitikansh.utkarsh.start7.governance" />
+
+            <intent-filter>
+                <action android:name="com.gitikansh.utkarsh.start7"/>
+
+            </intent-filter>
+
+        </activity>
+        <activity android:name="com.gitikansh.utkarsh.start7.home_organo"
+            android:theme="@style/AppTheme.myTheme"
+            android:parentActivityName="com.gitikansh.utkarsh.start7.home_organo"
+            android:label="Organogram">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.gitikansh.utkarsh.start7.home_organo" />
+
+            <intent-filter>
+                <action android:name="com.gitikansh.utkarsh.start7"/>
+
+            </intent-filter>
+        </activity>
+            <activity android:name="com.gitikansh.utkarsh.start7.infrastructure"
+                android:theme="@style/AppTheme.myTheme"
+                android:parentActivityName="com.gitikansh.utkarsh.start7.infrastructure"
+                android:label="Infrastructure">
+                <meta-data
+                    android:name="android.support.PARENT_ACTIVITY"
+                    android:value="com.gitikansh.utkarsh.start7.infrastructure" />
+
+                <intent-filter>
+                    <action android:name="com.gitikansh.utkarsh.start7"/>
+
+                </intent-filter>
+
+            </activity>
+
+
+        <activity android:name="com.gitikansh.utkarsh.start7.projects"
+            android:theme="@style/AppTheme.myTheme"
+            android:parentActivityName="com.gitikansh.utkarsh.start7.projects"
+            android:label="Research Projects">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.gitikansh.utkarsh.start7.projects" />
+
+            <intent-filter>
+                <action android:name="com.gitikansh.utkarsh.start7"/>
+
+            </intent-filter>
+        </activity>
+
+        <activity android:name="com.gitikansh.utkarsh.start7.alok"
+            android:theme="@style/AppTheme.myTheme"
+            android:parentActivityName="com.gitikansh.utkarsh.start7.alok"
+            android:label="Research Papers">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.gitikansh.utkarsh.start7.alok" />
+
+            <intent-filter>
+                <action android:name="com.gitikansh.utkarsh.start7"/>
+
+            </intent-filter>
+        </activity>
+
+        <activity android:name="com.gitikansh.utkarsh.start7.amrendra"
+            android:theme="@style/AppTheme.myTheme"
+            android:parentActivityName="com.gitikansh.utkarsh.start7.amrendra"
+            android:label="Research Papers">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.gitikansh.utkarsh.start7.amrendra" />
+
+            <intent-filter>
+                <action android:name="com.gitikansh.utkarsh.start7"/>
+
+            </intent-filter>
+        </activity>
+
+
+        <activity android:name="com.gitikansh.utkarsh.start7.gopal"
+            android:theme="@style/AppTheme.myTheme"
+            android:label="Research Papers"
+            android:parentActivityName="com.gitikansh.utkarsh.start7.gopal" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.gitikansh.utkarsh.start7.gopal" />
+
+            <intent-filter>
+                <action android:name="com.gitikansh.utkarsh.start7"/>
+
+            </intent-filter>
+        </activity>
+
+        <activity android:name="com.gitikansh.utkarsh.start7.publications"
+            android:theme="@style/AppTheme.myTheme"
+            android:label="Publications"
+            android:parentActivityName="com.gitikansh.utkarsh.start7.publications" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.gitikansh.utkarsh.start7.publications" />
+
+            <intent-filter>
+                <action android:name="com.gitikansh.utkarsh.start7"/>
+
+            </intent-filter>
+        </activity>
+
+        <activity android:name="com.gitikansh.utkarsh.start7.vishal_nath"
+            android:theme="@style/AppTheme.myTheme"
+            android:label="Research Papers"
+            android:parentActivityName="com.gitikansh.utkarsh.start7.vishal_nath" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.gitikansh.utkarsh.start7.vishal_nath" />
+
+            <intent-filter>
+                <action android:name="com.gitikansh.utkarsh.start7"/>
+
+            </intent-filter>
+        </activity>
+
+        <activity android:name="com.gitikansh.utkarsh.start7.alemwati"
+            android:theme="@style/AppTheme.myTheme"
+            android:label="Research Papers"
+            android:parentActivityName="com.gitikansh.utkarsh.start7.alemwati" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.gitikansh.utkarsh.start7.alemwati" />
+
+            <intent-filter>
+                <action android:name="com.gitikansh.utkarsh.start7"/>
+
+            </intent-filter>
+        </activity>
+
+        <activity android:name="com.gitikansh.utkarsh.start7.kuldeep"
+            android:theme="@style/AppTheme.myTheme"
+            android:label="Research Papers"
+            android:parentActivityName="com.gitikansh.utkarsh.start7.kuldeep" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.gitikansh.utkarsh.start7.kuldeep" />
+
+            <intent-filter>
+                <action android:name="com.gitikansh.utkarsh.start7"/>
+
+            </intent-filter>
+        </activity>
+
+        <activity android:name="com.gitikansh.utkarsh.start7.morboh"
+            android:theme="@style/AppTheme.myTheme"
+            android:label="Research Papers"
+            android:parentActivityName="com.gitikansh.utkarsh.start7.morboh" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.gitikansh.utkarsh.start7.morboh" />
+
+            <intent-filter>
+                <action android:name="com.gitikansh.utkarsh.start7"/>
+
+            </intent-filter>
+        </activity>
+
+        <activity android:name="com.gitikansh.utkarsh.start7.narayan"
+            android:theme="@style/AppTheme.myTheme"
+            android:label="Research Papers"
+            android:parentActivityName="com.gitikansh.utkarsh.start7.narayan" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.gitikansh.utkarsh.start7.narayan" />
+
+            <intent-filter>
+                <action android:name="com.gitikansh.utkarsh.start7"/>
+
+            </intent-filter>
+        </activity>
+        <activity android:name="com.gitikansh.utkarsh.start7.pandey"
+            android:theme="@style/AppTheme.myTheme"
+            android:label="Research Papers"
+            android:parentActivityName="com.gitikansh.utkarsh.start7.pandey" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.gitikansh.utkarsh.start7.pandey" />
+
+            <intent-filter>
+                <action android:name="com.gitikansh.utkarsh.start7"/>
+
+            </intent-filter>
+        </activity>
+
+
+        <activity android:name="com.gitikansh.utkarsh.start7.patel"
+            android:theme="@style/AppTheme.myTheme"
+            android:label="Research Papers"
+            android:parentActivityName="com.gitikansh.utkarsh.start7.patel" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.gitikansh.utkarsh.start7.patel" />
+
+            <intent-filter>
+                <action android:name="com.gitikansh.utkarsh.start7"/>
+
+            </intent-filter>
+        </activity>
+
+
+    <activity android:name="com.gitikansh.utkarsh.start7.purbey"
+        android:label="Research Papers"
+        android:theme="@style/AppTheme.myTheme"
+        android:parentActivityName="com.gitikansh.utkarsh.start7.purbey" >
+        <meta-data
+            android:name="android.support.PARENT_ACTIVITY"
+            android:value="com.gitikansh.utkarsh.start7.purbey" />
+
+        <intent-filter>
+            <action android:name="com.gitikansh.utkarsh.start7"/>
+
+        </intent-filter>
+    </activity>
+
+    <activity android:name="com.gitikansh.utkarsh.start7.rajesh"
+        android:label="Research Papers"
+        android:theme="@style/AppTheme.myTheme"
+        android:parentActivityName="com.gitikansh.utkarsh.start7.rajesh" >
+        <meta-data
+            android:name="android.support.PARENT_ACTIVITY"
+            android:value="com.gitikansh.utkarsh.start7.rajesh" />
+
+        <intent-filter>
+            <action android:name="com.gitikansh.utkarsh.start7"/>
+
+        </intent-filter>
+    </activity>
+
+    <activity android:name="com.gitikansh.utkarsh.start7.sanjay"
+        android:theme="@style/AppTheme.myTheme"
+        android:label="Research Papers"
+        android:parentActivityName="com.gitikansh.utkarsh.start7.sanjay" >
+        <meta-data
+            android:name="android.support.PARENT_ACTIVITY"
+            android:value="com.gitikansh.utkarsh.start7.sanjay" />
+
+        <intent-filter>
+            <action android:name="com.gitikansh.utkarsh.start7"/>
+
+        </intent-filter>
+    </activity>
+
+        <activity android:name="com.gitikansh.utkarsh.start7.litchi"
+            android:theme="@style/AppTheme.myTheme"
+            android:label="Litchi: the fruit"
+            android:parentActivityName="com.gitikansh.utkarsh.start7.litchi" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.gitikansh.utkarsh.start7.litchi" />
+
+            <intent-filter>
+                <action android:name="com.gitikansh.utkarsh.start7"/>
+
+            </intent-filter>
+        </activity>
+
+    <activity android:name="com.gitikansh.utkarsh.start7.swati"
+        android:label="Research Papers"
+        android:theme="@style/AppTheme.myTheme"
+        android:parentActivityName="com.gitikansh.utkarsh.start7.swati" >
+        <meta-data
+            android:name="android.support.PARENT_ACTIVITY"
+            android:value="com.gitikansh.utkarsh.start7.swati" />
+
+        <intent-filter>
+            <action android:name="com.gitikansh.utkarsh.start7"/>
+
+        </intent-filter>
+    </activity>
+
+    <activity android:name="com.gitikansh.utkarsh.start7.vinod"
+        android:label="Research Papers"
+        android:theme="@style/AppTheme.myTheme"
+        android:parentActivityName="com.gitikansh.utkarsh.start7.vinod" >
+        <meta-data
+            android:name="android.support.PARENT_ACTIVITY"
+            android:value="com.gitikansh.utkarsh.start7.vinod" />
+
+        <intent-filter>
+            <action android:name="com.gitikansh.utkarsh.start7"/>
+
+        </intent-filter>
+    </activity>
+
+        <activity android:name="com.gitikansh.utkarsh.start7.books"
+            android:label="NRCL - Books"
+            android:theme="@style/AppTheme.myTheme"
+            android:parentActivityName="com.gitikansh.utkarsh.start7.books" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.gitikansh.utkarsh.start7.vinod" />
+
+            <intent-filter>
+                <action android:name="com.gitikansh.utkarsh.start7"/>
+
+            </intent-filter>
+        </activity>
+
+        <activity android:name="com.gitikansh.utkarsh.start7.pests"
+            android:label="NRCL - Diagnosis of major pests of litchi"
+            android:theme="@style/AppTheme.myTheme"
+            android:parentActivityName="com.gitikansh.utkarsh.start7.pests" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.gitikansh.utkarsh.start7.pests" />
+
+            <intent-filter>
+                <action android:name="com.gitikansh.utkarsh.start7"/>
+
+            </intent-filter>
+        </activity>
+
+</application>
+    </manifest>
+
+
+

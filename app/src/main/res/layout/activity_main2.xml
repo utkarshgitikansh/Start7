@@ -1,0 +1,446 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v4.widget.DrawerLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/ug_drawer_layout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+<ScrollView
+    android:layout_width="match_parent"
+    android:layout_height="650dp">
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="650dp"
+        android:background="#ffffff"
+        android:padding="10dp">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="700dp"
+            android:text= "@string/intro"
+            android:fontFamily="cursive"
+            android:textAlignment="center"
+            android:lineSpacingExtra="8dp"
+            android:padding="@dimen/activity_horizontal_margin"
+            android:background="#ffffff"
+            android:textColor="#000000"
+            android:textStyle="bold"
+            android:id="@+id/textView3">
+        </TextView>
+
+
+        <ImageView
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:src="@drawable/home_1"
+            android:layout_marginTop="112dp"
+            android:layout_marginLeft="25dp"
+            android:id="@+id/imageView5" />
+
+        <ImageView
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:src="@drawable/director"
+            android:layout_marginTop="261dp"
+            android:layout_marginLeft="25dp"/>
+
+        <TextView
+            android:layout_width="150dp"
+            android:layout_height="20dp"
+            android:layout_marginTop="105dp"
+            android:layout_marginLeft="130dp"
+            android:text="The Institute"
+            android:textStyle="bold"
+            android:textColor="#000000"
+          />
+
+        <TextView
+            android:layout_width="150dp"
+            android:layout_height="20dp"
+            android:layout_marginTop="255dp"
+            android:layout_marginLeft="130dp"
+            android:text="Director's Message"
+            android:textStyle="bold"
+            android:textColor="#000000"
+            />
+
+        <TextView
+            android:id="@+id/text_dir"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Litchi is an important fruit crop of the country with tremendous domestic market and export potential...."
+            android:layout_marginTop="280dp"
+            android:layout_marginLeft="130dp"
+            android:layout_marginRight="10dp"
+            android:textColor="#000000"
+            android:fontFamily="sans-serif"
+            />
+
+        <TextView
+            android:id="@+id/text_instt"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="The ICAR-NRCL is premier national institute for conducting research and developments on litchi...."
+            android:layout_marginTop="130dp"
+            android:layout_marginLeft="130dp"
+            android:layout_marginRight="10dp"
+            android:textColor="#000000"
+            android:fontFamily="sans-serif"
+            />
+
+        <TextView
+            android:id="@+id/text2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignLeft="@+id/text_instt"
+            android:layout_alignStart="@+id/text_instt"
+            android:layout_below="@+id/text_instt"
+            android:fontFamily="sans-serif-smallcaps"
+            android:text="@string/read"
+            android:textColor="#000000"
+            />
+
+        <TextView
+            android:id="@+id/text1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignLeft="@+id/text_dir"
+            android:layout_alignStart="@+id/text_dir"
+            android:layout_below="@+id/text_dir"
+            android:fontFamily="sans-serif-smallcaps"
+            android:text="@string/read"
+            android:textColor="#000000" />
+
+
+        <android.support.v4.view.ViewPager
+            android:id="@+id/pager"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="420dp"
+            android:layout_width="320dp"
+            android:layout_height="230dp"
+            android:layout_alignParentTop="true" />
+        <me.relex.circleindicator.CircleIndicator
+            android:id="@+id/indicator"
+            android:layout_width="match_parent"
+            android:layout_height="48dp"
+            android:layout_alignBottom="@+id/pager"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Swipe to see more"
+            android:layout_marginTop="660dp"
+            android:layout_centerHorizontal="true"
+            android:textColor="#000000"
+            android:textStyle="bold"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+
+            android:layout_marginTop="690dp"
+            android:layout_centerHorizontal="true"
+
+            android:text="आईसीएआर-राष्ट्रीय लीची अनुसंधान केन्द्र, मुजफ्फरपुर राष्ट्रीय स्तर पर लीची अनुसंधान और विकास को नेतृत्व प्रदान करने हेतु भारतीय कृषि अनुसंधान परिषद की एक प्रमुख संस्थान है। यह लीची के उत्पादन, प्रसंस्करण, मूल्य संवर्धन के बारे में जानकारी के लिए एक राष्ट्रीय-कोष के रूप में भी कार्य करता है, और अंत-उपयोगकर्ताओं के लिए परामर्श सेवाएं प्रदान करता है. वर्तमान में, केन्द्र पर 14 वैज्ञानिक, 3 तकनीकी सहायक, 8 प्रशासनिक कर्मचारी और 3 कुशल सहायक कर्मी हैं, जबकि स्वीकृत संख्या क्रमशः 15, 14, 12 और 10  हैं ।"
+            android:textColor="#000000"
+            android:padding="10dp"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="870dp"
+            android:text="Upcoming Events :"
+            android:textColor="#000000"
+            android:layout_marginLeft="10dp"
+            android:textStyle="bold"
+            />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="910dp"
+            android:text="@string/home_text_1"
+            android:textColor="#000000"
+            android:layout_marginLeft="10dp"
+            android:textStyle="bold"
+            android:id="@+id/event_1"
+            android:fontFamily="sans-serif-smallcaps"
+            />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="990dp"
+            android:text="Important Links :"
+            android:textColor="#000000"
+            android:layout_marginLeft="10dp"
+            android:textStyle="bold"
+            />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="1035dp"
+            android:text="@string/home_1"
+            android:textColor="#000000"
+            android:layout_marginLeft="10dp"
+            android:id="@+id/event_2"
+            android:fontFamily="sans-serif-smallcaps"
+            />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="1060dp"
+            android:text="@string/home_2"
+            android:textColor="#000000"
+            android:layout_marginLeft="10dp"
+            android:id="@+id/event_3"
+            android:fontFamily="sans-serif-smallcaps"
+            />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="1085dp"
+            android:text="@string/home_3"
+            android:textColor="#000000"
+            android:layout_marginLeft="10dp"
+            android:id="@+id/event_4"
+            android:fontFamily="sans-serif-smallcaps"
+            />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="1110dp"
+            android:text="@string/home_4"
+            android:textColor="#000000"
+            android:layout_marginLeft="10dp"
+            android:id="@+id/event_5"
+            android:fontFamily="sans-serif-smallcaps"
+            />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="1135dp"
+            android:text="@string/home_5"
+            android:textColor="#000000"
+            android:layout_marginLeft="10dp"
+            android:id="@+id/event_6"
+            android:fontFamily="sans-serif-smallcaps"
+            />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="1160dp"
+            android:text="@string/home_6"
+            android:textColor="#000000"
+            android:layout_marginLeft="10dp"
+            android:id="@+id/event_7"
+            android:fontFamily="sans-serif-smallcaps"
+            />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="1185dp"
+            android:text="@string/home_7"
+            android:textColor="#000000"
+            android:layout_marginLeft="10dp"
+            android:id="@+id/event_8"
+            android:fontFamily="sans-serif-smallcaps"
+            />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="1210dp"
+            android:text="@string/home_8"
+            android:textColor="#000000"
+            android:layout_marginLeft="10dp"
+            android:id="@+id/event_9"
+            android:fontFamily="sans-serif-smallcaps"
+            />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="1235dp"
+            android:text="@string/home_9"
+            android:textColor="#000000"
+            android:layout_marginLeft="10dp"
+            android:id="@+id/event_10"
+            android:fontFamily="sans-serif-smallcaps"
+            />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="1260dp"
+            android:text="@string/home_10"
+            android:textColor="#000000"
+            android:layout_marginLeft="10dp"
+            android:id="@+id/event_11"
+            android:fontFamily="sans-serif-smallcaps"
+            />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="1285dp"
+            android:text="@string/home_11"
+            android:textColor="#000000"
+            android:layout_marginLeft="10dp"
+            android:id="@+id/event_12"
+            android:layout_marginBottom="20dp"
+            android:fontFamily="sans-serif-smallcaps"
+            />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="1330dp"
+            android:text="Farmer\'s Advisory :"
+            android:textColor="#000000"
+            android:layout_marginLeft="10dp"
+            android:textStyle="bold"
+            />
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="1370dp"
+            android:text="@string/home_21"
+            android:textColor="#000000"
+            android:layout_marginLeft="10dp"
+            android:id="@+id/event_21"
+            android:fontFamily="sans-serif-smallcaps"
+            />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="1400dp"
+            android:text="@string/home_22"
+            android:textColor="#000000"
+            android:layout_marginLeft="10dp"
+            android:id="@+id/event_22"
+            android:fontFamily="sans-serif-smallcaps"
+            />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="1455dp"
+            android:text="@string/home_23"
+            android:textColor="#000000"
+            android:layout_marginLeft="10dp"
+            android:id="@+id/event_23"
+            android:fontFamily="sans-serif-smallcaps"
+            />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="1500dp"
+            android:text="@string/home_24"
+            android:textColor="#000000"
+            android:layout_marginLeft="10dp"
+            android:id="@+id/event_24"
+            android:fontFamily="sans-serif-smallcaps"
+            />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="NRCL - Popular Articles :"
+            android:layout_marginTop="1570dp"
+            android:layout_marginLeft="10dp"
+            android:textStyle="bold"
+            android:textColor="#000000"
+
+            />
+
+        <Spinner
+            android:id="@+id/spinner1"
+            android:layout_width="350dp"
+            android:layout_centerHorizontal="true"
+            android:layout_height="wrap_content"
+            android:background="@android:drawable/btn_dropdown"
+            android:layout_marginTop="1600dp"
+            android:spinnerMode="dialog" />
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="NRCL - Success Stories :"
+            android:layout_marginTop="1680dp"
+            android:layout_marginLeft="10dp"
+            android:textStyle="bold"
+            android:textColor="#000000"
+
+            />
+
+        <Spinner
+            android:id="@+id/spinner2"
+            android:layout_width="350dp"
+            android:layout_centerHorizontal="true"
+            android:layout_height="wrap_content"
+            android:background="@android:drawable/btn_dropdown"
+            android:layout_marginTop="1710dp"
+            android:spinnerMode="dialog" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="NRCL - Diagnosis of major pests of litchi :"
+            android:layout_marginTop="1790dp"
+            android:layout_marginLeft="10dp"
+            android:textStyle="bold"
+            android:textColor="#000000"
+
+            />
+
+        <Spinner
+            android:id="@+id/spinner3"
+            android:layout_width="350dp"
+            android:layout_centerHorizontal="true"
+            android:layout_height="wrap_content"
+            android:background="@android:drawable/btn_dropdown"
+            android:layout_marginTop="1820dp"
+            android:spinnerMode="dialog" />
+
+    </RelativeLayout>
+
+</ScrollView>
+
+    <android.support.design.widget.NavigationView
+
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/navigate"
+        android:layout_gravity="start"
+        app:headerLayout="@layout/navigation_header"
+        android:textColor="#000000"
+        >
+
+        <ListView
+
+            android:id="@+id/ugListView"
+            android:layout_width="match_parent"
+            android:layout_marginTop="180dp"
+            android:layout_height="wrap_content"
+
+            >
+
+        </ListView>
+
+    </android.support.design.widget.NavigationView>
+
+</android.support.v4.widget.DrawerLayout>

@@ -1,0 +1,504 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\ugitikansh\AndroidStudioProjects\Start7\app\src\main\AndroidManifest.xml:2:1-555:16
+	package
+		ADDED from C:\Users\ugitikansh\AndroidStudioProjects\Start7\app\src\main\AndroidManifest.xml:4:5-43
+		INJECTED from C:\Users\ugitikansh\AndroidStudioProjects\Start7\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\ugitikansh\AndroidStudioProjects\Start7\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\ugitikansh\AndroidStudioProjects\Start7\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\ugitikansh\AndroidStudioProjects\Start7\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from C:\Users\ugitikansh\AndroidStudioProjects\Start7\app\src\main\AndroidManifest.xml:3:5-51
+	xmlns:android
+		ADDED from C:\Users\ugitikansh\AndroidStudioProjects\Start7\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from C:\Users\ugitikansh\AndroidStudioProjects\Start7\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\ugitikansh\AndroidStudioProjects\Start7\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.GET_ACCOUNTS
+ADDED from C:\Users\ugitikansh\AndroidStudioProjects\Start7\app\src\main\AndroidManifest.xml:7:5-71
+	android:name
+		ADDED from C:\Users\ugitikansh\AndroidStudioProjects\Start7\app\src\main\AndroidManifest.xml:7:22-68
+uses-permission#android.permission.READ_PROFILE
+ADDED from C:\Users\ugitikansh\AndroidStudioProjects\Start7\app\src\main\AndroidManifest.xml:8:5-71
+	android:name
+		ADDED from C:\Users\ugitikansh\AndroidStudioProjects\Start7\app\src\main\AndroidManifest.xml:8:22-68
+uses-permission#android.permission.READ_CONTACTS
+ADDED from C:\Users\ugitikansh\AndroidStudioProjects\Start7\app\src\main\AndroidManifest.xml:9:5-72
+	android:name
+		ADDED from C:\Users\ugitikansh\AndroidStudioProjects\Start7\app\src\main\AndroidManifest.xml:9:22-69
+application
+ADDED from C:\Users\ugitikansh\AndroidStudioProjects\Start7\app\src\main\AndroidManifest.xml:11:5-554:15
+MERGED from [com.android.support:design:26.0.0] C:\Users\ugitikansh\.android\build-cache\0ef10220eee2f02e1bec46cc84ae7c25447aed9b\output\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:recyclerview-v7:26.0.0] C:\Users\ugitikansh\.android\build-cache\c2cd4978dcb8673eeadd3d29e331ab865dbae542\output\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:transition:26.0.0] C:\Users\ugitikansh\.android\build-cache\eae0a4051007b1708f139c907c49510155b61a00\output\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\ugitikansh\.android\build-cache\6c06d07a291b19c11709f27f1ed8914ed05669cc\output\AndroidManifest.xml:9:5-20
+MERGED from [com.borjabravo:readmoretextview:2.0.1] C:\Users\ugitikansh\.android\build-cache\84e3961d4dd6494b32d33cf2a0a127f6e9ee8bda\output\AndroidManifest.xml:11:5-14:19
+MERGED from [com.android.support:appcompat-v7:26.0.0] C:\Users\ugitikansh\.android\build-cache\10249a1105a05fdbe6e0a661b381745c2e66dbed\output\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:animated-vector-drawable:26.0.0] C:\Users\ugitikansh\.android\build-cache\3164b85d320becde9ca5be01e939385efa570f07\output\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.0.0] C:\Users\ugitikansh\.android\build-cache\eb637f709a60ca818e12a0da83a8929f300ed797\output\AndroidManifest.xml:22:5-26:19
+MERGED from [com.github.barteksc:pdfium-android:1.4.0] C:\Users\ugitikansh\.android\build-cache\790c871c12af3a31141633cf2e86940f23b156f1\output\AndroidManifest.xml:11:5-14:19
+MERGED from [com.android.support:support-v4:26.0.0] C:\Users\ugitikansh\.android\build-cache\3f690ae1bc21cc5e10d3f189786cb5deb2281c7e\output\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.0.0] C:\Users\ugitikansh\.android\build-cache\1f9ff3f89c388f88a755bd1803a3600dbefed0bd\output\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.0.0] C:\Users\ugitikansh\.android\build-cache\8dde44e43aa07eb85dccbc2cc56e277fddd6234d\output\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.0.0] C:\Users\ugitikansh\.android\build-cache\c50948edebda794ba46be5df24ee24f0bb154023\output\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.0.0] C:\Users\ugitikansh\.android\build-cache\e89fa80af8d7216ec51965caa0b3db61b04abdd7\output\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.0.0] C:\Users\ugitikansh\.android\build-cache\96cac14f918607da0c8d95459d137b2d1737d3bc\output\AndroidManifest.xml:25:5-29:19
+	android:label
+		ADDED from C:\Users\ugitikansh\AndroidStudioProjects\Start7\app\src\main\AndroidManifest.xml:14:9-37
+		REJECTED from [com.github.barteksc:pdfium-android:1.4.0] C:\Users\ugitikansh\.android\build-cache\790c871c12af3a31141633cf2e86940f23b156f1\output\AndroidManifest.xml:13:9-41
+	android:supportsRtl
+		ADDED from C:\Users\ugitikansh\AndroidStudioProjects\Start7\app\src\main\AndroidManifest.xml:16:9-35
+	android:actionMenuTextColor
+		ADDED from C:\Users\ugitikansh\AndroidStudioProjects\Start7\app\src\main\AndroidManifest.xml:17:9-51
+	android:roundIcon
+		ADDED from C:\Users\ugitikansh\AndroidStudioProjects\Start7\app\src\main\AndroidManifest.xml:15:9-54
+	android:allowBackup
+		ADDED from C:\Users\ugitikansh\AndroidStudioProjects\Start7\app\src\main\AndroidManifest.xml:12:9-35
+	android:icon
+		ADDED from C:\Users\ugitikansh\AndroidStudioProjects\Start7\app\src\main\AndroidManifest.xml:13:9-40
+	android:theme
+		ADDED from C:\Users\ugitikansh\AndroidStudioProjects\Start7\app\src\main\AndroidManifest.xml:19:9-48
+	tools:replace
+		ADDED from C:\Users\ugitikansh\AndroidStudioProjects\Start7\app\src\main\AndroidManifest.xml:18:9-38
+activity#com.gitikansh.utkarsh.start7.MainActivity
+ADDED from C:\Users\ugitikansh\AndroidStudioProjects\Start7\app\src\main\AndroidManifest.xml:23:9-31:20
+	android:theme
+		ADDED from C:\Users\ugitikansh\AndroidStudioProjects\Start7\app\src\main\AndroidManifest.xml:25:14-57
+	android:name
+		ADDED from C:\Users\ugitikansh\AndroidStudioProjects\Start7\app\src\main\AndroidManifest.xml:24:14-70
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\ugitikansh\AndroidStudioProjects\Start7\app\src\main\AndroidManifest.xml:26:14-30:30
+action#android.intent.action.MAIN
+ADDED from C:\Users\ugitikansh\AndroidStudioProjects\Start7\app\src\main\AndroidManifest.xml:27:18-70
+	android:name
+		ADDED from C:\Users\ugitikansh\AndroidStudioProjects\Start7\app\src\main\AndroidManifest.xml:27:26-67
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\ugitikansh\AndroidStudioProjects\Start7\app\src\main\AndroidManifest.xml:29:18-78
+	android:name
+		ADDED from C:\Users\ugitikansh\AndroidStudioProjects\Start7\app\src\main\AndroidManifest.xml:29:28-75
+activity#com.gitikansh.utkarsh.start7.Main2Activity
+ADDED from C:\Users\ugitikansh\AndroidStudioProjects\Start7\app\src\main\AndroidManifest.xml:32:9-37:20
+	android:icon
+		ADDED from C:\Users\ugitikansh\AndroidStudioProjects\Start7\app\src\main\AndroidManifest.xml:34:13-44
+	android:theme
+		ADDED from C:\Users\ugitikansh\AndroidStudioProjects\Start7\app\src\main\AndroidManifest.xml:33:13-52
+	android:name
+		ADDED from C:\Users\ugitikansh\AndroidStudioProjects\Start7\app\src\main\AndroidManifest.xml:32:19-76
+activity#com.gitikansh.utkarsh.start7.home
+ADDED from C:\Users\ugitikansh\AndroidStudioProjects\Start7\app\src\main\AndroidManifest.xml:38:9-50:30
+	android:label
+		ADDED from C:\Users\ugitikansh\AndroidStudioProjects\Start7\app\src\main\AndroidManifest.xml:41:13-33
+	android:parentActivityName
+		ADDED from C:\Users\ugitikansh\AndroidStudioProjects\Start7\app\src\main\AndroidManifest.xml:40:13-75
+	android:icon
+		ADDED from C:\Users\ugitikansh\AndroidStudioProjects\Start7\app\src\main\AndroidManifest.xml:42:13-44
+	android:theme
+		ADDED from C:\Users\ugitikansh\AndroidStudioProjects\Start7\app\src\main\AndroidManifest.xml:39:13-52
+	android:name
+		ADDED from C:\Users\ugitikansh\AndroidStudioProjects\Start7\app\src\main\AndroidManifest.xml:38:19-67
+meta-data#android.support.PARENT_ACTIVITY
+ADDED from C:\Users\ugitikansh\AndroidStudioProjects\Start7\app\src\main\AndroidManifest.xml:43:13-45:72
+	android:value
+		ADDED from C:\Users\ugitikansh\AndroidStudioProjects\Start7\app\src\main\AndroidManifest.xml:45:17-69
+	android:name
+		ADDED from C:\Users\ugitikansh\AndroidStudioProjects\Start7\app\src\main\AndroidManifest.xml:44:17-63
+intent-filter#com.gitikansh.utkarsh.start7
+ADDED from C:\Users\ugitikansh\AndroidStudioProjects\Start7\app\src\main\AndroidManifest.xml:46:12-49:29
+action#com.gitikansh.utkarsh.start7
+ADDED from C:\Users\ugitikansh\AndroidStudioProjects\Start7\app\src\main\AndroidManifest.xml:47:17-70
+	android:name
+		ADDED from C:\Users\ugitikansh\AndroidStudioProjects\Start7\app\src\main\AndroidManifest.xml:47:25-68
+activity#com.gitikansh.utkarsh.start7.bulletin
+ADDED from C:\Users\ugitikansh\AndroidStudioProjects\Start7\app\src\main\AndroidManifest.xml:52:9-63:20
+	android:label
+		ADDED from C:\Users\ugitikansh\AndroidStudioProjects\Start7\app\src\main\AndroidManifest.xml:55:13-33
+	android:parentActivityName
+		ADDED from C:\Users\ugitikansh\AndroidStudioProjects\Start7\app\src\main\AndroidManifest.xml:54:13-79
+	android:theme
+		ADDED from C:\Users\ugitikansh\AndroidStudioProjects\Start7\app\src\main\AndroidManifest.xml:53:13-52
+	android:name
+		ADDED from C:\Users\ugitikansh\AndroidStudioProjects\Start7\app\src\main\AndroidManifest.xml:52:19-71
+activity#com.gitikansh.utkarsh.start7.read_more
+ADDED from C:\Users\ugitikansh\AndroidStudioProjects\Start7\app\src\main\AndroidManifest.xml:65:9-76:20
+	android:label
+		ADDED from C:\Users\ugitikansh\AndroidStudioProjects\Start7\app\src\main\AndroidManifest.xml:68:13-38
+	android:parentActivityName
+		ADDED from C:\Users\ugitikansh\AndroidStudioProjects\Start7\app\src\main\AndroidManifest.xml:67:13-80
+	android:theme
+		ADDED from C:\Users\ugitikansh\AndroidStudioProjects\Start7\app\src\main\AndroidManifest.xml:66:13-52
+	android:name
+		ADDED from C:\Users\ugitikansh\AndroidStudioProjects\Start7\app\src\main\AndroidManifest.xml:65:19-72
+activity#com.gitikansh.utkarsh.start7.read_more2
+ADDED from C:\Users\ugitikansh\AndroidStudioProjects\Start7\app\src\main\AndroidManifest.xml:78:9-92:20
+	android:label
+		ADDED from C:\Users\ugitikansh\AndroidStudioProjects\Start7\app\src\main\AndroidManifest.xml:81:13-42
+	android:parentActivityName
+		ADDED from C:\Users\ugitikansh\AndroidStudioProjects\Start7\app\src\main\AndroidManifest.xml:80:13-81
+	android:theme
+		ADDED from C:\Users\ugitikansh\AndroidStudioProjects\Start7\app\src\main\AndroidManifest.xml:79:13-52
+	android:name
+		ADDED from C:\Users\ugitikansh\AndroidStudioProjects\Start7\app\src\main\AndroidManifest.xml:78:19-73
+activity#com.gitikansh.utkarsh.start7.contact_us
+ADDED from C:\Users\ugitikansh\AndroidStudioProjects\Start7\app\src\main\AndroidManifest.xml:93:9-107:20
+	android:label
+		ADDED from C:\Users\ugitikansh\AndroidStudioProjects\Start7\app\src\main\AndroidManifest.xml:96:13-39
+	android:parentActivityName
+		ADDED from C:\Users\ugitikansh\AndroidStudioProjects\Start7\app\src\main\AndroidManifest.xml:95:13-81
+	android:theme
+		ADDED from C:\Users\ugitikansh\AndroidStudioProjects\Start7\app\src\main\AndroidManifest.xml:94:13-52
+	android:name
+		ADDED from C:\Users\ugitikansh\AndroidStudioProjects\Start7\app\src\main\AndroidManifest.xml:93:19-73
+activity#com.gitikansh.utkarsh.start7.staff
+ADDED from C:\Users\ugitikansh\AndroidStudioProjects\Start7\app\src\main\AndroidManifest.xml:108:9-122:16
+	android:label
+		ADDED from C:\Users\ugitikansh\AndroidStudioProjects\Start7\app\src\main\AndroidManifest.xml:111:13-34
+	android:parentActivityName
+		ADDED from C:\Users\ugitikansh\AndroidStudioProjects\Start7\app\src\main\AndroidManifest.xml:110:13-76
+	android:theme
+		ADDED from C:\Users\ugitikansh\AndroidStudioProjects\Start7\app\src\main\AndroidManifest.xml:109:9-48
+	android:name
+		ADDED from C:\Users\ugitikansh\AndroidStudioProjects\Start7\app\src\main\AndroidManifest.xml:108:19-68
+activity#com.gitikansh.utkarsh.start7.notice
+ADDED from C:\Users\ugitikansh\AndroidStudioProjects\Start7\app\src\main\AndroidManifest.xml:124:9-139:20
+	android:label
+		ADDED from C:\Users\ugitikansh\AndroidStudioProjects\Start7\app\src\main\AndroidManifest.xml:127:13-35
+	android:parentActivityName
+		ADDED from C:\Users\ugitikansh\AndroidStudioProjects\Start7\app\src\main\AndroidManifest.xml:126:13-77
+	android:theme
+		ADDED from C:\Users\ugitikansh\AndroidStudioProjects\Start7\app\src\main\AndroidManifest.xml:125:13-52
+	android:name
+		ADDED from C:\Users\ugitikansh\AndroidStudioProjects\Start7\app\src\main\AndroidManifest.xml:124:19-69
+activity#com.gitikansh.utkarsh.start7.news
+ADDED from C:\Users\ugitikansh\AndroidStudioProjects\Start7\app\src\main\AndroidManifest.xml:141:9-156:20
+	android:label
+		ADDED from C:\Users\ugitikansh\AndroidStudioProjects\Start7\app\src\main\AndroidManifest.xml:144:13-33
+	android:parentActivityName
+		ADDED from C:\Users\ugitikansh\AndroidStudioProjects\Start7\app\src\main\AndroidManifest.xml:143:13-77
+	android:theme
+		ADDED from C:\Users\ugitikansh\AndroidStudioProjects\Start7\app\src\main\AndroidManifest.xml:142:13-52
+	android:name
+		ADDED from C:\Users\ugitikansh\AndroidStudioProjects\Start7\app\src\main\AndroidManifest.xml:141:19-67
+activity#com.gitikansh.utkarsh.start7.tenders
+ADDED from C:\Users\ugitikansh\AndroidStudioProjects\Start7\app\src\main\AndroidManifest.xml:158:9-170:20
+	android:label
+		ADDED from C:\Users\ugitikansh\AndroidStudioProjects\Start7\app\src\main\AndroidManifest.xml:161:13-36
+	android:parentActivityName
+		ADDED from C:\Users\ugitikansh\AndroidStudioProjects\Start7\app\src\main\AndroidManifest.xml:160:13-78
+	android:theme
+		ADDED from C:\Users\ugitikansh\AndroidStudioProjects\Start7\app\src\main\AndroidManifest.xml:159:13-52
+	android:name
+		ADDED from C:\Users\ugitikansh\AndroidStudioProjects\Start7\app\src\main\AndroidManifest.xml:158:19-70
+activity#com.gitikansh.utkarsh.start7.recruit
+ADDED from C:\Users\ugitikansh\AndroidStudioProjects\Start7\app\src\main\AndroidManifest.xml:172:9-185:20
+	android:label
+		ADDED from C:\Users\ugitikansh\AndroidStudioProjects\Start7\app\src\main\AndroidManifest.xml:175:13-41
+	android:parentActivityName
+		ADDED from C:\Users\ugitikansh\AndroidStudioProjects\Start7\app\src\main\AndroidManifest.xml:174:13-78
+	android:theme
+		ADDED from C:\Users\ugitikansh\AndroidStudioProjects\Start7\app\src\main\AndroidManifest.xml:173:13-52
+	android:name
+		ADDED from C:\Users\ugitikansh\AndroidStudioProjects\Start7\app\src\main\AndroidManifest.xml:172:19-70
+activity#com.gitikansh.utkarsh.start7.achievements
+ADDED from C:\Users\ugitikansh\AndroidStudioProjects\Start7\app\src\main\AndroidManifest.xml:186:9-199:20
+	android:label
+		ADDED from C:\Users\ugitikansh\AndroidStudioProjects\Start7\app\src\main\AndroidManifest.xml:189:13-50
+	android:parentActivityName
+		ADDED from C:\Users\ugitikansh\AndroidStudioProjects\Start7\app\src\main\AndroidManifest.xml:188:13-83
+	android:theme
+		ADDED from C:\Users\ugitikansh\AndroidStudioProjects\Start7\app\src\main\AndroidManifest.xml:187:13-52
+	android:name
+		ADDED from C:\Users\ugitikansh\AndroidStudioProjects\Start7\app\src\main\AndroidManifest.xml:186:19-75
+activity#com.gitikansh.utkarsh.start7.annual_report
+ADDED from C:\Users\ugitikansh\AndroidStudioProjects\Start7\app\src\main\AndroidManifest.xml:201:9-214:20
+	android:label
+		ADDED from C:\Users\ugitikansh\AndroidStudioProjects\Start7\app\src\main\AndroidManifest.xml:204:13-42
+	android:parentActivityName
+		ADDED from C:\Users\ugitikansh\AndroidStudioProjects\Start7\app\src\main\AndroidManifest.xml:203:13-84
+	android:theme
+		ADDED from C:\Users\ugitikansh\AndroidStudioProjects\Start7\app\src\main\AndroidManifest.xml:202:13-52
+	android:name
+		ADDED from C:\Users\ugitikansh\AndroidStudioProjects\Start7\app\src\main\AndroidManifest.xml:201:19-76
+activity#com.gitikansh.utkarsh.start7.archives
+ADDED from C:\Users\ugitikansh\AndroidStudioProjects\Start7\app\src\main\AndroidManifest.xml:216:9-228:20
+	android:parentActivityName
+		ADDED from C:\Users\ugitikansh\AndroidStudioProjects\Start7\app\src\main\AndroidManifest.xml:218:13-79
+	android:theme
+		ADDED from C:\Users\ugitikansh\AndroidStudioProjects\Start7\app\src\main\AndroidManifest.xml:217:13-52
+	android:name
+		ADDED from C:\Users\ugitikansh\AndroidStudioProjects\Start7\app\src\main\AndroidManifest.xml:216:19-71
+activity#com.gitikansh.utkarsh.start7.governance
+ADDED from C:\Users\ugitikansh\AndroidStudioProjects\Start7\app\src\main\AndroidManifest.xml:229:9-242:20
+	android:label
+		ADDED from C:\Users\ugitikansh\AndroidStudioProjects\Start7\app\src\main\AndroidManifest.xml:232:13-39
+	android:parentActivityName
+		ADDED from C:\Users\ugitikansh\AndroidStudioProjects\Start7\app\src\main\AndroidManifest.xml:231:13-81
+	android:theme
+		ADDED from C:\Users\ugitikansh\AndroidStudioProjects\Start7\app\src\main\AndroidManifest.xml:230:13-52
+	android:name
+		ADDED from C:\Users\ugitikansh\AndroidStudioProjects\Start7\app\src\main\AndroidManifest.xml:229:19-73
+activity#com.gitikansh.utkarsh.start7.home_organo
+ADDED from C:\Users\ugitikansh\AndroidStudioProjects\Start7\app\src\main\AndroidManifest.xml:243:9-255:20
+	android:label
+		ADDED from C:\Users\ugitikansh\AndroidStudioProjects\Start7\app\src\main\AndroidManifest.xml:246:13-39
+	android:parentActivityName
+		ADDED from C:\Users\ugitikansh\AndroidStudioProjects\Start7\app\src\main\AndroidManifest.xml:245:13-82
+	android:theme
+		ADDED from C:\Users\ugitikansh\AndroidStudioProjects\Start7\app\src\main\AndroidManifest.xml:244:13-52
+	android:name
+		ADDED from C:\Users\ugitikansh\AndroidStudioProjects\Start7\app\src\main\AndroidManifest.xml:243:19-74
+activity#com.gitikansh.utkarsh.start7.infrastructure
+ADDED from C:\Users\ugitikansh\AndroidStudioProjects\Start7\app\src\main\AndroidManifest.xml:256:13-269:24
+	android:label
+		ADDED from C:\Users\ugitikansh\AndroidStudioProjects\Start7\app\src\main\AndroidManifest.xml:259:17-47
+	android:parentActivityName
+		ADDED from C:\Users\ugitikansh\AndroidStudioProjects\Start7\app\src\main\AndroidManifest.xml:258:17-89
+	android:theme
+		ADDED from C:\Users\ugitikansh\AndroidStudioProjects\Start7\app\src\main\AndroidManifest.xml:257:17-56
+	android:name
+		ADDED from C:\Users\ugitikansh\AndroidStudioProjects\Start7\app\src\main\AndroidManifest.xml:256:23-81
+activity#com.gitikansh.utkarsh.start7.projects
+ADDED from C:\Users\ugitikansh\AndroidStudioProjects\Start7\app\src\main\AndroidManifest.xml:272:9-284:20
+	android:label
+		ADDED from C:\Users\ugitikansh\AndroidStudioProjects\Start7\app\src\main\AndroidManifest.xml:275:13-46
+	android:parentActivityName
+		ADDED from C:\Users\ugitikansh\AndroidStudioProjects\Start7\app\src\main\AndroidManifest.xml:274:13-79
+	android:theme
+		ADDED from C:\Users\ugitikansh\AndroidStudioProjects\Start7\app\src\main\AndroidManifest.xml:273:13-52
+	android:name
+		ADDED from C:\Users\ugitikansh\AndroidStudioProjects\Start7\app\src\main\AndroidManifest.xml:272:19-71
+activity#com.gitikansh.utkarsh.start7.alok
+ADDED from C:\Users\ugitikansh\AndroidStudioProjects\Start7\app\src\main\AndroidManifest.xml:286:9-298:20
+	android:label
+		ADDED from C:\Users\ugitikansh\AndroidStudioProjects\Start7\app\src\main\AndroidManifest.xml:289:13-44
+	android:parentActivityName
+		ADDED from C:\Users\ugitikansh\AndroidStudioProjects\Start7\app\src\main\AndroidManifest.xml:288:13-75
+	android:theme
+		ADDED from C:\Users\ugitikansh\AndroidStudioProjects\Start7\app\src\main\AndroidManifest.xml:287:13-52
+	android:name
+		ADDED from C:\Users\ugitikansh\AndroidStudioProjects\Start7\app\src\main\AndroidManifest.xml:286:19-67
+activity#com.gitikansh.utkarsh.start7.amrendra
+ADDED from C:\Users\ugitikansh\AndroidStudioProjects\Start7\app\src\main\AndroidManifest.xml:300:9-312:20
+	android:label
+		ADDED from C:\Users\ugitikansh\AndroidStudioProjects\Start7\app\src\main\AndroidManifest.xml:303:13-44
+	android:parentActivityName
+		ADDED from C:\Users\ugitikansh\AndroidStudioProjects\Start7\app\src\main\AndroidManifest.xml:302:13-79
+	android:theme
+		ADDED from C:\Users\ugitikansh\AndroidStudioProjects\Start7\app\src\main\AndroidManifest.xml:301:13-52
+	android:name
+		ADDED from C:\Users\ugitikansh\AndroidStudioProjects\Start7\app\src\main\AndroidManifest.xml:300:19-71
+activity#com.gitikansh.utkarsh.start7.gopal
+ADDED from C:\Users\ugitikansh\AndroidStudioProjects\Start7\app\src\main\AndroidManifest.xml:315:9-327:20
+	android:label
+		ADDED from C:\Users\ugitikansh\AndroidStudioProjects\Start7\app\src\main\AndroidManifest.xml:317:13-44
+	android:parentActivityName
+		ADDED from C:\Users\ugitikansh\AndroidStudioProjects\Start7\app\src\main\AndroidManifest.xml:318:13-76
+	android:theme
+		ADDED from C:\Users\ugitikansh\AndroidStudioProjects\Start7\app\src\main\AndroidManifest.xml:316:13-52
+	android:name
+		ADDED from C:\Users\ugitikansh\AndroidStudioProjects\Start7\app\src\main\AndroidManifest.xml:315:19-68
+activity#com.gitikansh.utkarsh.start7.publications
+ADDED from C:\Users\ugitikansh\AndroidStudioProjects\Start7\app\src\main\AndroidManifest.xml:329:9-341:20
+	android:label
+		ADDED from C:\Users\ugitikansh\AndroidStudioProjects\Start7\app\src\main\AndroidManifest.xml:331:13-41
+	android:parentActivityName
+		ADDED from C:\Users\ugitikansh\AndroidStudioProjects\Start7\app\src\main\AndroidManifest.xml:332:13-83
+	android:theme
+		ADDED from C:\Users\ugitikansh\AndroidStudioProjects\Start7\app\src\main\AndroidManifest.xml:330:13-52
+	android:name
+		ADDED from C:\Users\ugitikansh\AndroidStudioProjects\Start7\app\src\main\AndroidManifest.xml:329:19-75
+activity#com.gitikansh.utkarsh.start7.vishal_nath
+ADDED from C:\Users\ugitikansh\AndroidStudioProjects\Start7\app\src\main\AndroidManifest.xml:343:9-355:20
+	android:label
+		ADDED from C:\Users\ugitikansh\AndroidStudioProjects\Start7\app\src\main\AndroidManifest.xml:345:13-44
+	android:parentActivityName
+		ADDED from C:\Users\ugitikansh\AndroidStudioProjects\Start7\app\src\main\AndroidManifest.xml:346:13-82
+	android:theme
+		ADDED from C:\Users\ugitikansh\AndroidStudioProjects\Start7\app\src\main\AndroidManifest.xml:344:13-52
+	android:name
+		ADDED from C:\Users\ugitikansh\AndroidStudioProjects\Start7\app\src\main\AndroidManifest.xml:343:19-74
+activity#com.gitikansh.utkarsh.start7.alemwati
+ADDED from C:\Users\ugitikansh\AndroidStudioProjects\Start7\app\src\main\AndroidManifest.xml:357:9-369:20
+	android:label
+		ADDED from C:\Users\ugitikansh\AndroidStudioProjects\Start7\app\src\main\AndroidManifest.xml:359:13-44
+	android:parentActivityName
+		ADDED from C:\Users\ugitikansh\AndroidStudioProjects\Start7\app\src\main\AndroidManifest.xml:360:13-79
+	android:theme
+		ADDED from C:\Users\ugitikansh\AndroidStudioProjects\Start7\app\src\main\AndroidManifest.xml:358:13-52
+	android:name
+		ADDED from C:\Users\ugitikansh\AndroidStudioProjects\Start7\app\src\main\AndroidManifest.xml:357:19-71
+activity#com.gitikansh.utkarsh.start7.kuldeep
+ADDED from C:\Users\ugitikansh\AndroidStudioProjects\Start7\app\src\main\AndroidManifest.xml:371:9-383:20
+	android:label
+		ADDED from C:\Users\ugitikansh\AndroidStudioProjects\Start7\app\src\main\AndroidManifest.xml:373:13-44
+	android:parentActivityName
+		ADDED from C:\Users\ugitikansh\AndroidStudioProjects\Start7\app\src\main\AndroidManifest.xml:374:13-78
+	android:theme
+		ADDED from C:\Users\ugitikansh\AndroidStudioProjects\Start7\app\src\main\AndroidManifest.xml:372:13-52
+	android:name
+		ADDED from C:\Users\ugitikansh\AndroidStudioProjects\Start7\app\src\main\AndroidManifest.xml:371:19-70
+activity#com.gitikansh.utkarsh.start7.morboh
+ADDED from C:\Users\ugitikansh\AndroidStudioProjects\Start7\app\src\main\AndroidManifest.xml:385:9-397:20
+	android:label
+		ADDED from C:\Users\ugitikansh\AndroidStudioProjects\Start7\app\src\main\AndroidManifest.xml:387:13-44
+	android:parentActivityName
+		ADDED from C:\Users\ugitikansh\AndroidStudioProjects\Start7\app\src\main\AndroidManifest.xml:388:13-77
+	android:theme
+		ADDED from C:\Users\ugitikansh\AndroidStudioProjects\Start7\app\src\main\AndroidManifest.xml:386:13-52
+	android:name
+		ADDED from C:\Users\ugitikansh\AndroidStudioProjects\Start7\app\src\main\AndroidManifest.xml:385:19-69
+activity#com.gitikansh.utkarsh.start7.narayan
+ADDED from C:\Users\ugitikansh\AndroidStudioProjects\Start7\app\src\main\AndroidManifest.xml:399:9-411:20
+	android:label
+		ADDED from C:\Users\ugitikansh\AndroidStudioProjects\Start7\app\src\main\AndroidManifest.xml:401:13-44
+	android:parentActivityName
+		ADDED from C:\Users\ugitikansh\AndroidStudioProjects\Start7\app\src\main\AndroidManifest.xml:402:13-78
+	android:theme
+		ADDED from C:\Users\ugitikansh\AndroidStudioProjects\Start7\app\src\main\AndroidManifest.xml:400:13-52
+	android:name
+		ADDED from C:\Users\ugitikansh\AndroidStudioProjects\Start7\app\src\main\AndroidManifest.xml:399:19-70
+activity#com.gitikansh.utkarsh.start7.pandey
+ADDED from C:\Users\ugitikansh\AndroidStudioProjects\Start7\app\src\main\AndroidManifest.xml:412:9-424:20
+	android:label
+		ADDED from C:\Users\ugitikansh\AndroidStudioProjects\Start7\app\src\main\AndroidManifest.xml:414:13-44
+	android:parentActivityName
+		ADDED from C:\Users\ugitikansh\AndroidStudioProjects\Start7\app\src\main\AndroidManifest.xml:415:13-77
+	android:theme
+		ADDED from C:\Users\ugitikansh\AndroidStudioProjects\Start7\app\src\main\AndroidManifest.xml:413:13-52
+	android:name
+		ADDED from C:\Users\ugitikansh\AndroidStudioProjects\Start7\app\src\main\AndroidManifest.xml:412:19-69
+activity#com.gitikansh.utkarsh.start7.patel
+ADDED from C:\Users\ugitikansh\AndroidStudioProjects\Start7\app\src\main\AndroidManifest.xml:427:9-439:20
+	android:label
+		ADDED from C:\Users\ugitikansh\AndroidStudioProjects\Start7\app\src\main\AndroidManifest.xml:429:13-44
+	android:parentActivityName
+		ADDED from C:\Users\ugitikansh\AndroidStudioProjects\Start7\app\src\main\AndroidManifest.xml:430:13-76
+	android:theme
+		ADDED from C:\Users\ugitikansh\AndroidStudioProjects\Start7\app\src\main\AndroidManifest.xml:428:13-52
+	android:name
+		ADDED from C:\Users\ugitikansh\AndroidStudioProjects\Start7\app\src\main\AndroidManifest.xml:427:19-68
+activity#com.gitikansh.utkarsh.start7.purbey
+ADDED from C:\Users\ugitikansh\AndroidStudioProjects\Start7\app\src\main\AndroidManifest.xml:442:5-454:16
+	android:label
+		ADDED from C:\Users\ugitikansh\AndroidStudioProjects\Start7\app\src\main\AndroidManifest.xml:443:9-40
+	android:parentActivityName
+		ADDED from C:\Users\ugitikansh\AndroidStudioProjects\Start7\app\src\main\AndroidManifest.xml:445:9-73
+	android:theme
+		ADDED from C:\Users\ugitikansh\AndroidStudioProjects\Start7\app\src\main\AndroidManifest.xml:444:9-48
+	android:name
+		ADDED from C:\Users\ugitikansh\AndroidStudioProjects\Start7\app\src\main\AndroidManifest.xml:442:15-65
+activity#com.gitikansh.utkarsh.start7.rajesh
+ADDED from C:\Users\ugitikansh\AndroidStudioProjects\Start7\app\src\main\AndroidManifest.xml:456:5-468:16
+	android:label
+		ADDED from C:\Users\ugitikansh\AndroidStudioProjects\Start7\app\src\main\AndroidManifest.xml:457:9-40
+	android:parentActivityName
+		ADDED from C:\Users\ugitikansh\AndroidStudioProjects\Start7\app\src\main\AndroidManifest.xml:459:9-73
+	android:theme
+		ADDED from C:\Users\ugitikansh\AndroidStudioProjects\Start7\app\src\main\AndroidManifest.xml:458:9-48
+	android:name
+		ADDED from C:\Users\ugitikansh\AndroidStudioProjects\Start7\app\src\main\AndroidManifest.xml:456:15-65
+activity#com.gitikansh.utkarsh.start7.sanjay
+ADDED from C:\Users\ugitikansh\AndroidStudioProjects\Start7\app\src\main\AndroidManifest.xml:470:5-482:16
+	android:label
+		ADDED from C:\Users\ugitikansh\AndroidStudioProjects\Start7\app\src\main\AndroidManifest.xml:472:9-40
+	android:parentActivityName
+		ADDED from C:\Users\ugitikansh\AndroidStudioProjects\Start7\app\src\main\AndroidManifest.xml:473:9-73
+	android:theme
+		ADDED from C:\Users\ugitikansh\AndroidStudioProjects\Start7\app\src\main\AndroidManifest.xml:471:9-48
+	android:name
+		ADDED from C:\Users\ugitikansh\AndroidStudioProjects\Start7\app\src\main\AndroidManifest.xml:470:15-65
+activity#com.gitikansh.utkarsh.start7.litchi
+ADDED from C:\Users\ugitikansh\AndroidStudioProjects\Start7\app\src\main\AndroidManifest.xml:484:9-496:20
+	android:label
+		ADDED from C:\Users\ugitikansh\AndroidStudioProjects\Start7\app\src\main\AndroidManifest.xml:486:13-46
+	android:parentActivityName
+		ADDED from C:\Users\ugitikansh\AndroidStudioProjects\Start7\app\src\main\AndroidManifest.xml:487:13-77
+	android:theme
+		ADDED from C:\Users\ugitikansh\AndroidStudioProjects\Start7\app\src\main\AndroidManifest.xml:485:13-52
+	android:name
+		ADDED from C:\Users\ugitikansh\AndroidStudioProjects\Start7\app\src\main\AndroidManifest.xml:484:19-69
+activity#com.gitikansh.utkarsh.start7.swati
+ADDED from C:\Users\ugitikansh\AndroidStudioProjects\Start7\app\src\main\AndroidManifest.xml:498:5-510:16
+	android:label
+		ADDED from C:\Users\ugitikansh\AndroidStudioProjects\Start7\app\src\main\AndroidManifest.xml:499:9-40
+	android:parentActivityName
+		ADDED from C:\Users\ugitikansh\AndroidStudioProjects\Start7\app\src\main\AndroidManifest.xml:501:9-72
+	android:theme
+		ADDED from C:\Users\ugitikansh\AndroidStudioProjects\Start7\app\src\main\AndroidManifest.xml:500:9-48
+	android:name
+		ADDED from C:\Users\ugitikansh\AndroidStudioProjects\Start7\app\src\main\AndroidManifest.xml:498:15-64
+activity#com.gitikansh.utkarsh.start7.vinod
+ADDED from C:\Users\ugitikansh\AndroidStudioProjects\Start7\app\src\main\AndroidManifest.xml:512:5-524:16
+	android:label
+		ADDED from C:\Users\ugitikansh\AndroidStudioProjects\Start7\app\src\main\AndroidManifest.xml:513:9-40
+	android:parentActivityName
+		ADDED from C:\Users\ugitikansh\AndroidStudioProjects\Start7\app\src\main\AndroidManifest.xml:515:9-72
+	android:theme
+		ADDED from C:\Users\ugitikansh\AndroidStudioProjects\Start7\app\src\main\AndroidManifest.xml:514:9-48
+	android:name
+		ADDED from C:\Users\ugitikansh\AndroidStudioProjects\Start7\app\src\main\AndroidManifest.xml:512:15-64
+activity#com.gitikansh.utkarsh.start7.books
+ADDED from C:\Users\ugitikansh\AndroidStudioProjects\Start7\app\src\main\AndroidManifest.xml:526:9-538:20
+	android:label
+		ADDED from C:\Users\ugitikansh\AndroidStudioProjects\Start7\app\src\main\AndroidManifest.xml:527:13-41
+	android:parentActivityName
+		ADDED from C:\Users\ugitikansh\AndroidStudioProjects\Start7\app\src\main\AndroidManifest.xml:529:13-76
+	android:theme
+		ADDED from C:\Users\ugitikansh\AndroidStudioProjects\Start7\app\src\main\AndroidManifest.xml:528:13-52
+	android:name
+		ADDED from C:\Users\ugitikansh\AndroidStudioProjects\Start7\app\src\main\AndroidManifest.xml:526:19-68
+activity#com.gitikansh.utkarsh.start7.pests
+ADDED from C:\Users\ugitikansh\AndroidStudioProjects\Start7\app\src\main\AndroidManifest.xml:540:9-552:20
+	android:label
+		ADDED from C:\Users\ugitikansh\AndroidStudioProjects\Start7\app\src\main\AndroidManifest.xml:541:13-70
+	android:parentActivityName
+		ADDED from C:\Users\ugitikansh\AndroidStudioProjects\Start7\app\src\main\AndroidManifest.xml:543:13-76
+	android:theme
+		ADDED from C:\Users\ugitikansh\AndroidStudioProjects\Start7\app\src\main\AndroidManifest.xml:542:13-52
+	android:name
+		ADDED from C:\Users\ugitikansh\AndroidStudioProjects\Start7\app\src\main\AndroidManifest.xml:540:19-68
+uses-sdk
+INJECTED from C:\Users\ugitikansh\AndroidStudioProjects\Start7\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:design:26.0.0] C:\Users\ugitikansh\.android\build-cache\0ef10220eee2f02e1bec46cc84ae7c25447aed9b\output\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:multidex:1.0.1] C:\Users\ugitikansh\.android\build-cache\7cbe806f21f713604bc0efc1b996c298aaa42b7e\output\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:recyclerview-v7:26.0.0] C:\Users\ugitikansh\.android\build-cache\c2cd4978dcb8673eeadd3d29e331ab865dbae542\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:26.0.0] C:\Users\ugitikansh\.android\build-cache\eae0a4051007b1708f139c907c49510155b61a00\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\ugitikansh\.android\build-cache\6c06d07a291b19c11709f27f1ed8914ed05669cc\output\AndroidManifest.xml:5:5-7:41
+MERGED from [me.relex:circleindicator:1.2.2] C:\Users\ugitikansh\.android\build-cache\6cf9d525882947e277672e5a333a17cf64bffe9f\output\AndroidManifest.xml:8:5-10:41
+MERGED from [com.borjabravo:readmoretextview:2.0.1] C:\Users\ugitikansh\.android\build-cache\84e3961d4dd6494b32d33cf2a0a127f6e9ee8bda\output\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:26.0.0] C:\Users\ugitikansh\.android\build-cache\10249a1105a05fdbe6e0a661b381745c2e66dbed\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:26.0.0] C:\Users\ugitikansh\.android\build-cache\3164b85d320becde9ca5be01e939385efa570f07\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.0.0] C:\Users\ugitikansh\.android\build-cache\eb637f709a60ca818e12a0da83a8929f300ed797\output\AndroidManifest.xml:20:5-44
+MERGED from [com.github.barteksc:android-pdf-viewer:2.0.3] C:\Users\ugitikansh\.android\build-cache\111ba42e8adffe4edd45a752ca0f6c281a4dc845\output\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.barteksc:pdfium-android:1.4.0] C:\Users\ugitikansh\.android\build-cache\790c871c12af3a31141633cf2e86940f23b156f1\output\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:support-v4:26.0.0] C:\Users\ugitikansh\.android\build-cache\3f690ae1bc21cc5e10d3f189786cb5deb2281c7e\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.0.0] C:\Users\ugitikansh\.android\build-cache\1f9ff3f89c388f88a755bd1803a3600dbefed0bd\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.0.0] C:\Users\ugitikansh\.android\build-cache\8dde44e43aa07eb85dccbc2cc56e277fddd6234d\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-ui:26.0.0] C:\Users\ugitikansh\.android\build-cache\c50948edebda794ba46be5df24ee24f0bb154023\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:26.0.0] C:\Users\ugitikansh\.android\build-cache\e89fa80af8d7216ec51965caa0b3db61b04abdd7\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:26.0.0] C:\Users\ugitikansh\.android\build-cache\96cac14f918607da0c8d95459d137b2d1737d3bc\output\AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:26.0.0] C:\Users\ugitikansh\.android\build-cache\0ef10220eee2f02e1bec46cc84ae7c25447aed9b\output\AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from C:\Users\ugitikansh\AndroidStudioProjects\Start7\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\ugitikansh\AndroidStudioProjects\Start7\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\ugitikansh\AndroidStudioProjects\Start7\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\ugitikansh\AndroidStudioProjects\Start7\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:26.0.0] C:\Users\ugitikansh\.android\build-cache\0ef10220eee2f02e1bec46cc84ae7c25447aed9b\output\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:recyclerview-v7:26.0.0] C:\Users\ugitikansh\.android\build-cache\c2cd4978dcb8673eeadd3d29e331ab865dbae542\output\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:transition:26.0.0] C:\Users\ugitikansh\.android\build-cache\eae0a4051007b1708f139c907c49510155b61a00\output\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:appcompat-v7:26.0.0] C:\Users\ugitikansh\.android\build-cache\10249a1105a05fdbe6e0a661b381745c2e66dbed\output\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:animated-vector-drawable:26.0.0] C:\Users\ugitikansh\.android\build-cache\3164b85d320becde9ca5be01e939385efa570f07\output\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.0.0] C:\Users\ugitikansh\.android\build-cache\eb637f709a60ca818e12a0da83a8929f300ed797\output\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-v4:26.0.0] C:\Users\ugitikansh\.android\build-cache\3f690ae1bc21cc5e10d3f189786cb5deb2281c7e\output\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.0.0] C:\Users\ugitikansh\.android\build-cache\1f9ff3f89c388f88a755bd1803a3600dbefed0bd\output\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.0.0] C:\Users\ugitikansh\.android\build-cache\8dde44e43aa07eb85dccbc2cc56e277fddd6234d\output\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.0.0] C:\Users\ugitikansh\.android\build-cache\c50948edebda794ba46be5df24ee24f0bb154023\output\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.0.0] C:\Users\ugitikansh\.android\build-cache\e89fa80af8d7216ec51965caa0b3db61b04abdd7\output\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.0.0] C:\Users\ugitikansh\.android\build-cache\96cac14f918607da0c8d95459d137b2d1737d3bc\output\AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:design:26.0.0] C:\Users\ugitikansh\.android\build-cache\0ef10220eee2f02e1bec46cc84ae7c25447aed9b\output\AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:design:26.0.0] C:\Users\ugitikansh\.android\build-cache\0ef10220eee2f02e1bec46cc84ae7c25447aed9b\output\AndroidManifest.xml:27:13-51

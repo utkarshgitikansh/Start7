@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent" android:layout_height="match_parent"
+    android:background="@color/white">
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <ImageView
+            android:layout_width="150dp"
+            android:layout_height="150dp"
+            android:src="@drawable/bulletein_01"
+            android:padding="10dp"/>
+
+        <TextView
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            android:layout_marginLeft="180dp"
+            android:layout_marginRight="10dp"
+            android:layout_marginTop="30dp"
+            android:text="गोरख सिंह
+विशाल नाथ
+राजेश कुमार
+अमरेन्द्र कुमार"
+            android:textColor="#000000"
+            android:textStyle="bold"
+            />
+        <TextView
+            android:layout_height="wrap_content"
+            android:layout_width="200dp"
+            android:layout_marginLeft="180dp"
+            android:layout_marginRight="10dp"
+            android:layout_marginTop="105dp"
+            android:text="@string/pdf"
+            android:textColor="#000000"
+            android:id="@+id/b1"
+            android:fontFamily="sans-serif-smallcaps"
+            />
+
+        <ImageView
+            android:layout_width="150dp"
+            android:layout_height="150dp"
+            android:layout_marginTop="150dp"
+            android:src="@drawable/bulletein_02"
+            android:padding="10dp"
+            android:id="@+id/imageView2" />
+
+        <TextView
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            android:layout_marginLeft="180dp"
+            android:layout_marginRight="10dp"
+            android:layout_marginTop="180dp"
+            android:text="विनोद कुमार
+अमरेन्द्र कुमार
+विशाल नाथ"
+            android:textColor="#000000"
+            android:textStyle="bold"
+            />
+        <TextView
+            android:layout_height="wrap_content"
+            android:layout_width="200dp"
+            android:layout_marginLeft="180dp"
+            android:layout_marginRight="10dp"
+            android:layout_marginTop="240dp"
+            android:text="@string/pdf"
+            android:textColor="#000000"
+            android:id="@+id/b2"
+            android:fontFamily="sans-serif-smallcaps"
+            />
+
+        <ImageView
+            android:layout_width="150dp"
+            android:layout_height="150dp"
+            android:layout_marginTop="300dp"
+            android:src="@drawable/bulletein_03"
+            android:padding="10dp"/>
+
+        <TextView
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            android:text="गोरख सिंह
+विशाल नाथ
+संजय कुमार सिंह
+सुशील कुमार पूर्वे
+राम कृष्ण पाल
+"
+            android:textColor="#000000"
+            android:textStyle="bold"
+            android:layout_marginTop="315dp"
+            android:layout_marginLeft="180dp"/>
+        <TextView
+            android:layout_height="wrap_content"
+            android:layout_width="200dp"
+            android:layout_marginLeft="180dp"
+            android:layout_marginRight="10dp"
+            android:layout_marginTop="410dp"
+            android:text="@string/pdf"
+            android:textColor="#000000"
+            android:fontFamily="sans-serif-smallcaps"
+            android:id="@+id/b3"/>
+
+        <ImageView
+            android:layout_width="150dp"
+            android:layout_height="150dp"
+            android:layout_marginTop="450dp"
+            android:src="@drawable/bulletein_04"
+            android:padding="10dp"/>
+
+        <TextView
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            android:layout_marginLeft="180dp"
+            android:layout_marginRight="10dp"
+            android:layout_marginTop="490dp"
+            android:text="Rajesh Kumar"
+            android:textColor="#000000"
+            android:textStyle="bold"
+            />
+        <TextView
+            android:layout_height="wrap_content"
+            android:layout_width="200dp"
+            android:layout_marginLeft="180dp"
+            android:layout_marginRight="10dp"
+            android:layout_marginTop="530dp"
+            android:text="@string/pdf"
+            android:textColor="#000000"
+            android:id="@+id/b4"
+            android:fontFamily="sans-serif-smallcaps"
+            />
+
+        <ImageView
+            android:layout_width="150dp"
+            android:layout_height="150dp"
+            android:layout_marginTop="600dp"
+            android:src="@drawable/bulletein_05"
+            android:padding="10dp"/>
+
+        <TextView
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            android:layout_marginLeft="180dp"
+            android:layout_marginRight="10dp"
+            android:layout_marginTop="620dp"
+            android:text="Gorakh Singh
+Vishal Nath
+S.D. Pandey
+P.K.
+Ray
+"
+            android:textColor="#000000"
+            android:textStyle="bold"
+            />
+        <TextView
+            android:layout_height="wrap_content"
+            android:layout_width="200dp"
+            android:layout_marginLeft="180dp"
+            android:layout_marginRight="10dp"
+            android:layout_marginTop="710dp"
+            android:text="@string/pdf"
+            android:textColor="#000000"
+            android:fontFamily="sans-serif-smallcaps"
+            android:id="@+id/b5"
+            />
+
+        <ImageView
+            android:layout_width="150dp"
+            android:layout_height="150dp"
+            android:layout_marginTop="750dp"
+            android:src="@drawable/bulletein_06"
+            android:padding="10dp"/>
+
+        <TextView
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            android:layout_marginLeft="180dp"
+            android:layout_marginRight="10dp"
+            android:layout_marginTop="780dp"
+            android:text="Sanjay Kumar Singh
+Kuldep Srivasatava
+Narayan Lal
+Vishal Nath"
+            android:textColor="#000000"
+            android:textStyle="bold"
+            />
+        <TextView
+            android:layout_height="wrap_content"
+            android:layout_width="200dp"
+            android:layout_marginLeft="180dp"
+            android:layout_marginRight="10dp"
+            android:layout_marginTop="850dp"
+            android:text="@string/pdf"
+            android:textColor="#000000"
+            android:fontFamily="sans-serif-smallcaps"
+            android:id="@+id/b6"
+            />
+
+        <ImageView
+            android:layout_width="150dp"
+            android:layout_height="150dp"
+            android:layout_marginTop="900dp"
+            android:src="@drawable/bulletein_07"
+            android:padding="10dp"/>
+
+        <TextView
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            android:layout_marginLeft="180dp"
+            android:layout_marginRight="10dp"
+            android:layout_marginTop="940dp"
+            android:text="Awtar Singh
+S.D. Pandey
+Vishal Nath"
+            android:textColor="#000000"
+            android:textStyle="bold"
+            />
+        <TextView
+            android:layout_height="wrap_content"
+            android:layout_width="200dp"
+            android:layout_marginLeft="180dp"
+            android:layout_marginRight="10dp"
+            android:layout_marginTop="995dp"
+            android:text="@string/pdf"
+            android:fontFamily="sans-serif-smallcaps"
+            android:textColor="#000000"
+            android:id="@+id/b7"
+            />
+
+
+    </RelativeLayout>
+
+</ScrollView>

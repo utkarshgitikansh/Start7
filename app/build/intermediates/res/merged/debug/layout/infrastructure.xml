@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="#00322d"
+    >
+<RelativeLayout
+    android:layout_width="match_parent"
+    android:layout_height="900dp">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Genetic Resource Management and Crop Improvement"
+        android:layout_margin="20dp"
+        android:textColor="@color/white"
+        android:id="@+id/text11"/>
+
+    <ImageView
+        android:layout_width="360dp"
+        android:layout_height="240dp"
+        android:src="@drawable/organo_1"
+        android:layout_centerHorizontal="true"
+        android:layout_below="@+id/text11"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Crop Production"
+        android:layout_marginTop="300dp"
+        android:layout_marginLeft="20dp"
+        android:textColor="@color/white"
+        android:id="@+id/text12"/>
+
+    <ImageView
+        android:layout_width="360dp"
+        android:layout_height="240dp"
+        android:src="@drawable/organo_2"
+        android:layout_centerHorizontal="true"
+        android:layout_below="@+id/text12"
+        android:id="@+id/imageView" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Crop Protection"
+        android:layout_marginTop="560dp"
+        android:layout_marginLeft="20dp"
+        android:textColor="@color/white"
+        android:id="@+id/text13"/>
+
+    <ImageView
+        android:layout_width="360dp"
+        android:layout_height="wrap_content"
+        android:src="@drawable/organo_3"
+        android:layout_marginTop="141dp"
+        android:layout_below="@+id/text12"
+        android:layout_alignLeft="@+id/imageView"
+        android:layout_alignStart="@+id/imageView" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Post-harvest Management and Value Addition"
+        android:layout_marginTop="900dp"
+        android:layout_marginLeft="20dp"
+        android:textColor="@color/white"
+        android:id="@+id/text14"/>
+
+    <ImageView
+        android:layout_width="360dp"
+        android:layout_height="400dp"
+        android:src="@drawable/organo_4"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="960dp"
+        />
+
+</RelativeLayout>
+    </ScrollView>
